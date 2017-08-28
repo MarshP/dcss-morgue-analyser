@@ -1,5 +1,5 @@
 # DCSS_Morgue_Analysis
-A Python program to analyse your DCSS morgue folder, collate metrics, spot patterns and give hints.
+A Python program to analyse your [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) morgue folder, collate metrics, spot patterns and give hints.
 
 **Disclaimer:** If you're here for a useful tool, best turn back now. I'm doing this to help me learn Python; it won't be in any way useful for a long time. Then I'll remove this note.
 
