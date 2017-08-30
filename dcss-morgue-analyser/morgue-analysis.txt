@@ -1,0 +1,1 @@
+This string is in a variable to be replaced by meaningful program output later.
