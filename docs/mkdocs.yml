@@ -1,0 +1,9 @@
+site_name: DCSS Morgue Analyser
+pages:
+  - Home: index.md
+  - Psuedo: pseudo.md
+theme: readthedocs
+docs_dir: ./markdown
+site_dir: ./site
+markdown_extensions:
+  - extra
