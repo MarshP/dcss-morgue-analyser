@@ -1,8 +1,9 @@
 site_name: DCSS Morgue Analyser
+repo_url: https://github.com/MarshP/dcss-morgue-analyser
+edit_uri: edit/master/docs/
 pages:
   - Home: index.md
   - Quick-Start: quick-start.md
 theme: windmill
-docs_dir: ./markdown
 markdown_extensions:
   - extra
