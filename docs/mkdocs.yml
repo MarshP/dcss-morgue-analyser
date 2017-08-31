@@ -1,8 +1,0 @@
-site_name: DCSS Morgue Analyser
-pages:
-  - Home: index.md
-  - Quick-Start: quick-start.md
-theme: windmill
-docs_dir: ./markdown
-markdown_extensions:
-  - extra
