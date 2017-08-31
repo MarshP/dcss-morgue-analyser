@@ -4,6 +4,5 @@ pages:
   - Psuedo: pseudo.md
 theme: readthedocs
 docs_dir: ./markdown
-site_dir: ./site
 markdown_extensions:
   - extra
