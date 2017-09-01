@@ -1,4 +1,5 @@
-import sys, os, logging, glob, fnmatch
+import sys, os, logging, glob, fnmatch, re
+from data_collection_functions import *
 
 # TODO Learn to use a debugger. Begin to use it in the dev process.
 
@@ -21,14 +22,27 @@ start_logging()
 # TODO read the files in cwd ending in .txt into some sorta concatenated buffer or even a new, big, file
 
 def read_morgue_files(directory_path):
+    buffer = ''
+    # may need a rethink if memory issues
     for filename in os.listdir(directory_path):
-    # change to '.' for cwd
         if fnmatch.fnmatch(filename, '*.txt'):
-            print(filename)
-            # replace with open, read-append, close
+            WorkingFile = open((directory_path+'\\'+filename),'r')
+            buffer = WorkingFile.read()
+            # calls to stat collection fns go here
+            collect_data(buffer)
+            # WOuld one big fn be better? Pass the buffer once? But not as modular.
+            WorkingFile.close()
+
+
 
 read_morgue_files('..\\tests\\test-data')
 # change to '.' for cwd after testing
+
+
+
+# TODO A fn for each regex so they can be modularly added
+
+
 
 
 # ContentToParse = open(os.path.relpath(
