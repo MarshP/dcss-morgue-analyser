@@ -1,37 +1,56 @@
-import sys, os, logging
+import sys, os, logging, glob, fnmatch
 
-LOG_FORMAT = "%(levelname)s - %(message)s - %(asctime)s"
-logging.basicConfig(filename=".\\morgue-analyser.log",
-                    level=logging.DEBUG,
-                    format=LOG_FORMAT,
-                    filemode='w')
-logger = logging.getLogger()
+# TODO Learn to use a debugger. Begin to use it in the dev process.
 
-# TODO in future change the cwd to that given in the cl args. If that cannot be done put a meaningful message to output.
-# (sys.argv[1:])
+# TODO Learn more on logging best practice. Decide how to log the application and whether to use separate modules.
+# Logging module?
+import logging
 
-argument_1 = str(sys.argv[1:])
-print("Argument 1: ",argument_1)
-print("Argument 1 is a ",type(argument_1))
-os.chdir(argument_1)
-# print ("Current working dir: %s" % os.getcwd())
+def start_logging():
+    LOG_FORMAT = "%(levelname)s - %(message)s - %(asctime)s"
+    logging.basicConfig(filename=".\\morgue-analyser.log",
+                        level=logging.DEBUG,
+                        format=LOG_FORMAT,
+                        filemode='w')
+    logger = logging.getLogger()
 
-# TODO read the files in cwd ending in .txt into some sorta buffer
+start_logging()
 
-# TODO parse the files and report
+# TODO Learn to make and run tests, and do so once we have some functions
+
+# TODO read the files in cwd ending in .txt into some sorta concatenated buffer or even a new, big, file
+
+def read_morgue_files(directory_path):
+    for filename in os.listdir(directory_path):
+    # change to '.' for cwd
+        if fnmatch.fnmatch(filename, '*.txt'):
+            print(filename)
+            # replace with open, read-append, close
+
+read_morgue_files('..\\tests\\test-data')
+# change to '.' for cwd after testing
+
+
+# ContentToParse = open(os.path.relpath(
+#     file_path))
+# print(ContentToParse.readlines())
+# content_to_parse = open(os.path.relpath(,).\\.\\tests\\test-data\\morgue-Mash-20170822-155351.txt)
+
+
+# TODO parse the files against searched terms and report
 
 # TODO write to an output file in the morgue - write logs and program output.
 
-output_variable = "This string is in a variable to be replaced by meaningful program output later."
-results_file = open(".\\morgue-analysis.txt", 'w')
-logger.info("Opened output for writing")
-results_file.write(output_variable)
-# TODO handle cannot male or write errors - permissions etc
-results_file.close()
-logger.info("Closed output file")
+#output_variable = "This string is in a variable to be replaced by meaningful program output later."
+#results_file = open(".\\morgue-analysis.log", 'w')  # later.txt or .md
+#logger.info("Opened output for writing")
+#results_file.write(output_variable)
+# TODO handle possible errors throughout. Cannot make file or write errors - permissions etc.
+#results_file.close()
+#logger.info("Closed output file")
 
-logger.debug("This is a test debug level log message")
-logger.info("This is a test info level log message")
-logger.warning("This is a test warning level log message")
-logger.error("This is a test error level log message")
-logger.critical("This is a test critical level log message")
+#logger.debug("This is a test debug level log message y")
+#logger.info("This is a test info level log message")
+#logger.warning("This is a test warning level log message")
+#logger.error("This is a test error level log message")
+#logger.critical("This is a test critical level log message")
