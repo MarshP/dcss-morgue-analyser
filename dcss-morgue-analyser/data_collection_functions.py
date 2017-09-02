@@ -3,8 +3,10 @@ import re
 def collect_data(buffer, directory_path):
     with open((directory_path + '\\' + 'dcssma-analysis.txt'), 'w') as myfile:
         myfile.write("# DCSS Morgue Analyser Output #\n\n"
+                     "***Open this file in a markdown-enabled reader for a prettier experience.***\n\n"
                      "**Note:** 'Average' means 'arithmetic mean' throughout.\n\n")
-    get_gold_stats(buffer, directory_path)
+    progress_stats(buffer, directory_path)
+    gold_stats(buffer, directory_path)
 
 # TODO How far does the player usually progress, in terms of dungeon exploration, time/turns played, XP/XL and skills?
 # TODO What usually kills the characters, and how, and where?
@@ -19,8 +21,80 @@ def collect_data(buffer, directory_path):
 # TODO Later convert all this to some NLP or parsing library made for the job
 
 
+def progress_stats(buffer, directory_path):
+    count_games = 0
+    xl_at_death_sum = 0
+    xl_at_death_avg = 0
+    branches_visited_sum = 0
+    branches_visited_avg = 0
+    lvls_seen_sum = 0
+    lvls_seen_avg = 0
+    main_dungeon_floors_sum = 0
+    main_dungeon_floors_avg = 0
+    runes_sum = 0
+    runes_avg = 0
 
-def get_gold_stats(buffer, directory_path):
+    count_games_regex = re.compile(r'(Began\sas\sa)')
+    count_games_matches = re.findall(count_games_regex, buffer)
+    # print(count_games_matches)
+    #for match in count_games_matches:
+    count_games += len(count_games_matches)
+    # print(count_games)
+
+    xl_at_death_regex = re.compile(r'(Str:(\s*)(\d+)(.+)XL:(\s*)(\d+))')
+    xl_at_death_matches = re.findall(xl_at_death_regex, buffer)
+    # print(xl_at_death_matches)
+    for match in xl_at_death_matches:
+        xl_at_death_sum += int(match[5])
+    xl_at_death_avg = xl_at_death_sum / len(xl_at_death_matches)
+    # print(xl_at_death_sum, xl_at_death_avg)
+
+    main_dungeon_regex = re.compile(r'(Dungeon\s\((\d+)/(\d+)\))')
+    main_dungeon_matches = re.findall(main_dungeon_regex, buffer)
+    print(main_dungeon_matches)
+    for match in main_dungeon_matches:
+        main_dungeon_floors_sum += int(match[1])
+    main_dungeon_floors_avg = main_dungeon_floors_sum / len(main_dungeon_matches)
+    print(main_dungeon_floors_sum, main_dungeon_floors_avg)
+
+    branches_regex = re.compile(r'(visited\s(\d+)\sbranches)')
+    branches_matches = re.findall(branches_regex, buffer)
+    # print(branches_matches)
+    for match in branches_matches:
+        branches_visited_sum += int(match[1])
+    branches_visited_avg = branches_visited_sum / len(branches_matches)
+    # print(branches_visited_sum, branches_visited_avg)
+
+    lvls_seen_regex = re.compile(r'(saw\s(\d+)\sof\sits\slevels)')
+    lvls_seen_matches = re.findall(lvls_seen_regex, buffer)
+    # print(lvls_seen_matches)
+    for match in lvls_seen_matches:
+        lvls_seen_sum += int(match[1])
+    lvls_seen_avg = lvls_seen_sum / len(lvls_seen_matches)
+    # print(lvls_seen_sum, lvls_seen_avg)
+    
+    runes_regex = re.compile(r'((\d+)/(\d+)\srunes:)')
+    runes_matches = re.findall(runes_regex, buffer)
+    print(runes_matches)
+    for match in runes_matches:
+        runes_sum += int(match[1])
+    runes_avg = runes_sum / len(runes_matches)
+    print(len(runes_matches), runes_sum, runes_avg)
+
+    with open((directory_path + '\\' + 'dcssma-analysis.txt'), 'a') as myfile:
+        myfile.writelines(["## Progress ##\n\n",
+                           "DCSSMA analysed " + str(count_games) + " morgue files (completed games). Here is your **average** progress:\n\n",
+                           "* Your average level (XL) at death was " + str(round(xl_at_death_avg,)) + "\n",
+                           "  * For reference, characters can be expected to survive banishment to the abyss more often than not from around XL 15\n",
+                           "  * For reference, in XP terms XL 22 is halfway to the maximum XL 27\n",
+                           "* You reached " + str(round(main_dungeon_floors_avg,)) + " floors of the main dungeon per game (out of 15)\n",
+                           "* You explored " + str(round(branches_visited_avg, )) + " dungeon branches per game\n",
+                           "* You explored " + str(round(lvls_seen_avg, )) + " levels overall per game (main dungeon, vaults and branches)\n\n",
+                           "### Runes ###\n\n",
+                           "You obtained at least a single rune on " + str(len(runes_matches))+ " ocassions, and averaged " + str(round(runes_avg,1)) + " runes per game\n\n"])
+
+
+def gold_stats(buffer, directory_path):
     gold_at_death_sum = 0
     gold_at_death_avg = 0
     gold_spent_sum = 0
@@ -40,29 +114,16 @@ def get_gold_stats(buffer, directory_path):
     gold_spent_avg = gold_spent_sum/len(gold_spent_matches)
 
     gold_spent_pc = (gold_spent_avg/(gold_spent_avg+gold_at_death_avg))*100
-    print("At death ",gold_at_death_sum, gold_at_death_avg)
-    print("Spent ", gold_spent_sum, gold_spent_avg)
-    print("%.0f" % gold_spent_pc+"%")
 
     with open((directory_path + '\\' + 'dcssma-analysis.txt'), 'a') as myfile:
         myfile.writelines(["## Gold ##\n\n",
-                           "Avg. gold at death: " + str(gold_at_death_avg)+"\n",
-                           "Avg. gold spent: " + str(gold_spent_avg) + "\n\n"
-                           "Gold only helps you win if you spend it.\nYou spent on average "+ str(round(gold_spent_pc,))+"% "+
+                           "Gold only helps you win if you spend it.\n\n"
+                           "* Avg. gold at death: " + str(round(gold_at_death_avg,)) + "\n",
+                           "* Avg. gold spent: " + str(round(gold_spent_avg,)) + "\n",
+                           "* You spent on average "+ str(round(gold_spent_pc,))+"% "+
                            "of the gold you collected.\n\n"])
 
-                     # "Avg. gold spent: ", gold_spent_avg, "\n")
-                     # "Gold only helps you win if you spend it. You spent on average ", gold_spent_pc, "%"
-                     # "of the gold you collect. You cannott take it with you.\n")
-                     #
 
-
-    # do someting meaningful later
-    # ANOTHER_THING
-    ##AnotherCountRegex = re.compile(r'Gold:(\s+)\d+')
-    ##another_match = AnotherCountRegex.search(buffer)
-    ##print('Another amount: ' + another_match.group())
-    # do someting meaningful later
 
 
 
