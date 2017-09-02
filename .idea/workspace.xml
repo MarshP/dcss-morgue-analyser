@@ -4,9 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aec2cd9-3701-442a-b8a7-523539ce828d" name="Default" comment="Updated the readme so e">
+    <list default="true" id="7aec2cd9-3701-442a-b8a7-523539ce828d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -378,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504317078548</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated the readme so the tool can actually be used.">
+      <created>1504390829392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1504390829392</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -481,7 +487,8 @@
     <MESSAGE value="Gold stats completed - an easy quick win." />
     <MESSAGE value="Progress stats completed (XL, dungeon levels seen, branches visited, runes obtained). Prtified the output for markdown." />
     <MESSAGE value="Interim commit to save work. No great changes. Begin to experiment (badly) with testing." />
-    <option name="LAST_COMMIT_MESSAGE" value="Interim commit to save work. No great changes. Begin to experiment (badly) with testing." />
+    <MESSAGE value="Updated the readme so the tool can actually be used." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the readme so the tool can actually be used." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
