@@ -1,0 +1,317 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+3686 Mash the Cleaver (level 9, -5/70 HPs)
+             Began as a Minotaur Fighter on Aug 25, 2017.
+             Was a High Priest of Okawaru.
+             Slain by a white ugly thing (34 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:23:25 (6493 turns).
+
+Mash the Cleaver (Minotaur Fighter)                 Turns: 6493, Time: 00:23:26
+
+Health: -5/70      AC: 14    Str: 27    XL:     9   Next: 90%
+Magic:  9/9        EV:  7    Int:  5    God:    Okawaru [*****.]
+Gold:   302        SH:  4    Dex:  9    Spells: 8/8 levels left
+
+rFire    . . .     SeeInvis .   a - +2 war axe
+rCold    . . .     Gourm    .   b - +0 buckler of Huqujuurgh {Str+2}
+rNeg     . . .     Faith    .   G - +0 plate armour (curse)
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+Regen    0.3/turn               (no ring)
+MPRegen  0.2/turn               t - ring of flight
+
+@: no status effects
+A: retaliatory headbutt, horns 2
+a: Heroism, Finesse, Renounce Religion, Evoke Flight
+
+
+You were on level 7 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 8 of its levels.
+
+You collected 302 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 war axe (weapon)
+Missiles
+ s - 5 tomahawks (quivered)
+Armour
+ b - the +0 buckler of Huqujuurgh (worn) {Str+2}
+   (You found it on level 6 of the Dungeon)   
+   
+   It affects your strength (+2).
+ y - a +0 pair of boots
+ G - a cursed +0 plate armour (worn)
+Jewellery
+ r - an uncursed ring of teleportation
+ t - a ring of flight (right hand)
+Wands
+ i - a wand of disintegration (5/24)
+ q - a wand of paralysis (2/24)
+ B - a wand of iceblast (7/15)
+ I - a wand of confusion (9/48)
+Scrolls
+ e - a scroll of blinking
+ m - 3 scrolls of fear
+ v - a scroll of enchant armour {unknown}
+ w - a scroll of magic mapping
+ A - 2 scrolls of remove curse
+ D - a scroll of recharging {unknown}
+ E - a scroll of noise {unknown}
+Potions
+ g - a potion of might
+ h - 2 potions of magic
+ j - a potion of cancellation
+ k - 2 potions of flight
+ p - 5 potions of lignification
+ u - a potion of haste
+ x - 2 potions of brilliance
+Books
+ c - a book of Necromancy   
+   
+    Spells                             Type                      Level
+    a - Pain                         Necromancy                    1
+    b - Animate Skeleton             Necromancy                    1
+    c - Vampiric Draining            Necromancy                    3
+    d - Regeneration                 Charms/Necromancy             3
+    e - Animate Dead                 Necromancy                    4
+    f - Control Undead               Necromancy                    4
+ d - a book of Maledictions   
+   
+    Spells                             Type                      Level
+    a - Corona                       Hexes                         1
+    b - Ensorcelled Hibernation      Hexes/Ice                     2
+    c - Confuse                      Hexes                         3
+    d - Tukima's Dance               Hexes                         3
+    e - Dazzling Spray               Conjuration/Hexes             3
+ z - a book of Debilitation   
+   
+    Spells                             Type                      Level
+    a - Corona                       Hexes                         1
+    b - Slow                         Hexes                         2
+    c - Inner Flame                  Hexes/Fire                    3
+    d - Portal Projectile            Hexes/Translocation           3
+    e - Cause Fear                   Hexes                         4
+    f - Leda's Liquefaction          Hexes/Earth                   4
+Comestibles
+ f - 7 bread rations
+ n - 6 meat rations
+ F - 4 royal jellies
+
+
+   Skills:
+ - Level 3.6 Fighting
+ - Level 13.0 Axes
+ * Level 10.8 Armour
+ - Level 3.6 Shields
+ - Level 1.9 Invocations
+
+
+You had 8 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (0/1) D:5         
+  Lair: D:8-11      
+
+Altars:
+Elyvilon
+Kikubaaqudgha
+Okawaru
+Yredelemnul
+The Shining One
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Evoking this partially-identified wand wasted a few charges.
+Aiming: Disintegrate (will waste charges)
+Press: ? - help, Shift-Dir - straight line, f/p - white ugly thing
+Aim: a white ugly thing (moderately wounded, chance to defeat MR: 48%)
+The white ugly thing is blasted.
+Evoking this partially-identified wand wasted a few charges.
+Your plate armour prevents you from hitting the white ugly thing.
+The white ugly thing is heavily wounded.
+You block the white ugly thing's attack.
+You closely miss the white ugly thing.
+You headbutt the white ugly thing, but do no damage.
+The white ugly thing is heavily wounded.
+The white ugly thing tail-slaps you. The white ugly thing freezes you!!
+You slice the white ugly thing!!
+Your headbutt misses the white ugly thing.
+The white ugly thing is severely wounded.
+The white ugly thing tail-slaps you!
+* * * LOW HITPOINT WARNING * * *
+The white ugly thing freezes you!!
+You die...
+
+       ########
+       #......#
+       #......#
+       #......#
+       #......#
+       #......##############
+ ########'##................
+ #....#....'................
+ #....#....#........@u......
+ #....#....#.......................
+ ##'###..###...)..................
+ #...###'#......###########......#
+ #.......#........#       #......#
+ #.......#......#.#       #......#
+ #.......#†####...###     #......#
+ #.......#†#  ###...###   #......#
+##########.#    ###...#####......#
+#..........#      ###....##......#
+#..........#    u#######.........#
+#..........#    Z.....'###.......#
+#..........#         ##..###.....#
+
+
+You could see a white ugly thing.
+
+Vanquished Creatures
+  A hornet (D:7)
+  A troll (D:7)
+  A hippogriff (D:7)
+  A yak (D:7)
+  4 hogs
+  A human (D:7)
+  Duvessa (D:4)
+  2 orc warriors
+  An ice beast (D:6)
+  2 sky beasts
+  A necrophage (D:5)
+  A phantom (D:7)
+  2 centaurs
+  2 ogres
+  2 bullfrogs
+  2 big kobolds (D:7)
+  A gnoll sergeant (D:7)
+  Dowan (D:4)
+  6 killer bees (D:7)
+  A crimson imp (D:7)
+  2 bullfrog zombies
+  2 orc priests (D:6)
+  A jelly (D:7)
+  An orc wizard (D:4)
+  An iguana (D:7)
+  A worker ant (D:4)
+  2 worker ant zombies
+  8 gnolls
+  5 adders
+  A shadow imp (D:5)
+  2 worms (D:2)
+  2 dart slugs
+  4 leopard geckos
+  12 orcs
+  10 bats
+  8 giant cockroaches
+  17 goblins
+  7 hobgoblins
+  6 jackals
+  A quokka (D:7)
+  3 ball pythons
+  3 frilled lizards
+  A jackal zombie (D:5)
+  8 kobolds
+  8 rats
+150 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    68 | D:1      | Reached skill level 3 in Axes
+    87 | D:1      | Reached XP level 2. HP: 25/26 MP: 1/1
+   320 | D:1      | Reached skill level 4 in Axes
+   478 | D:1      | Reached XP level 3. HP: 29/31 MP: 2/2
+   732 | D:2      | Reached skill level 5 in Axes
+   741 | D:2      | Reached XP level 4. HP: 12/39 MP: 3/3
+  1322 | D:2      | Reached skill level 6 in Axes
+  1773 | D:3      | Reached XP level 5. HP: 45/45 MP: 4/4
+  1894 | D:3      | Found a glowing golden altar of the Shining One.
+  2226 | D:3      | Found an iron altar of Okawaru.
+  2226 | D:3      | Found an ancient bone altar of Kikubaaqudgha.
+  2239 | D:3      | Became a worshipper of Warmaster Okawaru
+  2317 | D:4      | Found a basalt altar of Yredelemnul.
+  2609 | D:4      | Noticed an ogre
+  2779 | D:4      | Noticed Duvessa
+  2779 | D:4      | Noticed Dowan
+  2785 | D:4      | Killed Duvessa
+  2785 | D:4      | Reached skill level 7 in Axes
+  2785 | D:4      | Reached XP level 6. HP: 48/51 MP: 5/5
+  2787 | D:4      | Killed Dowan
+  2787 | D:4      | Reached skill level 8 in Axes
+  3143 | D:4      | Reached * piety under Okawaru
+  3143 | D:4      | Reached skill level 9 in Axes
+  3218 | D:5      | Entered Level 5 of the Dungeon
+  3421 | D:5      | Reached XP level 7. HP: 43/57 MP: 6/6
+  3497 | D:5      | Found a white marble altar of Elyvilon.
+  3502 | D:5      | Reached skill level 1 in Invocations
+  4037 | D:5      | Found a staircase to the Ecumenical Temple.
+  4129 | D:6      | Reached ** piety under Okawaru
+  4129 | D:6      | Reached skill level 10 in Axes
+  4360 | D:6      | Reached XP level 8. HP: 38/64 MP: 5/8
+  4530 | D:6      | Got an ichor-stained buckler
+  4541 | D:6      | Identified the +0 buckler of Huqujuurgh {Str+2} (You found it on level 6 of the Dungeon)
+  4828 | D:6      | Reached skill level 11 in Axes
+  4918 | D:7      | Reached *** piety under Okawaru
+  4918 | D:7      | Reached skill level 12 in Axes
+  5189 | D:7      | Reached skill level 13 in Axes
+  5239 | D:7      | Reached XP level 9. HP: 62/70 MP: 9/9
+  5314 | D:7      | Reached skill level 5 in Armour
+  5550 | D:7      | Noticed a white ugly thing
+  5569 | D:7      | Reached **** piety under Okawaru
+  5602 | D:7      | Noticed a troll
+  5612 | D:7      | Killed a troll
+  6201 | D:7      | Reached skill level 10 in Armour
+  6305 | D:7      | Reached ***** piety under Okawaru
+  6493 | D:7      | Slain by a white ugly thing
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Axes           |  3  4  5  6  7  9 10 13    | 13.0
+Invocations    |                    1       |  1.9
+Armour         |                    4    10 | 10.8
+Fighting       |                            |  3.6
+Shields        |                            |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: War axe           |    74 |   190 |   263 ||   527
+       Headbutt          |     8 |    20 |    56 ||    84
+Invok: Heroism           |       |       |     4 ||     4
+Evoke: Wand              |       |     2 |     8 ||    10
+  Use: Potion            |     1 |     1 |     5 ||     7
+       Scroll            |       |    13 |     5 ||    18
+ Stab: Paralysed         |       |     4 |       ||     4
+  Eat: Chunk             |       |     4 |     4 ||     8
+       Royal jelly       |       |     1 |       ||     1
+       Fruit             |       |     3 |     3 ||     6
+       Bread ration      |       |       |     1 ||     1
+Armor: Scale mail        |    43 |    36 |       ||    79
+       Chain mail        |       |    30 |    14 ||    44
+       Plate armour      |       |       |   115 ||   115
+Dodge: Dodged            |    22 |    36 |    54 ||   112
+Block: Shield            |    39 |    91 |    35 ||   165
+       Buckler           |       |       |    43 ||    43
+

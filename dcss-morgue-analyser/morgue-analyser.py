@@ -19,7 +19,7 @@ def start_logging():
 start_logging()
 
 
-# TODO Learn to make and run tests, and do so once we have some functions
+# TODO Learn to make and run test, and do so once we have some functions
 
 # TODO read the files in cwd ending in .txt into some sorta concatenated buffer or even a new, big, file
 
@@ -35,7 +35,7 @@ def join_morgue_files(directory_path):
     ConcatenatedMorgueFile.close()
 
 
-join_morgue_files('..\\tests\\test-data')
+join_morgue_files('..\\test\\test-data')
 
 
 # change to '.' for cwd after testing
@@ -50,7 +50,7 @@ def send_data_to_process(directory_path):
 
 # TODO fix encoding - results files are ansi
 
-send_data_to_process('..\\tests\\test-data')
+send_data_to_process('..\\test\\test-data')
 # change to '.' for cwd after testing
 
 # TODO A fn for each regex so they can be modularly added
@@ -58,7 +58,7 @@ send_data_to_process('..\\tests\\test-data')
 # ContentToParse = open(os.path.relpath(
 #     file_path))
 # print(ContentToParse.readlines())
-# content_to_parse = open(os.path.relpath(,).\\.\\tests\\test-data\\morgue-Mash-20170822-155351.txt)
+# content_to_parse = open(os.path.relpath(,).\\.\\test\\test-data\\morgue-Mash-20170822-155351.txt)
 
 # TODO parse the files against searched terms and report
 
