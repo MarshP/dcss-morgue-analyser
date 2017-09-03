@@ -1,5 +1,5 @@
 site_name: DCSS Morgue Analyser
-repo_url: https://github.com/MarshP/dcss-morgue-analyser
+repo_url: https://github.com/MarshP/dcss_morgue_analyser
 edit_uri: edit/master/docs/
 site_description: Analyse your DCSS morgue
 pages:

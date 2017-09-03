@@ -1,13 +1,14 @@
 import re
+import shutil
 
 def collect_data(buffer, directory_path):
     with open((directory_path + '\\' + 'dcssma-analysis.txt'), 'w') as myfile:
         myfile.write("# DCSS Morgue Analyser Output #\n\n"
-                     "***Open this file in a markdown-enabled reader for a prettier experience.***\n\n"
+                     "Open this file in a markdown-enabled reader for a prettier experience. A .md copy is provided in the same directory.\n\n"
                      "**Note:** 'Average' means 'arithmetic mean' throughout.\n\n")
     progress_stats(buffer, directory_path)
     gold_stats(buffer, directory_path)
-
+    shutil.copy((directory_path + '\\' + 'dcssma-analysis.txt'), (directory_path + '\\' + 'dcssma-analysis.md'))
 # TODO How far does the player usually progress, in terms of dungeon exploration, time/turns played, XP/XL and skills?
 # TODO What usually kills the characters, and how, and where?
 # TODO Are there avoidable issues? Including:
@@ -124,8 +125,9 @@ def gold_stats(buffer, directory_path):
                            "of the gold you collected.\n\n"])
 
 
+class TestClass:
+    def function_to_test(some_string):
+        return (some_string[::-1])
 
 
-
-
-
+print(TestClass.function_to_test('abcd'))

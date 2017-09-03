@@ -18,12 +18,12 @@ Contributor docs and discussions are in the [project wiki](https://github.com/Ma
 
 ### Quick start
 
-1. Ensure Python 3[(download)](https://www.python.org/downloads/) is installed
+1. Ensure Python 3 [(download)](https://www.python.org/downloads/) is installed
 2. Copy the files in the `dcss-morgue-analyser/` directory to your DCSS `crawl/morgue/` directory
   * On Windows look in `%AppData%` for the crawl directory
   * If you intend to analyse a subset of your morgue, such as characters of one species/profession, copy those files to a new directory and use that in place of the morgue
-3. In the morgue directory open a shell or command prompt:`$ Python ./morgue-analyser.py`
-4. Look for an output file called `dcssma-analysis.txt` this will look prettier if opened in a mardown-enabled reader.
+3. In the morgue directory open a shell or command prompt: `$ Python ./morgue-analyser.py`
+4. Look for an output file called `dcssma-analysis.txt`. This will look prettier if opened in a mardown-enabled reader.
 
 #### Issues and sugestions ####
 
