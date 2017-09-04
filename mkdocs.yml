@@ -6,7 +6,7 @@ pages:
   - Home: index.md
   - Quick-Start: quick-start.md
 theme: windmill
-docs_dir: ./docs-source
+docs_dir: ./docs_source
 site_dir: ./docs
 markdown_extensions:
   - extra
