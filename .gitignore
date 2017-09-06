@@ -3,12 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# dcssma
+*.log
+
 # C extensions
 *.so
-
-# DCSSMA
-*analysis.md
-*analysis.txt
 
 # IDEA
 workspace.xml
@@ -101,10 +100,7 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# mkdocs documentation
-/site
 
 # mypy
 .mypy_cache/
-test/test-data/dcssma-analysis.md
-test/test-data/dcssma-analysis.md
+.idea/workspace.xml

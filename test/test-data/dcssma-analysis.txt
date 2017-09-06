@@ -17,7 +17,9 @@ DCSSMA analysed 3 morgue files (completed games). Here is your **average** progr
 
 ### Runes ###
 
-You obtained at least a single rune on 2 ocassions, and averaged 2.5 runes per game
+You obtained at least a single rune on 2 ocassions; that's once every 1.5 games.
+
+You obtained three runes on 1 ocassions; that's once every 3.0 games.
 
 ## Gold ##
 
