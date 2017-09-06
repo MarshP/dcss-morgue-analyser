@@ -106,3 +106,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+test/test-data/dcssma-analysis.md
+test/test-data/dcssma-analysis.md
