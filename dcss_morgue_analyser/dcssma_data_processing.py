@@ -19,6 +19,8 @@ def process_data(buffer, directory_path):
                      "**Note:** 'Average' means 'arithmetic mean' throughout.\n\n")
     progress_stats(buffer, directory_path)
     gold_stats(buffer, directory_path)
+    killed_by(buffer, directory_path)
+    where_killed(buffer, directory_path)
     shutil.copy((directory_path + '\\' + 'dcssma-analysis.txt'), (directory_path + '\\' + 'dcssma-analysis.md'))
 
 # TODO What usually kills the characters, and how, and where?
@@ -51,6 +53,7 @@ def progress_stats(buffer, directory_path):
     # print(count_games_matches)
     # for match in count_games_matches:
     count_games += len(count_games_matches)
+    logger.info('Processed ' + str(count_games) + ' files.')
 
     xl_at_death_regex = re.compile(r'(Str:(\s*)(\d+)(.+)XL:(\s*)(\d+))')
     xl_at_death_matches = re.findall(xl_at_death_regex, buffer)
@@ -163,3 +166,30 @@ def gold_stats(buffer, directory_path):
                            "* Avg. gold spent: " + str(round(gold_spent_avg, )) + "\n",
                            "* You spent on average " + str(round(gold_spent_pc, )) + "% " +
                            "of the gold you collected.\n\n"])
+
+def killed_by(buffer, directory_path):
+    killed_by_strings = []
+    killed_by_regex = re.compile(r'(\n\s+)(Killed by\s|Slain by\s|Mangled by\s|Killed from afar by\s|Hit by\s|Succumbed to\s)(a\s|an\s|the\s|some\s)?(.+)')
+    killed_by_matches = re.findall(killed_by_regex, buffer)
+    for match in killed_by_matches:
+        killed_by_strings.append("* " + (match[3]).lower() + "\n")
+    logger.debug('Deaths found: ' + str(len(killed_by_strings)) + str(killed_by_strings))
+    deaths_string = ''.join(sorted(killed_by_strings))
+    with open((directory_path + '\\' + 'dcssma-analysis.txt'), 'a') as myfile:
+        myfile.writelines(["## Deaths ##\n\n",
+                           "You were killed by:\n\n"
+                           + deaths_string])
+
+
+def where_killed(buffer, directory_path):
+    where_killed_strings = []
+    where_killed_regex = re.compile(r'(\n\s+\.\.\.\s)((on level (\d+) of the\s)|(in\s(a\s|an\s|the\s)))(.+)')
+    where_killed_matches = re.findall(where_killed_regex, buffer)
+    for match in where_killed_matches:
+        where_killed_strings.append("* " + (match[6].lower()) + " " + (match[3].lower()) + "\n")
+    logger.debug('Where killed: ' + str(len(where_killed_strings)) + str(where_killed_strings))
+    death_loc_string = ''.join(sorted(where_killed_strings))
+    with open((directory_path + '\\' + 'dcssma-analysis.txt'), 'a') as myfile:
+        myfile.writelines(["### Where killed ###\n\n",
+                           "You were killed:\n\n"
+                           + death_loc_string])

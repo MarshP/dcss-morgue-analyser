@@ -105,3 +105,4 @@ ENV/
 .mypy_cache/
 .idea/workspace.xml
 test/test-data/dcssma-analysis.txt
+test/test-data/dcssma-analysis.txt
