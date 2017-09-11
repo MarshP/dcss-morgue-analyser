@@ -90,18 +90,29 @@ def progress_stats(buffer, directory_path):
     print(runes_matches)
     for match in runes_matches:
         runes_sum += int(match[1])
-    runes_avg = runes_sum / len(runes_matches)
-    games_per_rune = count_games/len(runes_matches)
-    print(len(runes_matches), runes_sum, runes_avg)
+
+    if (len(runes_matches) > 0):
+        runes_avg = runes_sum / len(runes_matches)
+        games_per_rune = count_games/len(runes_matches)
+        print(len(runes_matches), runes_sum, runes_avg)
+    else:
+        runes_avg = 0
+        games_per_rune = 0
+
 
     three_runes_regex = re.compile(r'((3)/(\d+)\srunes:)')
     three_runes_matches = re.findall(three_runes_regex, buffer)
     print(three_runes_matches)
     for match in three_runes_matches:
         three_runes_sum += int(match[1])
-    three_runes_avg = three_runes_sum / len(three_runes_matches)
-    games_per_three_rune = count_games / len(three_runes_matches)
-    print(len(three_runes_matches), three_runes_sum, three_runes_avg)
+
+    if (len(three_runes_matches)>0):
+        three_runes_avg = three_runes_sum / len(three_runes_matches)
+        games_per_three_rune = count_games / len(three_runes_matches)
+        print(len(three_runes_matches), three_runes_sum, three_runes_avg)
+    else:
+        three_runes_avg = 0
+        games_per_three_rune = 0
 
     with open((directory_path + '\\' + 'dcssma-analysis.txt'), 'a') as myfile:
         myfile.writelines(["## Progress ##\n\n",
@@ -152,4 +163,3 @@ def gold_stats(buffer, directory_path):
                            "* Avg. gold spent: " + str(round(gold_spent_avg, )) + "\n",
                            "* You spent on average " + str(round(gold_spent_pc, )) + "% " +
                            "of the gold you collected.\n\n"])
-
