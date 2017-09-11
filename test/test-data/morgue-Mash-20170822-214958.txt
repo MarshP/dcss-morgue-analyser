@@ -1,0 +1,186 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+54 Mash the Chopper (level 3, -9/31 HPs)
+             Began as a Minotaur Fighter on Aug 22, 2017.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (14 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:04:34 (2273 turns).
+
+Mash the Chopper (Minotaur Fighter)                 Turns: 2273, Time: 00:04:34
+
+Health: -9/31      AC:  6    Str: 21    XL:     3   Next: 66%
+Magic:  2/2        EV:  7    Int:  7    God:    
+Gold:   105        SH:  9    Dex:  9    Spells: 2/2 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             p - amulet of inaccuracy (curse)
+Regen    0.1/turn               o - +2 ring of intelligence
+MPRegen  0.1/turn               (no ring)
+
+@: no status effects
+A: retaliatory headbutt, horns 2
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 105 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Jewellery
+ o - a +2 ring of intelligence (left hand)
+ p - a cursed amulet of inaccuracy (around neck)
+Scrolls
+ h - a scroll of teleportation
+ i - a scroll of recharging
+ m - a scroll of enchant weapon {unknown}
+ n - a scroll of remove curse {unknown}
+ q - a scroll of enchant armour {unknown}
+Potions
+ d - 2 potions of might
+ e - a potion of curing
+ g - a potion of mutation {unknown}
+ j - a potion of resistance {unknown}
+ l - a potion of berserk rage {unknown}
+Comestibles
+ f - 2 bread rations
+
+
+   Skills:
+ - Level 3.6 Fighting
+ * Level 4.9 Axes
+ - Level 3.6 Armour
+ - Level 3.6 Shields
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Dithmenos
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+* * * LOW HITPOINT WARNING * * *
+You climb upwards.
+There is a stone staircase leading down here.
+You hit the orc. Your headbutt misses the orc.
+The orc is severely wounded.
+The orc completely misses you. The orc hits you.
+* * * LOW HITPOINT WARNING * * *
+You slash the orc!
+You kill the orc!
+You closely miss the orc priest. The orc priest hits you with a flail.
+* * * LOW HITPOINT WARNING * * *
+You hit the orc priest.
+The orc priest is moderately wounded.
+The orc priest hits you but does no damage.
+You completely miss the orc priest.
+The orc priest is moderately wounded.
+The orc priest hits you but does no damage.
+The orc priest mumbles some strange prayers to Beogh against you.
+Beogh smites you!
+You die...
+
+             #.# #.# #......#######
+             #.# #.# #......#.....#
+             #.# #.# #......##.##.#
+             #.# #.# #......##.##.#
+             #.###.###.....)##.##.#######
+             #.##...........+............
+             #.##.)###......##.##.#######
+             #.##........†...............
+             #....############.##.#######
+#######     ##.............#..)##.#######
+#.....#     #....>.......................
+###.#.#     #.....#o#.##..........#######
+  #.#.#     #.....#@#.##.#.#.######     #
+  #.#.#     #.....#.#.##.#.#.##         #
+  #.#.#     #.....#...........###########
+  #.#.#     #.....###.##.#.####..........
+  #.#.#    ##.....# #.##.#.#..#..#...#...
+  #.#.#  ###....#.###.##.#.#.##_.........
+  #.#.#  #......#...)<...#.#.##..#...#...
+  #.#.#  #......#####.####.#.##..........
+  #.#.#  #.................#.############
+  #.#.#  #.....#############.#.#
+  #.#.#  #...................#.#
+  #.#.#  #.....###############.#
+  #.#.#  #.....#            ##.#######
+
+
+You could see an orc priest.
+
+Vanquished Creatures
+  An adder (D:2)
+  A worm (D:2)
+  3 orcs
+  5 giant cockroaches
+  5 goblins
+  5 hobgoblins
+  2 quokkas (D:2)
+  3 bats
+  A frilled lizard (D:1)
+  5 kobolds
+  7 rats
+38 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   192 | D:1      | Reached skill level 3 in Axes
+   220 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   785 | D:2      | Reached skill level 4 in Axes
+  1053 | D:2      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1091 | D:2      | Found a shadowy altar of Dithmenos.
+  2273 | D:2      | Killed from afar by an orc priest
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Axes           |  3  4 |  4.9
+Fighting       |       |  3.6
+Armour         |       |  3.6
+Shields        |       |  3.6
+
+Action                   || total
+-------------------------++-------
+Melee: War axe           ||    98
+       Headbutt          ||    10
+  Use: Scroll            ||     4
+  Eat: Chunk             ||     2
+       Bread ration      ||     1
+Armor: Scale mail        ||    36
+Dodge: Dodged            ||    25
+Block: Shield            ||    52
+

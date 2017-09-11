@@ -1,0 +1,357 @@
+Mash
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 whip
+(11, 9, D:1)
+  a +0 whip
+(13, 6, D:1)
+  a +0 dagger
+  a +0 club
+(18, 24, D:1)
+  a +0 club
+(26, 9, D:1)
+  a +0 robe
+(36, 40, D:1)
+  a +0 club
+(37, 28, D:1)
+  a stone
+(38, 26, D:1)
+  a +0 club
+  3 stones
+(41, 5, D:1)
+  17 poisoned needles
+(46, 12, D:1)
+  11 sling bullets
+(47, 32, D:1)
+  a +0 whip
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 club
+(10, 0, D:2)
+  28 stones
+(11, 16, D:2)
+  a +0 club
+(11, 27, D:2)
+  a +0 club
+(16, -5, D:2)
+  a +0 mace
+(20, 5, D:2)
+  a +0 club
+(22, 19, D:2)
+  a +0 dagger
+(22, 21, D:2)
+  a +0 dagger
+(39, -5, D:2)
+  a stone
+(39, -4, D:2)
+  2 stones
+(42, -7, D:2)
+  a stone
+(43, -7, D:2)
+  a stone
+(45, -7, D:2)
+  a +0 short sword
+(47, -7, D:2)
+  a +0 mace
+
+Level 3 of the Dungeon
+(12, 10, D:3)
+  22 stones
+(14, 8, D:3)
+  a cursed -2 club
+(16, 8, D:3)
+  a cursed +0 dagger
+(25, 28, D:3)
+  a stone
+(26, -10, D:3)
+  a +0 chain mail
+(27, 3, D:3)
+  a +0 ring mail
+(28, -20, D:3)
+  a +0 club
+(29, 16, D:3)
+  a +0 short sword
+  a +0 leather armour
+  a +0 hand axe
+  a +0 scale mail
+(29, 17, D:3)
+  a cursed -3 hand axe
+  a +0 leather armour
+  a +0 dagger
+  a +0 dagger
+(30, -26, D:3)
+  7 javelins
+(34, 5, D:3)
+  14 arrows
+(40, 14, D:3)
+  18 stones
+(47, -8, D:3)
+  18 stones
+(56, -1, D:3)
+  a +0 hunting sling
+(57, 0, D:3)
+  6 stones
+(61, -11, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  the cursed +1 dagger of Ywnam {pierce, *Corrode +Blink +Fly rPois}
+    It inflicts extra damage upon your enemies.
+    
+    It protects you from poison.
+    It lets you fly.
+    It lets you blink.
+    It may corrode you when you take damage.
+    It has a curse placed upon it.
+(6, -4, D:4)
+  a +0 war axe
+(9, 4, D:4)
+  a +0 leather armour
+(15, -9, D:4)
+  a +0 dagger
+(39, -5, D:4)
+  a +0 ring mail
+(42, 22, D:4)
+  the +3 hat of Pondering {ponderous, MR+ MP+10 Int+5}
+    It affects your intelligence (+5).
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (+10).
+(44, -5, D:4)
+  a +0 dagger
+(49, 0, D:4)
+  27 bolts
+(52, 38, D:4)
+  a +0 shield
+(56, 35, D:4)
+  a +0 club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  21 arrows
+(2, 3, D:5)
+  a +0 ring mail
+  a +0 war axe
+  a +0 whip
+(3, -8, D:5)
+  18 arrows
+(9, 1, D:5)
+  a cursed +0 robe
+  a +1 dagger of venom
+(11, 0, D:5)
+  a +0 robe
+  (unseen)
+(20, -5, D:5)
+  18 sling bullets
+(22, -1, D:5)
+  a +0 mace
+(28, -4, D:5)
+  a +0 robe
+  a +0 dagger
+(34, 10, D:5)
+  6 curare-tipped needles
+(35, -13, D:5)
+  a +0 scale mail
+  a +0 flail
+  a +0 club
+  a +0 club
+  a +0 leather armour
+  a +0 trident
+  a +0 leather armour
+(40, -26, D:5)
+  a cursed +0 leather armour
+(49, -2, D:5)
+  17 arrows
+(51, 8, D:5)
+  a +0 leather armour
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 leather armour
+(2, -5, D:6)
+  a +0 dagger
+  a +0 robe
+(19, -20, D:6)
+  a +0 spear
+(19, -12, D:6)
+  13 stones
+(20, -15, D:6)
+  25 bolts
+(27, -20, D:6)
+  a +0 spear
+(34, 16, D:6)
+  25 arrows
+(35, -10, D:6)
+  a +0 scale mail
+  a +0 hand axe
+  a +0 leather armour
+  a +0 club
+  a +0 battleaxe
+(36, 1, D:6)
+  a +0 scale mail
+(36, 7, D:6)
+  a +0 ring mail
+(38, -7, D:6)
+  a +0 dagger
+
+Level 7 of the Dungeon
+(5, -32, D:7)
+  a +0 club
+(10, -28, D:7)
+  a +0 chain mail
+(11, -21, D:7)
+  an uncursed staff of power
+(12, -28, D:7)
+  25 stones
+(12, 4, D:7)
+  a cursed -1 trident
+  (unseen)
+(14, -31, D:7)
+  15 arrows
+(19, -32, D:7)
+  a +0 flail
+(25, -8, D:7)
+  a +0 flail
+  a +0 club
+  a +0 scale mail
+  a +0 chain mail
+(26, -8, D:7)
+  a +0 flail
+(28, -35, D:7)
+  9 sling bullets
+(31, -11, D:7)
+  a +0 helmet
+(35, -38, D:7)
+  a +0 spear
+(39, -38, D:7)
+  a cursed -2 club
+  a +0 ring mail
+(39, -31, D:7)
+  23 stones
+(40, -29, D:7)
+  a +0 spear
+(40, -25, D:7)
+  a cursed -3 spear
+(40, -24, D:7)
+  a +0 leather armour
+  a +0 club
+(41, -11, D:7)
+  a +0 leather armour
+(42, -27, D:7)
+  a cursed -3 hand axe
+(43, -40, D:7)
+  6 poisoned needles
+(43, -17, D:7)
+  the Tome of Sinister Rituals and Attacks
+    Spells                             Type                      Level
+     a - Magic Dart                   Conjuration                   1
+     b - Animate Skeleton             Necromancy                    1
+     c - Throw Frost                  Conjuration/Ice               2
+     d - Static Discharge             Conjuration/Air               3
+     e - Freezing Cloud               Conjuration/Ice/Air           6
+  a book of Callings
+  a book of Minor Magic
+  a +0 shield
+  a +0 scale mail
+(47, -35, D:7)
+  16 stones
+(49, -30, D:7)
+  a +0 robe
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  30 bolts
+(6, 20, D:8)
+  an uncursed staff of energy
+(13, 11, D:8)
+  a +0 mace
+  a +0 flail
+  a +0 leather armour
+(15, 13, D:8)
+  a +0 trident
+  a +0 ring mail
+(15, 28, D:8)
+  a +0 leather armour
+(20, 24, D:8)
+  a cursed +0 helmet
+(29, 14, D:8)
+  a cursed -2 robe
+(36, 33, D:8)
+  9 arrows
+(38, 42, D:8)
+  a +0 flail
+  a cursed +0 leather armour
+(42, 32, D:8)
+  21 arrows
+(56, 4, D:8)
+  25 stones
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 troll leather armour
+(6, 28, D:9)
+  a +0 scale mail
+(12, 4, D:9)
+  27 bolts
+(28, 43, D:9)
+  a cursed +0 great sword
+  a +0 robe
+(29, 45, D:9)
+  22 stones
+(34, 38, D:9)
+  a +0 trident
+(38, -6, D:9)
+  a +0 short sword
+(50, 7, D:9)
+  16 stones
+(51, -5, D:9)
+  a +0 battleaxe
+  a +0 robe
+(53, -4, D:9)
+  a +0 long sword
+  a +0 robe
+(56, 14, D:9)
+  18 bolts
+(56, 35, D:9)
+  a +0 robe
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 1, Lair:1)
+  a +0 flail of holy wrath
+  a +0 war axe
+(0, 2, Lair:1)
+  a +0 large shield
+(22, 2, Lair:1)
+  a +0 chain mail
+(28, 2, Lair:1)
+  a +1 war axe of holy wrath
+(37, 4, Lair:1)
+  a +0 leather armour
+(54, -5, Lair:1)
+  a +0 shield
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a +0 scale mail
+  16 bolts
+(4, -16, Lair:2)
+  an adder corpse
+(4, 6, Lair:2)
+  a +0 robe
+(7, -40, Lair:2)
+  a +0 hand crossbow
+(7, -18, Lair:2)
+  14 stones
+(21, -32, Lair:2)
+  18 stones
+(31, -2, Lair:2)
+  a cursed +0 helmet
+(36, -25, Lair:2)
+  a +0 scale mail
+(41, -20, Lair:2)
+  a +0 rapier
+

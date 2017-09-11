@@ -1,0 +1,370 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+12945 Mash the Severer (level 11, -1/82 HPs)
+             Began as a Minotaur Fighter on Aug 24, 2017.
+             Was a High Priest of Okawaru.
+             Slain by a komodo dragon (14 damage)
+             ... on level 3 of the Lair of Beasts.
+             The game lasted 00:40:35 (10690 turns).
+
+Mash the Severer (Minotaur Fighter)                Turns: 10690, Time: 00:40:36
+
+Health: -1/82      AC: 20    Str: 23    XL:     11   Next: 69%
+Magic:  13/15      EV: 10    Int: 14    God:    Okawaru [*****.]
+Gold:   521        SH:  0    Dex: 11    Spells: 10/10 levels left
+
+rFire    . . .     SeeInvis +   w - +1 battleaxe {chop, *Noise Int+9 SInv}
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   a - +0 plate armour
+rPois    .         Spirit   .   k - +1 hat
+rElec    .         Reflect  .   E - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+Regen    0.3/turn               (no ring)
+MPRegen  0.2/turn               (no ring)
+
+@: heroism
+A: retaliatory headbutt, horns 2
+a: Heroism, Finesse, Renounce Religion
+
+
+You were on level 3 of the Lair of Beasts.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 11 of its levels.
+
+You collected 521 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ s - a cursed -1 morningstar
+ w - the +1 battleaxe of the Harvest (weapon) {chop, *Noise Int+9 SInv}
+   (Okawaru gifted it to you on level 3 of the Lair of Beasts)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your intelligence (+9).
+   It lets you see invisible.
+   It may make noises in combat.
+ A - a +1 war axe of chopping
+ B - a +3 battleaxe of venom
+Missiles
+ n - 2 tomahawks of dispersal (quivered)
+Armour
+ a - a +0 plate armour (worn)
+ c - a +1 shield
+ e - a +0 chain mail
+ k - a +1 hat (worn)
+ E - a +0 cloak (worn)
+Jewellery
+ G - an uncursed ring of teleportation
+ I - an uncursed ring of ice
+ K - an uncursed ring of flight
+Wands
+ b - a wand of enslavement (7/24)
+ l - a wand of flame (23/48)
+ x - a wand of flame (2/48)
+ H - a wand of scattershot (6/9)
+ J - a wand of acid (6/15)
+Scrolls
+ i - a scroll of enchant armour
+ o - a scroll of amnesia {unknown}
+ p - a scroll of remove curse
+ t - 3 scrolls of teleportation
+ v - 3 scrolls of recharging
+ y - a scroll of blinking
+ z - 2 scrolls of fear {unknown}
+ D - a scroll of noise {unknown}
+Potions
+ d - 2 potions of brilliance
+ g - a potion of berserk rage
+ h - a potion of degeneration
+ j - 7 potions of curing
+ q - 2 potions of lignification
+ r - a potion of flight
+ u - a potion of haste
+ C - a potion of agility
+ F - 2 potions of resistance
+Comestibles
+ f - 7 bread rations
+ m - 3 meat rations
+
+
+   Skills:
+ - Level 3.6(8.6) Fighting
+ + Level 16.5(21.5) Axes
+ * Level 11.9(16.9) Armour
+ - Level 3.6(8.6) Shields
+ - Level 6.8 Invocations
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (0/1) D:5            Lair (3/6) D:8
+ Spider (0/4) Lair:2      
+ Swamp: Lair:2-4    Shoals: Lair:2-4    
+
+Altars:
+Fedhas
+Nemelex Xobeh
+Okawaru
+Yredelemnul
+
+Annotations:
+D:3 Mash's ghost, amateur MiFi
+D:7 exclusion: 3 doors
+Lair:1 exclusion: oklob plant
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+The komodo dragon completely misses you.
+You furiously retaliate!
+You headbutt the komodo dragon, but do no damage.
+You hit the komodo dragon. You headbutt the komodo dragon.
+The komodo dragon is moderately wounded.
+You hit the komodo dragon.
+The komodo dragon is moderately wounded.
+The komodo dragon bites you!!
+You completely miss the komodo dragon. Your headbutt misses the komodo dragon.
+The komodo dragon is moderately wounded.
+The komodo dragon bites you!!
+* * * LOW HITPOINT WARNING * * *
+You hit the komodo dragon but do no damage.
+You headbutt the komodo dragon!
+The komodo dragon is heavily wounded.
+The komodo dragon bites you!!
+* * * LOW HITPOINT WARNING * * *
+You gain the combat prowess of a mighty hero.
+The komodo dragon bites you!
+You die...
+
+                 ........#..####....#   #
+                  #..........# ##...##  .
+                  #PP....§.###  #...P###.
+                  ##..##..##    ##.......
+                   ## #†#..##   #P....%..
+                     ##..#..###....####..
+                   ###.#.h..........   #.
+                ####..............##    .
+                #P[...............####
+                #...#####...........P####
+                #P...## #..##.......P.#..
+          ##### #.....#....##...##.......
+        ###.#.####.....#....#...###.....#
+   ######....#.##.@l.............#.....<#
+  ##P...........#..........#P#......#...†
+###..........(........##P.#  ###.....#...
+#P.......#P.........#####.##   ##..P#....
+#.......P###.........##.#..#    #.#####..
+#.......###.....#.#..##...P#    #.#   #..
+#....#...#......####......##   ##.#####..
+#... #P..(..#..###.#..#....##  #.....##.P
+...  ###....#P.##.....##....####.........
+..     ##.##...###..[####........P..###..
+.       #..##..###...# ##...##...####
+        P..#....#...####...####...#
+       #PP...........##....###...###
+
+
+You could see a komodo dragon.
+
+Vanquished Creatures
+  Snorg (Lair:3)
+  Pikel (D:7)
+  The ghost of Mash the Cleaver, a novice MiFi (D:6)
+  2 black mambas
+  5 spiny frogs
+  Psyche (D:8)
+  A komodo dragon (Lair:1)
+  11 blink frogs
+  4 hippogriffs
+  Prince Ribbit (D:7)
+  A wyvern (D:8)
+  A human (D:7)
+  7 yaks
+  4 hogs (D:7)
+  Menkaure (D:6)
+  4 water moccasins
+  Duvessa (D:5)
+  A porcupine (Lair:2)
+  An orc warrior (D:8)
+  2 sky beasts
+  A phantom (D:7)
+  A slave (D:7)
+  A black bear (D:8)
+  An ice beast (D:3)
+  An ogre (D:8)
+  7 wolves
+  4 centaurs
+  A crocodile (Lair:2)
+  5 bullfrogs
+  2 big kobolds
+  A scorpion (D:7)
+  Dowan (D:5)
+  A wyvern skeleton (D:8)
+  4 crimson imps
+  3 hounds
+  A bullfrog zombie (D:7)
+  3 orc priests
+  A centaur skeleton (D:8)
+  An iguana (D:6)
+  A bullfrog skeleton (D:5)
+  6 orc wizards
+  4 worker ants
+  Natasha (D:1)
+  A killer bee zombie (D:6)
+  2 hound zombies
+  4 gnolls
+  7 adders
+  An adder skeleton (D:7)
+  2 worms (D:2)
+  A dart slug (D:2)
+  3 leopard geckos
+  18 orcs
+  2 giant cockroaches
+  4 goblins
+  2 hobgoblins (D:4)
+  19 kobolds
+  4 quokkas
+  2 bats
+  A frilled lizard (D:3)
+  A leopard gecko zombie (D:8)
+  A quokka skeleton (D:4)
+  3 rats
+  A plant (Lair:2)
+182 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 slaves (D:7)
+  A bullfrog (D:7)
+  A bullfrog zombie (D:7)
+  A jackal skeleton (D:7)
+  3 fungi
+  5 plants
+13 creatures vanquished.
+
+Grand Total: 195 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    29 | D:2      | Noticed Natasha
+    60 | D:1      | Reached skill level 3 in Axes
+   123 | D:1      | Killed Natasha
+   123 | D:1      | Reached skill level 4 in Axes
+   123 | D:1      | Reached XP level 2. HP: 14/26 MP: 1/1
+   123 | D:1      | Reached XP level 3. HP: 17/31 MP: 2/2
+   335 | D:3      | Noticed an ice beast
+   348 | D:3      | Killed an ice beast
+   348 | D:3      | Reached skill level 6 in Axes
+   348 | D:3      | Reached XP level 4. HP: 39/39 MP: 3/3
+   422 | D:3      | Noticed Mash's ghost (amateur MiFi)
+   718 | D:3      | Reached XP level 5. HP: 40/45 MP: 4/4
+  1300 | D:4      | Reached skill level 7 in Axes
+  1458 | D:4      | Reached XP level 6. HP: 51/51 MP: 5/5
+  1499 | D:4      | Reached skill level 8 in Axes
+  2026 | D:4      | Found an iron altar of Okawaru.
+  2034 | D:4      | Became a worshipper of Warmaster Okawaru
+  2084 | D:5      | Entered Level 5 of the Dungeon
+  2087 | D:5      | Found a staircase to the Ecumenical Temple.
+  2376 | D:5      | Reached skill level 9 in Axes
+  2396 | D:5      | Noticed Duvessa
+  2397 | D:5      | Noticed Dowan
+  2408 | D:5      | Killed Dowan
+  2408 | D:5      | Reached XP level 7. HP: 51/57 MP: 6/6
+  2418 | D:5      | Killed Duvessa
+  2418 | D:5      | Reached * piety under Okawaru
+  2874 | D:6      | Noticed Menkaure
+  2877 | D:6      | Killed Menkaure
+  2877 | D:6      | Reached skill level 10 in Axes
+  3025 | D:6      | Reached skill level 1 in Invocations
+  3295 | D:6      | Noticed Mash's ghost (novice MiFi)
+  3327 | D:6      | Killed Mash's ghost
+  3327 | D:6      | Reached ** piety under Okawaru
+  3327 | D:6      | Reached skill level 12 in Axes
+  3327 | D:6      | Reached XP level 8. HP: 54/64 MP: 8/8
+  4348 | D:7      | Noticed Prince Ribbit
+  4367 | D:7      | Killed Prince Ribbit
+  4367 | D:7      | Reached *** piety under Okawaru
+  4367 | D:7      | Reached skill level 13 in Axes
+  4367 | D:7      | Reached skill level 5 in Armour
+  4367 | D:7      | Reached XP level 9. HP: 55/70 MP: 9/9
+  4933 | D:7      | Reached skill level 14 in Axes
+  5045 | D:7      | Found a sparkling altar of Nemelex Xobeh.
+  5156 | D:7      | Found a basalt altar of Yredelemnul.
+  5157 | D:7      | Noticed Pikel
+  5182 | D:7      | Reached **** piety under Okawaru
+  5187 | D:7      | Killed Pikel
+  5969 | D:8      | Reached XP level 10. HP: 77/77 MP: 10/10
+  5977 | D:8      | Reached ***** piety under Okawaru
+  5983 | D:8      | Noticed Psyche
+  5994 | D:8      | Killed Psyche
+  5994 | D:8      | Reached skill level 15 in Axes
+  6128 | D:8      | Found a staircase to the Lair.
+  6794 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  7252 | Lair:1   | Noticed a spiny frog
+  7268 | Lair:1   | Killed a spiny frog
+  7407 | Lair:1   | Reached skill level 10 in Armour
+  7451 | Lair:1   | Found a blossoming altar of Fedhas.
+  7471 | Lair:1   | Noticed an oklob plant
+  7847 | Lair:2   | Noticed a spiny frog
+  7850 | Lair:2   | Noticed a black mamba
+  7996 | Lair:2   | Found a hole to the Spider Nest.
+  8126 | Lair:1   | Received a gift from Okawaru
+  8350 | Lair:2   | Reached skill level 16 in Axes
+  8529 | Lair:2   | Reached XP level 11. HP: 81/82 MP: 11/11
+  9898 | Lair:3   | Noticed a six-headed hydra
+  9899 | Lair:3   | Noticed Snorg
+ 10006 | Lair:3   | Reached skill level 5 in Invocations
+ 10009 | Lair:3   | Received a gift from Okawaru
+ 10010 | Lair:3   | Got a brightly glowing battleaxe {god gift}
+ 10011 | Lair:3   | Identified the +1 battleaxe of the Harvest {chop, *Noise Int+9 SInv} (Okawaru gifted it to you on level 3 of the Lair of Beasts)
+ 10529 | Lair:3   | Killed Snorg
+ 10690 | Lair:3   | Slain by a komodo dragon
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Axes           |  4     6     7  9 12 13 14 16    | 16.5
+Invocations    |                    2           6 |  6.8
+Armour         |                       5  7 11    | 11.9
+Fighting       |                                  |  3.6
+Shields        |                                  |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: War axe           |    11 |   140 |   207 |   178 ||   536
+       Headbutt          |     3 |    25 |    41 |    69 ||   138
+       Battleaxe         |       |       |       |   141 ||   141
+Throw: Tomahawk          |       |       |       |     1 ||     1
+Invok: Heroism           |       |       |       |     3 ||     3
+       Finesse           |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |       |     8 ||     8
+  Use: Scroll            |       |    11 |     4 |     6 ||    21
+       Potion            |       |     1 |     1 |     1 ||     3
+  Eat: Chunk             |       |     3 |     1 |     4 ||     8
+       Bread ration      |       |     1 |     1 |       ||     2
+       Royal jelly       |       |       |     2 |     5 ||     7
+       Fruit             |       |       |       |     2 ||     2
+Armor: Scale mail        |     4 |    13 |       |       ||    17
+       Chain mail        |       |    36 |    71 |    20 ||   127
+       Plate armour      |       |       |       |   136 ||   136
+Dodge: Dodged            |     5 |    23 |    19 |    83 ||   130
+Block: Shield            |     7 |    81 |    93 |    69 ||   250
+

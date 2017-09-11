@@ -1,0 +1,294 @@
+Mash
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  4 stones
+(0, 9, D:1)
+  29 stones
+(0, 16, D:1)
+  27 stones
+(4, 11, D:1)
+  a +0 dagger
+(16, -24, D:1)
+  a +0 spear
+(18, -19, D:1)
+  a +0 short sword
+(20, -20, D:1)
+  a +0 club
+(25, 31, D:1)
+  a +0 club
+(26, 6, D:1)
+  a +0 dagger
+(26, 26, D:1)
+  a +0 spear
+(30, -19, D:1)
+  a +0 club
+(30, -7, D:1)
+  a +0 dagger
+(30, 22, D:1)
+  a +0 dagger
+(34, -14, D:1)
+  a stone
+(34, 8, D:1)
+  a +0 leather armour
+(36, 7, D:1)
+  a +0 club
+(40, 36, D:1)
+  a cursed +0 club
+(44, 35, D:1)
+  a +2 dagger of speed
+(52, 11, D:1)
+  20 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +2 hunting sling of freezing
+  16 stones
+(0, 2, D:2)
+  a stone
+(0, 3, D:2)
+  a stone
+(0, 4, D:2)
+  a stone
+(0, 5, D:2)
+  a stone
+(0, 21, D:2)
+  a +0 club
+(6, -2, D:2)
+  18 bolts
+(9, -4, D:2)
+  22 stones
+(11, 29, D:2)
+  7 arrows
+(17, 8, D:2)
+  a +0 spear
+(17, 9, D:2)
+  a +0 club
+(17, 10, D:2)
+  a +0 club
+(17, 24, D:2)
+  a +0 dagger
+(18, 10, D:2)
+  a +0 whip
+(23, -16, D:2)
+  a +0 club
+(24, 25, D:2)
+  22 bolts
+(25, -11, D:2)
+  22 poisoned needles
+(37, -10, D:2)
+  a +0 club
+(37, 1, D:2)
+  a +0 scale mail
+(39, -19, D:2)
+  a +0 hand axe
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 long sword
+(26, 21, D:3)
+  a +0 club
+(27, 18, D:3)
+  25 sling bullets
+(30, 4, D:3)
+  a +2 hand axe of venom
+(32, 8, D:3)
+  a +0 leather armour
+  a +0 dagger
+  a +0 club
+  a +0 ring mail
+(38, 13, D:3)
+  a +0 robe
+(38, 19, D:3)
+  5 javelins
+(39, 19, D:3)
+  a cursed -3 club
+(39, 31, D:3)
+  a +0 buckler
+(41, 17, D:3)
+  a +0 mace
+(44, 12, D:3)
+  a +0 ring mail
+(45, -1, D:3)
+  a cursed +0 leather armour
+  a +0 hand axe
+(46, 15, D:3)
+  a +0 club
+(47, -5, D:3)
+  25 stones
+(57, 1, D:3)
+  a +0 robe
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 dagger
+  a +1 robe of magic resistance
+  a +0 rapier
+  a +0 ring mail
+(2, -20, D:4)
+  a +0 helmet
+(10, -11, D:4)
+  14 stones
+(11, 6, D:4)
+  a +0 dagger
+  a +0 robe
+(15, 15, D:4)
+  a stone
+(16, 15, D:4)
+  a +0 giant club
+(17, 16, D:4)
+  a +0 hunting sling
+  18 stones
+(18, 20, D:4)
+  a +0 hand axe
+(24, 18, D:4)
+  a +2 dagger of holy wrath
+(24, 19, D:4)
+  a -3 ring of dexterity
+  a +0 short sword
+  a +0 scale mail
+(26, 18, D:4)
+  a +0 club
+(32, -22, D:4)
+  a -2 ring of evasion
+(36, 21, D:4)
+  a +0 leather armour
+  a +0 trident
+  a +0 hand axe
+  a +0 dagger
+(47, 6, D:4)
+  a +0 ring mail
+(50, -10, D:4)
+  a +0 hunting sling
+(52, 2, D:4)
+  a +0 club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 whip
+(2, 10, D:5)
+  a cursed staff of fire
+(4, 32, D:5)
+  24 stones
+(6, -15, D:5)
+  a +0 hunting sling
+(7, -10, D:5)
+  a +0 flail
+(8, 34, D:5)
+  a +0 scale mail
+(10, 8, D:5)
+  a +0 leather armour
+(10, 17, D:5)
+  a +0 war axe
+(12, -10, D:5)
+  a +0 hand axe
+(12, -2, D:5)
+  a +0 hand axe
+(13, -1, D:5)
+  a +0 club
+(16, 8, D:5)
+  a +0 mace
+(16, 37, D:5)
+  a +0 chain mail
+(18, 0, D:5)
+  a +0 halberd
+(19, 3, D:5)
+  a +0 flail
+(20, 0, D:5)
+  a +1 spear of freezing
+(21, 33, D:5)
+  an arrow
+(21, 34, D:5)
+  an arrow
+(22, 32, D:5)
+  a +0 shortbow
+  17 arrows
+(24, -16, D:5)
+  a +0 leather armour
+(27, -1, D:5)
+  a +0 flail
+(33, 9, D:5)
+  a +0 scale mail
+(40, 4, D:5)
+  19 arrows
+(41, 7, D:5)
+  15 stones
+(46, 16, D:5)
+  a +2 vampiric short sword
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 shortbow
+  7 arrows
+(1, -3, D:6)
+  an arrow
+(3, -3, D:6)
+  a +0 shield
+(7, -12, D:6)
+  a +0 flail
+(10, -14, D:6)
+  8 arrows
+(13, -9, D:6)
+  a +0 war axe
+(13, -8, D:6)
+  a +0 chain mail
+  a +0 scale mail
+  a +0 glaive
+(14, -8, D:6)
+  a +0 trident
+(24, 6, D:6)
+  a +0 plate armour
+(29, -31, D:6)
+  a +0 hand axe
+(42, -1, D:6)
+  a cursed +0 flail
+(44, 9, D:6)
+  20 sling bullets
+(50, -28, D:6)
+  a cursed -1 spear
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  18 arrows
+(3, -7, D:7)
+  a sky beast corpse
+  a killer bee corpse
+  a killer bee corpse
+  a killer bee corpse
+(3, -6, D:7)
+  a killer bee corpse
+  a killer bee corpse
+(3, 6, D:7)
+  2 stones
+(4, 7, D:7)
+  a stone
+  a +0 whip
+  a +0 short sword
+(7, 9, D:7)
+  a stone
+(8, -11, D:7)
+  a +0 short sword
+(9, -3, D:7)
+  an uncursed staff of earth
+(9, -2, D:7)
+  an uncursed staff of wizardry
+(9, 27, D:7)
+  a +0 hand axe
+  a +0 animal skin
+(9, 28, D:7)
+  a +0 giant spiked club
+(24, 14, D:7)
+  a +0 trident
+  a +0 plate armour
+(25, 13, D:7)
+  a +0 whip
+(27, 2, D:7)
+  a +2 trident of flaming
+  a +0 scale mail
+(31, 20, D:7)
+  a +0 war axe
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a royal jelly
+

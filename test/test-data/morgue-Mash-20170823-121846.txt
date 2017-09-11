@@ -1,0 +1,164 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+21 Mash the Chopper (level 2, -2/26 HPs)
+             Began as a Minotaur Fighter on Aug 23, 2017.
+             Slain by Sigmund
+             ... wielding a +1 scythe of protection
+              (8 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:01:02 (234 turns).
+
+Mash the Chopper (Minotaur Fighter)                  Turns: 234, Time: 00:01:03
+
+Health: -2/26      AC:  6    Str: 25    XL:     2   Next: 62%
+Magic:  1/1        EV:  7    Int:  5    God:    
+Gold:   22         SH:  9    Dex:  9    Spells: 1/1 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+Regen    0.1/turn               (no ring)
+MPRegen  0.1/turn               (no ring)
+
+@: mighty
+A: retaliatory headbutt, horns 2
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 22 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Scrolls
+ e - a scroll of teleportation {unknown}
+ h - a scroll of fear {unknown}
+Potions
+ g - 2 potions of agility {unknown}
+Comestibles
+ f - a bread ration
+ i - a meat ration
+
+
+   Skills:
+ - Level 3.6 Fighting
+ * Level 3.9 Axes
+ - Level 3.6 Armour
+ - Level 3.6 Shields
+
+
+You had one spell level left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Annotations:
+D:2 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+A giant cockroach comes into view.
+Sigmund the Dreaded comes into view. He is wielding a scythe of protection.
+Sigmund shouts!
+The giant cockroach bites you but does no damage.
+You feel very mighty all of a sudden.
+The giant cockroach closely misses you. You furiously retaliate! You headbutt the giant cockroach!
+You kill the giant cockroach!
+Sigmund mumbles some strange words.
+Sigmund flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+You hear some strange, mumbled words.
+A magic dart appears from out of thin air!
+The magic dart hits you!
+You see here a giant cockroach corpse.
+You hit something. Something hits you!
+* * * LOW HITPOINT WARNING * * *
+You barely miss something. Something hits you!
+* * * LOW HITPOINT WARNING * * *
+You barely miss something. Something hits you!
+You die...
+
+######              #...#
+                    #...#
+                    ##'##
+                     #.#
+                     #.#
+                     #†#
+                     #.#
+                     #.#
+                     #.#####
+                     #.....#
+                     #.....#
+                   ###.....#
+                   #..@....#
+                   #..{.####
+                   #....#
+                   #....#
+                   #....#
+                   #....#
+                   ###+##
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An adder (D:2)
+  A giant cockroach (D:2)
+  A hobgoblin (D:1)
+  6 bats
+  2 frilled lizards
+  A kobold (D:1)
+  2 rats (D:1)
+14 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   174 | D:2      | Reached XP level 2. HP: 26/26 MP: 1/1
+   227 | D:2      | Noticed Sigmund
+   234 | D:2      | Slain by Sigmund
+
+Skill      XL: |  1 |
+---------------+----+-----
+Axes           |  3 |  3.9
+Fighting       |    |  3.6
+Armour         |    |  3.6
+Shields        |    |  3.6
+
+Action                   || total
+-------------------------++-------
+Melee: War axe           ||    21
+       Headbutt          ||     1
+  Use: Potion            ||     1
+Armor: Scale mail        ||    12
+Dodge: Dodged            ||     8
+Block: Shield            ||    16
+

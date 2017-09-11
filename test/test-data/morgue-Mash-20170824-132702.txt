@@ -1,0 +1,202 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+330 Mash the Cleaver (level 6, -9/51 HPs)
+             Began as a Minotaur Fighter on Aug 24, 2017.
+             Mangled by an ice beast (12 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:10:00 (3260 turns).
+
+Mash the Cleaver (Minotaur Fighter)                 Turns: 3260, Time: 00:10:01
+
+Health: -9/51      AC:  8    Str: 23    XL:     6   Next: 26%
+Magic:  5/5        EV:  7    Int: 10    God:    
+Gold:   176        SH:  9    Dex:  9    Spells: 5/5 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   q - +0 pair of gloves
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+Regen    0.2/turn               p - ring of wizardry
+MPRegen  0.1/turn               (no ring)
+
+@: brilliant, lethally poisoned (-9 -> -14), very slightly contaminated
+A: retaliatory headbutt, horns 2
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 176 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Missiles
+ t - 5 tomahawks (quivered)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+ q - a +0 pair of gloves (worn)
+ u - a +1 pair of gloves of dexterity
+Jewellery
+ p - a ring of wizardry (left hand)
+Scrolls
+ d - a scroll of remove curse
+ h - a scroll of teleportation {unknown}
+ i - 2 scrolls of amnesia
+ k - a scroll of fear {unknown}
+ m - a scroll of enchant weapon {unknown}
+ n - a scroll of immolation {unknown}
+ s - a scroll of enchant armour {unknown}
+ v - a scroll of identify
+Potions
+ e - 2 potions of berserk rage
+ l - a potion of magic
+Comestibles
+ f - 2 bread rations
+ j - 8 chunks of flesh
+ o - 5 meat rations
+
+
+   Skills:
+ - Level 3.6 Fighting
+ * Level 8.1 Axes
+ - Level 3.6 Armour
+ - Level 3.6 Shields
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You barely miss the worker ant. You block the ice beast's attack.
+The worker ant bites you but does no damage.
+Your shield and scale mail prevent you from hitting the ice beast.
+You hit the worker ant. The ice beast barely misses you. The worker ant bites you.
+* * * LOW HITPOINT WARNING * * *
+You closely miss the ice beast.
+You headbutt the ice beast, but do no damage.
+You slash the worker ant! The worker ant bites you.
+* * * LOW HITPOINT WARNING * * *
+You block the ice beast's attack. The worker ant bites you.
+* * * LOW HITPOINT WARNING * * *
+You are poisoned.
+The worker ant poisons you!
+You hit the worker ant.
+You kill the worker ant!
+Your Axes skill increases to level 8!
+You slash the ice beast! You feel sick. The ice beast hits you.
+* * * LOW HITPOINT WARNING * * *
+The ice beast freezes you!
+You die...
+
+      ....>....
+      .........
+      ..?......
+    ###........
+     ..........
+    ##.........
+#####..........
+.......<Y......
+......[@#.....!
+#.....### .....
+#.....     ...#
+#####       ###
+
+
+You could see an ice beast.
+
+Vanquished Creatures
+  Jessica (D:2)
+  4 orc wizards
+  A worker ant (D:5)
+  Robin (D:2)
+  4 gnolls (D:2)
+  3 adders (D:2)
+  A worm (D:2)
+  A dart slug (D:1)
+  13 orcs
+  A ball python (D:3)
+  4 bats
+  2 giant cockroaches
+  15 goblins
+  7 hobgoblins
+  7 jackals
+  3 quokkas (D:2)
+  5 frilled lizards
+  4 kobolds
+  6 rats
+83 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   104 | D:1      | Reached skill level 3 in Axes
+   121 | D:1      | Reached XP level 2. HP: 19/26 MP: 1/1
+   670 | D:2      | Reached skill level 4 in Axes
+   800 | D:2      | Reached XP level 3. HP: 30/31 MP: 2/2
+   917 | D:2      | Noticed Robin
+  1048 | D:2      | Found a shattered altar of Ashenzari.
+  1071 | D:2      | Reached skill level 5 in Axes
+  1080 | D:2      | Killed Robin
+  1080 | D:2      | Reached XP level 4. HP: 28/39 MP: 3/3
+  1210 | D:2      | Noticed Jessica
+  1236 | D:2      | Killed Jessica
+  1294 | D:2      | Reached skill level 6 in Axes
+  1317 | D:2      | HP: 1/39 [gnoll/halberd (8)]
+  1318 | D:2      | Reached XP level 5. HP: 1/45 MP: 4/4
+  2803 | D:3      | Reached skill level 7 in Axes
+  3028 | D:3      | You fall through a shaft!
+  3230 | D:4      | Reached XP level 6. HP: 51/51 MP: 5/5
+  3251 | D:5      | Entered Level 5 of the Dungeon
+  3251 | D:5      | Noticed an ice beast
+  3260 | D:5      | Reached skill level 8 in Axes
+  3260 | D:5      | Mangled by an ice beast
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Axes           |  3  4  5  6  7  8 |  8.1
+Fighting       |                   |  3.6
+Armour         |                   |  3.6
+Shields        |                   |  3.6
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: War axe           |    72 |   136 ||   208
+       Headbutt          |     9 |    17 ||    26
+  Use: Potion            |       |     3 ||     3
+       Scroll            |       |     6 ||     6
+  Eat: Chunk             |       |     4 ||     4
+       Meat ration       |       |     1 ||     1
+       Royal jelly       |       |     1 ||     1
+Armor: Scale mail        |    32 |    55 ||    87
+Dodge: Dodged            |    26 |    37 ||    63
+Block: Shield            |    56 |    65 ||   121
+

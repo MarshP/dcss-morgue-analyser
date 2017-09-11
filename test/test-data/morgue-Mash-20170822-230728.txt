@@ -1,0 +1,395 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+19320 Mash the Severer (level 12, -6/90 HPs)
+             Began as a Minotaur Fighter on Aug 22, 2017.
+             Was a High Priest of Okawaru.
+             Killed from afar by a gargoyle (19 damage)
+             ... with a stone arrow
+             ... in a labyrinth.
+             The game lasted 01:01:26 (15361 turns).
+
+Mash the Severer (Minotaur Fighter)                Turns: 15361, Time: 01:01:27
+
+Health: -6/90      AC: 24    Str: 28    XL:     12   Next: 35%
+Magic:  14/16      EV: 11    Int:  5    God:    Okawaru [*****.]
+Gold:   844        SH:  0    Dex: 11    Spells: 11/11 levels left
+
+rFire    . . .     SeeInvis .   t - +4 battleaxe
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     + . .     Faith    .   w - +1 plate armour
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   v - +1 pair of gloves
+MR       .....                  F - +0 pair of boots {Fly}
+Stlth    ..........             (no amulet)
+Regen    0.3/turn               G - +3 ring of strength
+MPRegen  0.2/turn               O - ring of positive energy
+
+@: heroism
+A: retaliatory headbutt, horns 2
+a: Heroism, Finesse, Renounce Religion, Evoke Flight
+
+
+You were in a labyrinth.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 13 of its levels.
+You also visited: Labyrinth.
+
+You collected 909 gold pieces.
+You spent 65 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe
+ t - a +4 battleaxe (weapon)
+ B - a +0 dire flail
+Missiles
+ S - 8 tomahawks of returning (quivered)
+Armour
+ c - a +0 shield
+ v - a +1 pair of gloves (worn)
+ w - a +1 plate armour (worn)
+ F - a +0 pair of boots of flying (worn)
+Jewellery
+ e - an uncursed ring of fire
+ n - an uncursed ring of flight
+ s - a +4 ring of intelligence
+ u - an uncursed ring of resist corrosion
+ G - a +3 ring of strength (left hand)
+ O - a ring of positive energy (right hand)
+Wands
+ l - a wand of confusion (16/48)
+ o - a wand of confusion (33/48)
+ r - a wand of clouds (0/9)
+ y - a wand of iceblast (1/15)
+ E - a wand of enslavement (10/24)
+ M - a wand of lightning (0/15)
+ Q - a wand of lightning (3/15)
+Scrolls
+ d - 9 scrolls of remove curse
+ j - 4 scrolls of teleportation
+ m - a scroll of random uselessness {unknown}
+ H - a scroll of amnesia
+ I - a scroll of brand weapon {unknown}
+ L - a scroll of magic mapping
+ N - a scroll of recharging {unknown}
+ P - a scroll of silence {unknown}
+Potions
+ h - 2 potions of mutation
+ i - 4 potions of agility
+ p - a potion of berserk rage
+ x - a potion of lignification
+ z - 2 potions of haste
+ A - 3 potions of brilliance
+ D - a potion of resistance {unknown}
+ J - a potion of flight {unknown}
+ K - a potion of ambrosia {unknown}
+ R - a potion of degeneration {unknown}
+Comestibles
+ b - a meat ration
+ f - a bread ration
+
+
+   Skills:
+ - Level 3.6(8.6) Fighting
+ + Level 17.4(22.4) Axes
+ * Level 13.7(18.7) Armour
+ - Level 3.6(8.6) Shields
+ - Level 7.0 Invocations
+
+
+You had 11 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (0/1) D:4            Lair (2/6) D:11
+    Orc (0/2) D:11        
+ Swamp: Lair:2-4    Shoals: Lair:2-4     Snake: Lair:2-4    Spider: Lair:2-4
+
+Altars:
+Ashenzari
+Dithmenos
+Gozag
+Hepliaklqana
+Nemelex Xobeh
+Okawaru
+Ru
+Sif Muna
+Trog
+Uskayaw
+
+Shops:
+D:4 =   D:9 ![
+
+Portals:
+Trove: D:11 (give +6 ice dragon scales)
+
+Annotations:
+D:2 1 runed door
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Press: ? - help, Shift-Dir - straight line, f/p - gargoyle
+Aim: a gargoyle, wielding a mace (moderately damaged)
+You hear a mighty clap of thunder!
+The bolt of lightning hits the gargoyle.
+The gargoyle resists.
+The gargoyle is heavily damaged.
+Evoking this partially-identified wand wasted a few charges.
+The gargoyle barely misses you.
+You gain the combat prowess of a mighty hero.
+The gargoyle hurls a stone arrow at you.
+The stone arrow misses you.
+The gargoyle hurls a stone arrow at you.
+The stone arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+You hit the gargoyle.
+The gargoyle is heavily damaged.
+You hit the gargoyle but do no damage.
+The gargoyle hurls a stone arrow at you.
+The stone arrow hits you!
+You die...
+
+          . #
+    #.  )#  #
+     .   .. #
+      ##[#  ###      #
+    #..#.# .#  . .   .
+  ### .....)### #   #
+  #.. #...  [.   .#
+  #.###.##.##.   .   .
+  #.@9.=.... ..  .#   #
+ .###9#.##.# .## . ##.
+ ...#.#. #.##.#.#.#
+¦  .##... ..... ###  #
+¦.....#.##.#  #.#
+¦.###.#.# .  .# #
+ . .# .... ..  .     .
+  # ###.##. #.#   # #
+  #..  ......      .
+  ¦¦¦¦ ¦¦¦¦¦¦¦        ¦
+
+
+You could see 2 gargoyles.
+
+Vanquished Creatures
+  A hydra (Lair:2)
+  6 two-headed ogres
+  3 unseen horrors
+  A manticore (D:11)
+  A cyclops (D:11)
+  A spiny frog (Lair:2)
+  2 gargoyles (Lab)
+  Grinder (D:4)
+  3 hippogriffs
+  Eustachio (D:5)
+  18 yaks (D:11)
+  A wyvern (D:8)
+  2 hungry ghosts
+  A basilisk (D:11)
+  2 water moccasins
+  7 porcupines
+  4 sky beasts
+  9 orc warriors
+  3 ice beasts
+  6 ogres
+  The ghost of Mash the Chopper, an amateur MiFi (D:3)
+  3 black bears
+  2 necrophages
+  8 centaurs
+  5 crocodiles
+  6 bullfrogs
+  3 jellies
+  A wyvern zombie (D:7)
+  A water moccasin skeleton (D:9)
+  4 scorpions
+  10 killer bees
+  3 wights (D:8)
+  3 howler monkeys
+  3 crimson imps
+  2 centaur zombies
+  A quasit (D:10)
+  7 hounds
+  11 orc priests
+  2 centaur skeletons
+  16 orc wizards
+  A bullfrog skeleton (D:6)
+  Ijyb (D:4)
+  2 iguanas
+  Terence (D:2)
+  9 worker ants
+  A hound zombie (D:10)
+  2 hound skeletons
+  A worker ant zombie (D:11)
+  12 adders
+  7 gnolls
+  2 howler monkey skeletons
+  4 shadow imps
+  An ooze (D:1)
+  2 adder skeletons
+  An adder zombie (D:6)
+  4 worms
+  A dart slug (D:1)
+  5 leopard geckos
+  81 orcs
+  11 bats
+  7 giant cockroaches
+  8 goblins
+  5 hobgoblins
+  4 jackals
+  2 quokkas
+  2 ball pythons
+  11 frilled lizards
+  5 kobolds
+  3 quokka skeletons (D:5)
+  A quokka zombie (D:9)
+  6 rats
+368 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 fungi (D:11)
+  11 plants (D:11)
+13 creatures vanquished.
+
+Grand Total: 381 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   101 | D:1      | Reached skill level 3 in Axes
+   175 | D:1      | Reached XP level 2. HP: 23/26 MP: 1/1
+   306 | D:2      | Reached skill level 4 in Axes
+   387 | D:2      | Found a runed door.
+   434 | D:2      | Reached XP level 3. HP: 29/31 MP: 2/2
+   482 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+   486 | D:3      | Noticed Mash's ghost (amateur MiFi)
+   490 | D:3      | Killed Mash's ghost
+   490 | D:3      | Reached skill level 6 in Axes
+   490 | D:3      | Reached XP level 4. HP: 37/39 MP: 3/3
+   630 | D:4      | Reached XP level 5. HP: 36/45 MP: 4/4
+   770 | D:5      | Entered Level 5 of the Dungeon
+   776 | D:5      | Found an iron altar of Okawaru.
+   782 | D:5      | Became a worshipper of Warmaster Okawaru
+  1543 | D:2      | Noticed Terence
+  1823 | D:3      | Reached skill level 7 in Axes
+  2117 | D:3      | Found an opulent altar of Gozag.
+  2313 | D:4      | Found a staircase to the Ecumenical Temple.
+  2465 | D:4      | Reached XP level 6. HP: 38/51 MP: 5/5
+  2626 | D:4      | Reached skill level 8 in Axes
+  2638 | D:4      | Noticed Grinder
+  2641 | D:4      | Paralysed by Grinder for 5 turns
+  2650 | D:4      | Killed Grinder
+  2650 | D:4      | Reached * piety under Okawaru
+  2650 | D:4      | Reached skill level 9 in Axes
+  2650 | D:4      | Reached XP level 7. HP: 5/57 MP: 6/6
+  2993 | D:4      | Noticed Ijyb
+  3001 | D:4      | Killed Ijyb
+  3184 | D:4      | Reached skill level 1 in Invocations
+  3270 | D:4      | Found Emowisot's Jewellery Shoppe.
+  3303 | D:5      | Noticed Eustachio
+  3332 | D:5      | Killed Eustachio
+  3332 | D:5      | Reached skill level 10 in Axes
+  3688 | D:5      | Reached ** piety under Okawaru
+  3789 | D:5      | Reached XP level 8. HP: 58/64 MP: 9/9
+  3914 | D:5      | Reached skill level 11 in Axes
+  4099 | D:5      | Found a shattered altar of Ashenzari.
+  4099 | D:5      | Found a bloodstained altar of Trog.
+  4099 | D:5      | Found a deep blue altar of Sif Muna.
+  4102 | D:5      | Found a sacrificial altar of Ru.
+  4814 | D:2      | Killed Terence
+  5019 | D:6      | Reached skill level 12 in Axes
+  5130 | D:6      | Noticed a two-headed ogre
+  5469 | D:6      | Found a shadowy altar of Dithmenos.
+  5649 | D:6      | Reached *** piety under Okawaru
+  5649 | D:6      | Reached skill level 13 in Axes
+  5789 | D:6      | Reached XP level 9. HP: 67/70 MP: 7/10
+  6054 | D:6      | Killed a two-headed ogre
+  6054 | D:6      | Reached skill level 14 in Axes
+  6054 | D:6      | Reached skill level 5 in Armour
+  6499 | D:7      | Reached **** piety under Okawaru
+  7311 | D:8      | Noticed a two-headed ogre
+  7318 | D:8      | Killed a two-headed ogre
+  7318 | D:8      | Reached ***** piety under Okawaru
+  7318 | D:8      | Reached skill level 15 in Axes
+  7318 | D:8      | Reached XP level 10. HP: 63/77 MP: 8/11
+  8151 | D:8      | Received a gift from Okawaru
+  8353 | D:8      | Noticed a two-headed ogre
+  8363 | D:8      | Killed a two-headed ogre
+  8430 | D:8      | Reached skill level 5 in Invocations
+  8532 | D:9      | Noticed a two-headed ogre
+  8874 | D:9      | Killed a two-headed ogre
+  9471 | D:9      | Found Cufoul's Distillery.
+  9493 | D:9      | Bought a potion of heal wounds for 65 gold pieces
+  9504 | D:9      | Found a hazy altar of Hepliaklqana.
+  9514 | D:9      | Reached XP level 11. HP: 82/82 MP: 15/15
+  9519 | D:9      | Reached skill level 16 in Axes
+  9575 | D:9      | Noticed a two-headed ogre
+  9582 | D:9      | Killed a two-headed ogre
+  9810 | D:9      | Found Degawku's Antique Armour Emporium.
+ 10059 | D:10     | Entered Level 10 of the Dungeon
+ 10251 | D:10     | Found a hide-covered altar of Uskayaw.
+ 11115 | D:10     | Noticed a two-headed ogre
+ 11134 | D:10     | Killed a two-headed ogre
+ 11134 | D:10     | Reached skill level 10 in Armour
+ 11543 | D:11     | Found a staircase to the Lair.
+ 11789 | D:11     | Killed an unseen horror
+ 11789 | D:11     | Received a gift from Okawaru
+ 12257 | D:11     | Received a gift from Okawaru
+ 12302 | D:11     | Found a bloodstained altar of Trog.
+ 12669 | D:11     | Found a staircase to the Orcish Mines.
+ 13280 | D:11     | Reached skill level 17 in Axes
+ 13289 | D:11     | Reached XP level 12. HP: 76/90 MP: 16/16
+ 13590 | D:11     | Found a portal to a secret trove of treasure.
+ 13846 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 14967 | Lair:2   | Found a labyrinth entrance.
+ 14969 | Lair:2   | Noticed a four-headed hydra
+ 14978 | Lair:2   | Killed a four-headed hydra
+ 15019 | Lab      | Entered a labyrinth
+ 15280 | Lab      | Received a gift from Okawaru
+ 15361 | Lab      | Killed from afar by a gargoyle
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Axes           |  3  4  6     7  9 10 13 15    17    | 17.4
+Invocations    |                    2        7       |  7.0
+Armour         |                          7  8 12 13 | 13.7
+Fighting       |                                     |  3.6
+Shields        |                                     |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: War axe           |    79 |   131 |   212 |       ||   422
+       Headbutt          |     6 |    20 |    50 |   118 ||   194
+       Battleaxe         |       |       |   136 |   519 ||   655
+       Dire flail        |       |       |       |     4 ||     4
+Throw: Throwing net      |       |       |       |     2 ||     2
+Invok: Heroism           |       |       |     8 |    22 ||    30
+       Finesse           |       |       |       |     3 ||     3
+ Abil: Stop Flying       |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |     1 |     8 ||     9
+  Use: Potion            |     1 |     2 |     2 |     5 ||    10
+       Scroll            |       |     1 |       |    16 ||    17
+  Eat: Chunk             |       |     6 |     8 |    18 ||    32
+       Bread ration      |       |       |     1 |     1 ||     2
+       Royal jelly       |       |       |     1 |       ||     1
+       Fruit             |       |       |       |    12 ||    12
+Armor: Scale mail        |    33 |    42 |    49 |       ||   124
+       Plate armour      |       |       |    69 |   358 ||   427
+Dodge: Dodged            |    24 |    36 |    94 |   170 ||   324
+Block: Shield            |    42 |    66 |    66 |       ||   174
+

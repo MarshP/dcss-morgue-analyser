@@ -1,0 +1,333 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+5601 Mash the Severer (level 10, 0/77 HPs)
+             Began as a Minotaur Fighter on Aug 28, 2017.
+             Was an Elder of Okawaru.
+             Slain by a blink frog (1 damage)
+             ... on level 8 of the Dungeon on Aug 29, 2017.
+             The game lasted 00:31:26 (9301 turns).
+
+Mash the Severer (Minotaur Fighter)                 Turns: 9301, Time: 00:31:26
+
+Health: 0/77       AC: 20    Str: 23 (24) XL:     10   Next: 45%
+Magic:  7/9        EV:  8    Int:  5      God:    Okawaru [****..]
+Gold:   555        SH: 11    Dex: 10      Spells: 9/9 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   J - +1 plate armour
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    +         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+Regen    0.3/turn               F - +3 ring of protection
+MPRegen  0.2/turn               y - ring of resist corrosion
+
+@: heroism
+A: retaliatory headbutt, horns 2
+a: Heroism, Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was greatly pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 10 of its levels.
+You also visited: Ossuary.
+
+You collected 555 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+ M - a cursed -1 flail
+Missiles
+ d - 7 javelins of penetration
+ G - 5 tomahawks (quivered)
+Armour
+ c - a +0 shield (worn)
+ J - a +1 plate armour (worn)
+Jewellery
+ k - an uncursed ring of fire
+ y - a ring of resist corrosion (right hand)
+ F - a +3 ring of protection (left hand)
+ I - an uncursed ring of ice
+Wands
+ b - a wand of enslavement (16/24)
+ t - a wand of confusion (28/48)
+Scrolls
+ h - 3 scrolls of blinking
+ i - a scroll of magic mapping
+ j - a scroll of noise {unknown}
+ l - a scroll of enchant armour
+ m - 6 scrolls of remove curse
+ o - a scroll of fear {unknown}
+ p - a scroll of immolation
+ s - 2 scrolls of amnesia
+ v - 2 scrolls of random uselessness {unknown}
+ B - a scroll of teleportation {unknown}
+ E - 2 scrolls of fog {unknown}
+ H - a scroll of silence {unknown}
+ N - a scroll of acquirement {unknown}
+Potions
+ e - a potion of cancellation
+ n - a potion of mutation
+ q - 2 potions of degeneration
+ r - a potion of berserk rage {unknown}
+ u - 2 potions of flight {unknown}
+ w - a potion of ambrosia {unknown}
+ x - a potion of resistance {unknown}
+ A - 2 potions of magic
+ C - a potion of invisibility {unknown}
+ D - a potion of haste {unknown}
+ K - 2 potions of heal wounds {unknown}
+Comestibles
+ f - 9 bread rations
+ g - 9 meat rations
+ z - a chunk of flesh
+
+
+   Skills:
+ - Level 3.6(8.6) Fighting
+ * Level 15.9(20.9) Axes
+ + Level 9.0(14.0) Armour
+ - Level 3.6(8.6) Shields
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:4            Lair (1/6) D:8
+
+Altars:
+Ashenzari
+Cheibriados
+Hepliaklqana
+Nemelex Xobeh
+Okawaru
+Uskayaw
+Xom
+
+Shops:
+D:5 *   D:6 }
+
+Annotations:
+D:2 Terence
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+The crocodile bites you!
+* * * LOW HITPOINT WARNING * * *
+You hit the crocodile but do no damage. You headbutt the crocodile.
+The crocodile is moderately wounded.
+You slash the blink frog!
+Your shield and plate armour prevent you from hitting the blink frog.
+The blink frog closely misses you.
+The blink frog hits you but does no damage.
+You barely miss the crocodile. Your headbutt misses the crocodile.
+The crocodile is moderately wounded.
+You closely miss the blink frog.
+Your shield and plate armour prevent you from hitting the blink frog.
+The crocodile bites you but does no damage.
+The blink frog hits you but does no damage.
+You hit the crocodile but do no damage.
+The crocodile is moderately wounded.
+You miss the blink frog. You barely miss the blink frog. The blink frog closely misses you. You furiously retaliate! You headbutt the blink frog!
+The crocodile bites you but does no damage.
+The blink frog hits you.
+You die...
+
+           ######
+         ###....####      ######
+        ##.........###    #....#
+        #..P.PP.P....##   #....#
+       ##..)...P.P.PP.#   #....#
+       #..P.P.....P.P.##  #....#
+    ####...........P...#  #....#######
+    #.........####..PP.## #...........
+    #>###.PP.P#F@#...P..# #....###<...
+#####<..).....#tF#....P.# #.##........
+#.............#+##..P...###.#..####...
+#................P....P.......##  #...
+#.........P...P.....P..####.###   ####
+#)..........P......P..## ##.#
+#.........#....P....P#####..#        #
+#####..#####..PP...### #...###########
+    ##.### #.###....#  #.### #........
+     #...###)# ####.####.#####.#######
+     ###..##.#   ##............#     #
+       ##.#..#  ##...#.........#    ##
+        #.#.## ##.........####.######.
+
+
+You could see 2 blink frogs and a crocodile.
+
+Vanquished Creatures
+  A two-headed ogre (D:8)
+  2 hippogriffs
+  2 blink frogs
+  A yak (D:7)
+  3 hogs (D:7)
+  A human (D:7)
+  A steam dragon (D:7)
+  2 porcupines (D:8)
+  An orc warrior (D:8)
+  2 ice beasts (D:5)
+  2 sky beasts
+  A necrophage (D:7)
+  An ogre (D:4)
+  A phantom (D:8)
+  2 centaurs
+  A big kobold (D:8)
+  6 bullfrogs
+  A gnoll sergeant (D:7)
+  2 scorpions
+  5 killer bees (D:8)
+  4 wights (D:7)
+  2 howler monkeys
+  4 crimson imps
+  2 bullfrog zombies (D:8)
+  4 hounds
+  A jelly (D:5)
+  4 orc priests
+  2 orc wizards (D:6)
+  4 bullfrog skeletons
+  A human zombie (Ossuary)
+  2 iguanas
+  Natasha (twice) (D:2)
+  5 worker ants
+  3 big kobold zombies (Ossuary)
+  A hound skeleton (D:6)
+  2 mummies (Ossuary)
+  5 gnolls (D:7)
+  7 adders
+  A shadow imp (D:7)
+  An ooze (D:2)
+  2 worms
+  2 dart slugs
+  8 leopard geckos
+  14 orcs
+  6 bats
+  4 giant cockroaches
+  2 gnoll zombies (Ossuary)
+  10 goblins
+  12 hobgoblins
+  5 jackals
+  6 quokkas
+  A ball python skeleton (D:5)
+  4 frilled lizards
+  A giant cockroach zombie (D:6)
+  2 goblin zombies (Ossuary)
+  3 hobgoblin zombies (Ossuary)
+  15 kobolds
+  A leopard gecko skeleton (D:7)
+  3 orc zombies (Ossuary)
+  26 rats
+222 creatures vanquished.
+
+Vanquished Creatures (others)
+  A bullfrog (D:7)
+  14 fungi (D:8)
+  7 plants (D:8)
+22 creatures vanquished.
+
+Grand Total: 244 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    50 | D:1      | Reached skill level 3 in Axes
+    82 | D:1      | Reached XP level 2. HP: 25/26 MP: 1/1
+   521 | D:1      | Reached skill level 4 in Axes
+   738 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+   811 | D:2      | Found a shattered altar of Ashenzari.
+   813 | D:2      | Noticed Natasha
+   829 | D:2      | Killed Natasha
+   829 | D:2      | Reached skill level 5 in Axes
+  1025 | D:2      | Reached XP level 4. HP: 31/39 MP: 3/3
+  1337 | D:2      | You fall through a shaft!
+  1434 | D:2      | Noticed Natasha
+  1445 | D:2      | Killed Natasha
+  1574 | D:2      | Reached skill level 6 in Axes
+  1763 | D:2      | Noticed Terence
+  1824 | D:3      | Reached XP level 5. HP: 45/45 MP: 4/4
+  1943 | D:3      | Reached skill level 7 in Axes
+  2527 | D:4      | Reached XP level 6. HP: 51/51 MP: 5/5
+  2580 | D:4      | Reached skill level 8 in Axes
+  2640 | D:4      | Found a sand-covered staircase.
+  2644 | Ossuary  | Entered an ossuary
+  2952 | D:4      | Reached skill level 9 in Axes
+  3172 | D:4      | Found a staircase to the Ecumenical Temple.
+  3181 | Temple   | Entered the Ecumenical Temple
+  3242 | Temple   | Became a worshipper of Warmaster Okawaru
+  3379 | D:4      | Reached XP level 7. HP: 31/57 MP: 6/6
+  3731 | D:5      | Entered Level 5 of the Dungeon
+  3977 | D:5      | Found Xigg's Assorted Antiques.
+  4353 | D:5      | Reached skill level 10 in Axes
+  4680 | D:5      | Found an iron altar of Okawaru.
+  4698 | D:5      | Reached * piety under Okawaru
+  4698 | D:5      | Reached skill level 11 in Axes
+  4706 | D:5      | Reached XP level 8. HP: 43/64 MP: 7/7
+  5337 | D:6      | Reached skill level 12 in Axes
+  5684 | D:6      | Found a snail-covered altar of Cheibriados.
+  6023 | D:6      | Found Hucvot's Gadget Shop.
+  6135 | D:7      | Found a sparkling altar of Nemelex Xobeh.
+  6176 | D:7      | Reached ** piety under Okawaru
+  6186 | D:7      | Noticed a hippogriff
+  6197 | D:7      | Killed a hippogriff
+  6332 | D:7      | Reached skill level 5 in Armour
+  6351 | D:7      | Reached skill level 13 in Axes
+  6485 | D:7      | Reached XP level 9. HP: 67/70 MP: 8/8
+  7041 | D:7      | Reached *** piety under Okawaru
+  7136 | D:7      | Reached skill level 14 in Axes
+  8085 | D:8      | Reached **** piety under Okawaru
+  8200 | D:8      | Noticed a two-headed ogre
+  8222 | D:8      | Killed a two-headed ogre
+  8222 | D:8      | Reached skill level 15 in Axes
+  8222 | D:8      | Reached XP level 10. HP: 18/77 MP: 5/9
+  8596 | D:8      | Received a gift from Okawaru
+  8762 | D:8      | Found a staircase to the Lair.
+  8902 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  9298 | D:8      | HP: 1/77 [crocodile (7)]
+  9301 | D:8      | Slain by a blink frog
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Axes           |  3  4  5  6  7  9 11 13 15    | 15.9
+Armour         |                       5  8  9 |  9.0
+Fighting       |                               |  3.6
+Shields        |                               |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: War axe           |    95 |   173 |   375 |    76 ||   719
+       Headbutt          |     7 |    30 |    57 |    17 ||   111
+Invok: Heroism           |       |       |     5 |     3 ||     8
+Evoke: Wand              |       |       |     1 |       ||     1
+  Use: Potion            |     1 |       |     3 |       ||     4
+       Scroll            |       |       |     5 |     5 ||    10
+ Stab: Confused          |       |       |     1 |       ||     1
+  Eat: Chunk             |       |     6 |     2 |       ||     8
+       Fruit             |       |     3 |     4 |       ||     7
+       Bread ration      |       |       |     1 |       ||     1
+       Royal jelly       |       |       |     3 |     3 ||     6
+Armor: Scale mail        |    39 |    47 |    27 |       ||   113
+       Plate armour      |       |       |   112 |    29 ||   141
+Dodge: Dodged            |    33 |    33 |    76 |    15 ||   157
+Block: Shield            |    55 |    67 |   140 |    34 ||   296
+
