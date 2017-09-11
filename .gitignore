@@ -106,3 +106,4 @@ ENV/
 .idea/workspace.xml
 test/test-data/dcssma-analysis.txt
 test/test-data/dcssma-analysis.txt
+test/test-data/dcssma-analysis.md
