@@ -31,6 +31,7 @@ def process_data(buffer, directory_path):
 # TODO ...and other gameplay smells to be added
 # TODO What is the progress on primary skills for the background and species, or the skills with best species aptitude?
 # TODO Later convert all this to some NLP or parsing library made for the job
+# FIXME Functions are massive with mant side effects. Makes it hard to test and refigure them. Refactor.
 
 def progress_stats(buffer, directory_path):
     # TODO Docstrings throughout.
