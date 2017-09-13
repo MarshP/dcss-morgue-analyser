@@ -126,6 +126,16 @@ class DeathStats:
                 bestgame = s
         return bestgame['score']
 
+    def get_averagescore(self,stat=None):
+        if stat is None:
+            stat = self.Stats
+        avg = 0.0
+        if len(stat)==0:
+            return 0
+        for s in stat:
+            avg=avg+s['score']
+        return int(avg/len(stat))
+
     def get_information(self, morgue):
         stat = {}
         line = 0
@@ -272,6 +282,7 @@ def write_percharacter_stats(deathstats, list_character):
         write_file("Killed most by : {}".format(deathstats.get_stat_basic("death_cause", lcstat)))
         write_file("Killed most in : {}".format(deathstats.get_stat_basic("dun+lev", lcstat)))
         write_file("Best game : {}".format(deathstats.get_best_game(lcstat)))
+        write_file("Average Score : {}".format(deathstats.get_averagescore(lcstat)))
 
 
 def main():
@@ -298,6 +309,7 @@ def main():
     write_file("Killed most by : {}".format(ds.get_stat_basic("death_cause")))
     write_file("Killed most in : {}".format(ds.get_stat_basic("dun+lev")))
     write_file("Best game : {}".format(ds.get_best_game()))
+    write_file("Average Score : {}".format(ds.get_averagescore()))
     write_file("-" * 50)
 
     list_character = ds.get_character_list()
