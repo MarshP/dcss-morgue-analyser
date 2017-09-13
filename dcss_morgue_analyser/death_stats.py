@@ -17,6 +17,27 @@ class DeathStats:
 
     MorgueFiles = []
 
+    """
+    Example of line in Stats :
+    {'dungeon': 'Dungeon',
+    'background': 'Ice Elementalist',
+    'name': 'Awutz',
+    'hp': '30',
+    'surname': 'the Chiller',
+    'duration': '00:11:56',
+    'dun+lev': 'Dungeon:1',
+    'level': '4',
+    'turns': '2120',
+    'god': 'None',
+    'religion_rank': 'None',
+    'filename': 'morgue-Awutz-20160912-104224.txt',
+    'species': 'Merfolk',
+    'version': '0.18.1 (tiles)',
+    'death_cause': 'giant frog',
+    'dungeon_level': '1',
+    'score': 63}
+    """
+
     Stats = []
 
     def __init__(self, morguepath):
