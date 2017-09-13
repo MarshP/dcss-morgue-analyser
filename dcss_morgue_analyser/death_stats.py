@@ -1,19 +1,23 @@
 import argparse
 import operator
+from enum import Enum
 from os import listdir, remove, path
 from os.path import isfile, join
-from enum import Enum
-import dcss_data
 
 
 class DeathStats:
+    """
+    Class that parses morgue folder and generate a stat structure
+    that can be interrogated through get... methods
+    """
+
     MorguePath = ''
 
     Verbose = True
 
     MorgueFiles = []
 
-    stats = []
+    Stats = []
 
     def __init__(self, morguepath):
         """
@@ -21,51 +25,62 @@ class DeathStats:
         :param morguepath: Path to crawl morgue files (ex: C:\dcss\morgue )
         """
         self.MorguePath = morguepath
-        MorgueFiles = []
+        self.MorgueFiles = []
         for f in listdir(self.MorguePath):
-            if (isfile(join(self.MorguePath, f)) and (f[:6] == "morgue") and (f[-3:] == "txt")):
+            if isfile(join(self.MorguePath, f)) and f[:6] == "morgue" and f[-3:] == "txt":
                 self.MorgueFiles.append(f)
 
-    def Analyze(self):
+    def analyze(self):
 
         """
-        Analyze morgue files in :MorguePath and fill :stats
+        Analyze morgue files in :MorguePath and fill :Stats
         """
-        self.stats = []
+        self.Stats = []
 
         for morgue in self.MorgueFiles:
             print(morgue)
             with open(join(self.MorguePath, morgue)) as file:
                 content = file.readlines()
 
-            stat = self.getInformation(content)
+            stat = self.get_information(content)
             stat['filename'] = morgue
-            self.stats.append(stat)
+            self.Stats.append(stat)
 
-    def getNumberOfGame(self):
-        return len(self.stats)
+    def get_number_of_game(self, stat=None):
+        """
+        :return: the number of game played in global or param stat structure
+        """
+        if stat is None:
+            stat = self.Stats
 
-    def getFilteredStatChar(self, character):
+        return len(stat)
+
+    def get_filtered_stat(self, character):
+        """
+        returns a stat structure filtered for character
+        :param character: the character (race+job) to filter
+        :return: stat structure
+        """
         filtstat = []
-        for s in self.stats:
+        for s in self.Stats:
             sb = s['species'] + ' ' + s['background']
             if sb == character:
                 filtstat.append(s)
         return filtstat
 
-    def getCharacterList(self):
+    def get_character_list(self):
 
         list_char = []
-        for s in self.stats:
+        for s in self.Stats:
             sb = s['species'] + ' ' + s['background']
             if sb not in list_char:
                 list_char.append(sb)
 
         return list_char
 
-    def getStatBasic(self, param, stat=None):
+    def get_stat_basic(self, param, stat=None):
         if stat is None:
-            stat = self.stats
+            stat = self.Stats
         simplestat = {}
         for s in stat:
             if s[param] in simplestat:
@@ -79,23 +94,23 @@ class DeathStats:
                 s = s + "{} ({} times)\n".format(k[0], simplestat[k[0]])
             return s
         else:
-            return (sorted_simplestat[1] + " (" + simplestat[sorted_simplestat[1]] + " times)")
+            return sorted_simplestat[1] + " (" + simplestat[sorted_simplestat[1]] + " times)"
 
-    def getBestGame(self, stat=None):
+    def get_best_game(self, stat=None):
         if stat is None:
-            stat = self.stats
+            stat = self.Stats
         bestgame = {'score': 0}
         for s in stat:
             if s['score'] > bestgame['score']:
                 bestgame = s
-        return (bestgame['score'])
+        return bestgame['score']
 
-    def getInformation(self, morgue):
+    def get_information(self, morgue):
         stat = {}
         line = 0
-        stat['version'] = self.getVersion(morgue[line])
+        stat['version'] = self.get_version(morgue[line])
 
-        # Score & main stats
+        # Score & main Stats
         # example string :
         # 64 Olivier the Skirmisher (level 3, -1/34 HPs)
         line = line + 2
@@ -120,10 +135,10 @@ class DeathStats:
         # Find religion
         line = line + 1
         curline = morgue[line].strip()
-        if (curline.startswith('Was')):
-            if (curline.find('Was an') > -1):
+        if curline.startswith('Was'):
+            if curline.find('Was an') > -1:
                 stat['religion_rank'] = curline[curline.find('Was an') + 6: curline.find(' of ')]
-            elif (curline.find('Was the') > -1):
+            elif curline.find('Was the') > -1:
                 stat['religion_rank'] = curline[curline.find('Was the') + 6: curline.find(' of ')]
             else:
                 stat['religion_rank'] = curline[curline.find('Was a') + 6: curline.find(' of ')]
@@ -138,7 +153,7 @@ class DeathStats:
         line = line + 1
         curline = morgue[line]
 
-        if (morgue[line + 1].strip().startswith("... invoked")):
+        if morgue[line + 1].strip().startswith("... invoked"):
             linetab = morgue[line + 1].strip().split(' ')
             stat['death_cause'] = ' '.join(linetab[4:])
         else:
@@ -153,18 +168,18 @@ class DeathStats:
                 del linetab[1]
 
             if linetab[1] == "with":
-                while (linetab[1] != "by"):
+                while linetab[1] != "by":
                     del linetab[1]
 
-            if (linetab[0].startswith('...')):
+            if linetab[0].startswith('...'):
                 stat['death_cause'] = 'Not Dead'
             else:
-                if (linetab[1] == "by" or linetab[1] == "to"):
-                    if (linetab[2] == "a" or linetab[2] == "an"):
+                if linetab[1] == "by" or linetab[1] == "to":
+                    if linetab[2] == "a" or linetab[2] == "an":
                         stat['death_cause'] = ' '.join(linetab[3:])
                     else:
                         stat['death_cause'] = ' '.join(linetab[2:])
-                if (stat['death_cause'].find('\'s ghost') > -1):
+                if stat['death_cause'].find('\'s ghost') > -1:
                     stat['death_cause'] = "Player" + stat['death_cause'][stat['death_cause'].find('\'s ghost'):]
 
         # dungeon & level
@@ -179,12 +194,12 @@ class DeathStats:
             stat['dungeon'] = linetab[3]
             stat['dungeon_level'] = '(/na)'
 
-        if (stat['dungeon'].endswith('.')):
+        if stat['dungeon'].endswith('.'):
             stat['dungeon'] = stat['dungeon'][:-1]
         stat['dun+lev'] = stat['dungeon'] + ":" + stat['dungeon_level']
         # Game duration
         line = 4
-        while (not morgue[line].strip().startswith('The game lasted')):
+        while not morgue[line].strip().startswith('The game lasted'):
             line = line + 1
 
         linetab = morgue[line].strip().split(' ')
@@ -194,11 +209,11 @@ class DeathStats:
         return stat
 
     @staticmethod
-    def getVersion(line):
+    def get_version(line):
         # Dungeon Crawl Stone Soup version 0.18.1 (tiles) character file.
         idxv = line.find('version ') + 8
         idxc = line.find(' character')
-        return (line[idxv:idxc])
+        return line[idxv:idxc]
 
 
 ###############
@@ -229,13 +244,13 @@ def write_file(data):
 
 def write_percharacter_stats(deathstats, list_character):
     for lc in list_character:
-        lcstat = deathstats.getFilteredStatChar(lc)
+        lcstat = deathstats.get_filtered_stat(lc)
         write_file("-" * 50)
         write_file("Statistic for : {}".format(lc))
-        write_file("Number of games played : {}".format(len(lcstat)))
-        write_file("Killed most by : {}".format(deathstats.getStatBasic("death_cause", lcstat)))
-        write_file("Killed most in : {}".format(deathstats.getStatBasic("dun+lev", lcstat)))
-        write_file("Best game : {}".format(deathstats.getBestGame(lcstat)))
+        write_file("Number of games played : {}".format(deathstats.get_number_of_game(lcstat)))
+        write_file("Killed most by : {}".format(deathstats.get_stat_basic("death_cause", lcstat)))
+        write_file("Killed most in : {}".format(deathstats.get_stat_basic("dun+lev", lcstat)))
+        write_file("Best game : {}".format(deathstats.get_best_game(lcstat)))
 
 
 def main():
@@ -246,25 +261,25 @@ def main():
     parser.add_argument("-p", "--path", type=str, help="DCSS path", default=path.dirname(path.abspath(__file__)))
     args = parser.parse_args()
 
-    CRAWL_PATH = args.path
-    MORGUE_PATH = join(CRAWL_PATH, 'morgue')
+    crawl_path = args.path
+    morgue_path = join(crawl_path, 'morgue')
 
     if isfile(OUTPUTFILE):
         remove(OUTPUTFILE)
 
-    ds = DeathStats(MORGUE_PATH)
+    ds = DeathStats(morgue_path)
 
-    ds.Analyze()
+    ds.analyze()
 
     write_file("-" * 50)
-    write_file("Number of games played : {}".format(ds.getNumberOfGame()))
+    write_file("Number of games played : {}".format(ds.get_number_of_game()))
     write_file("-" * 50)
-    write_file("Killed most by : {}".format(ds.getStatBasic("death_cause")))
-    write_file("Killed most in : {}".format(ds.getStatBasic("dun+lev")))
-    write_file("Best game : {}".format(ds.getBestGame()))
+    write_file("Killed most by : {}".format(ds.get_stat_basic("death_cause")))
+    write_file("Killed most in : {}".format(ds.get_stat_basic("dun+lev")))
+    write_file("Best game : {}".format(ds.get_best_game()))
     write_file("-" * 50)
 
-    list_character = ds.getCharacterList()
+    list_character = ds.get_character_list()
     write_percharacter_stats(ds, list_character)
 
 
