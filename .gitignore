@@ -104,3 +104,8 @@ ENV/
 # mypy
 .mypy_cache/
 .idea/workspace.xml
+.idea/dictionaries/Olivier_Schwab.xml
+.idea/misc.xml
+.idea/dcss-morgue-analyser.iml
+.idea/dcss-morgue-analyser.iml
+dcss_morgue_analyser/death_stats.txt
