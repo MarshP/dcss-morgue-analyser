@@ -1,8 +1,29 @@
 import argparse
 import operator
-from enum import Enum
+from enum import Enum,auto
 from os import listdir, remove, path
 from os.path import isfile, join
+
+
+class StatColumn(Enum):
+    dungeon = 0
+    background = auto()
+    name = auto()
+    hp = auto()
+    surname = auto()
+    duration = auto()
+    dun_lev = auto()
+    level = auto()
+    turns = auto()
+    god = auto()
+    religion_rank = auto()
+    filename = auto()
+    species = auto()
+    version = auto()
+    death_cause = auto()
+    dungeon_level = auto()
+    score = auto()
+
 
 
 class DeathStats:
@@ -16,6 +37,8 @@ class DeathStats:
     Verbose = True
 
     MorgueFiles = []
+
+
 
     """
     Example of line in Stats :
@@ -64,7 +87,7 @@ class DeathStats:
                 content = file.readlines()
 
             stat = self.get_information(content)
-            stat['filename'] = morgue
+            stat[StatColumn.filename] = morgue
             self.Stats.append(stat)
 
     def get_number_of_game(self, stat=None):
@@ -84,7 +107,7 @@ class DeathStats:
         """
         filtstat = []
         for s in self.Stats:
-            sb = s['species'] + ' ' + s['background']
+            sb = s[StatColumn.species] + ' ' + s[StatColumn.background]
             if sb == character:
                 filtstat.append(s)
         return filtstat
@@ -93,7 +116,7 @@ class DeathStats:
 
         list_char = []
         for s in self.Stats:
-            sb = s['species'] + ' ' + s['background']
+            sb = s[StatColumn.species] + ' ' + s[StatColumn.background]
             if sb not in list_char:
                 list_char.append(sb)
 
@@ -120,11 +143,11 @@ class DeathStats:
     def get_best_game(self, stat=None):
         if stat is None:
             stat = self.Stats
-        bestgame = {'score': 0}
+        bestgame = stat[0]
         for s in stat:
-            if s['score'] > bestgame['score']:
+            if s[StatColumn.score] > bestgame[StatColumn.score]:
                 bestgame = s
-        return bestgame['score']
+        return bestgame[StatColumn.score]
 
     def get_averagescore(self,stat=None):
         if stat is None:
@@ -133,24 +156,24 @@ class DeathStats:
         if len(stat)==0:
             return 0
         for s in stat:
-            avg=avg+s['score']
+            avg=avg+s[StatColumn.score]
         return int(avg/len(stat))
 
     def get_information(self, morgue):
         stat = {}
         line = 0
-        stat['version'] = self.get_version(morgue[line])
+        stat[StatColumn.version] = self.get_version(morgue[line])
 
         # Score & main Stats
         # example string :
         # 64 Olivier the Skirmisher (level 3, -1/34 HPs)
         line = line + 2
         curline = morgue[line]
-        stat['score'] = int(curline[:curline.find(' ')])
-        stat['name'] = curline[curline.find(' ') + 1:curline.find('the') - 1]
-        stat['surname'] = curline[curline.find('the '):curline.find('(') - 1]
-        stat['level'] = curline[curline.find('level ') + 6:curline.find(',')]
-        stat['hp'] = curline[curline.find('/') + 1:curline.find('HP') - 1]
+        stat[StatColumn.score] = int(curline[:curline.find(' ')])
+        stat[StatColumn.name] = curline[curline.find(' ') + 1:curline.find('the') - 1]
+        stat[StatColumn.surname] = curline[curline.find('the '):curline.find('(') - 1]
+        stat[StatColumn.level] = curline[curline.find('level ') + 6:curline.find(',')]
+        stat[StatColumn.hp] = curline[curline.find('/') + 1:curline.find('HP') - 1]
 
         # Race & Background
         # example string :
@@ -158,26 +181,26 @@ class DeathStats:
         line = line + 1
         curline = morgue[line]
         linetab = curline.strip().split(' ')
-        stat['species'] = linetab[3]
-        stat['background'] = linetab[4]
+        stat[StatColumn.species] = linetab[3]
+        stat[StatColumn.background] = linetab[4]
         if len(linetab) > 9:
-            stat['background'] = stat['background'] + ' ' + linetab[5]
+            stat[StatColumn.background] = stat[StatColumn.background] + ' ' + linetab[5]
 
         # Find religion
         line = line + 1
         curline = morgue[line].strip()
         if curline.startswith('Was'):
             if curline.find('Was an') > -1:
-                stat['religion_rank'] = curline[curline.find('Was an') + 6: curline.find(' of ')]
+                stat[StatColumn.religion_rank] = curline[curline.find('Was an') + 6: curline.find(' of ')]
             elif curline.find('Was the') > -1:
-                stat['religion_rank'] = curline[curline.find('Was the') + 6: curline.find(' of ')]
+                stat[StatColumn.religion_rank] = curline[curline.find('Was the') + 6: curline.find(' of ')]
             else:
-                stat['religion_rank'] = curline[curline.find('Was a') + 6: curline.find(' of ')]
+                stat[StatColumn.religion_rank] = curline[curline.find('Was a') + 6: curline.find(' of ')]
 
-            stat['god'] = curline[curline.find(' of ') + 4:curline.find('.')]
+            stat[StatColumn.god] = curline[curline.find(' of ') + 4:curline.find('.')]
         else:
-            stat['religion_rank'] = 'None'
-            stat['god'] = 'None'
+            stat[StatColumn.religion_rank] = 'None'
+            stat[StatColumn.god] = 'None'
             line = line - 1
 
         # Cause of death
@@ -186,7 +209,7 @@ class DeathStats:
 
         if morgue[line + 1].strip().startswith("... invoked"):
             linetab = morgue[line + 1].strip().split(' ')
-            stat['death_cause'] = ' '.join(linetab[4:])
+            stat[StatColumn.death_cause] = ' '.join(linetab[4:])
         else:
             # write_file(curline)
             linetab = curline.strip().split(' ')
@@ -203,15 +226,15 @@ class DeathStats:
                     del linetab[1]
 
             if linetab[0].startswith('...'):
-                stat['death_cause'] = 'Not Dead'
+                stat[StatColumn.death_cause] = 'Not Dead'
             else:
                 if linetab[1] == "by" or linetab[1] == "to":
                     if linetab[2] == "a" or linetab[2] == "an":
-                        stat['death_cause'] = ' '.join(linetab[3:])
+                        stat[StatColumn.death_cause] = ' '.join(linetab[3:])
                     else:
-                        stat['death_cause'] = ' '.join(linetab[2:])
-                if stat['death_cause'].find('\'s ghost') > -1:
-                    stat['death_cause'] = "Player" + stat['death_cause'][stat['death_cause'].find('\'s ghost'):]
+                        stat[StatColumn.death_cause] = ' '.join(linetab[2:])
+                if stat[StatColumn.death_cause].find('\'s ghost') > -1:
+                    stat[StatColumn.death_cause] = "Player" + stat[StatColumn.death_cause][stat[StatColumn.death_cause].find('\'s ghost'):]
 
         # dungeon & level
         while not (morgue[line].strip().startswith('... on level') or morgue[line].strip().startswith('... in a')):
@@ -219,23 +242,23 @@ class DeathStats:
 
         linetab = morgue[line].strip().split(' ')
         if len(linetab) > 4:
-            stat['dungeon_level'] = linetab[3]
-            stat['dungeon'] = linetab[6]
+            stat[StatColumn.dungeon_level] = linetab[3]
+            stat[StatColumn.dungeon] = linetab[6]
         else:
-            stat['dungeon'] = linetab[3]
-            stat['dungeon_level'] = '(/na)'
+            stat[StatColumn.dungeon] = linetab[3]
+            stat[StatColumn.dungeon_level] = '(/na)'
 
-        if stat['dungeon'].endswith('.'):
-            stat['dungeon'] = stat['dungeon'][:-1]
-        stat['dun+lev'] = stat['dungeon'] + ":" + stat['dungeon_level']
+        if stat[StatColumn.dungeon].endswith('.'):
+            stat[StatColumn.dungeon] = stat[StatColumn.dungeon][:-1]
+        stat[StatColumn.dun_lev] = stat[StatColumn.dungeon] + ":" + stat[StatColumn.dungeon_level]
         # Game duration
         line = 4
         while not morgue[line].strip().startswith('The game lasted'):
             line = line + 1
 
         linetab = morgue[line].strip().split(' ')
-        stat['duration'] = linetab[3]
-        stat["turns"] = linetab[4][1:]
+        stat[StatColumn.duration] = linetab[3]
+        stat[StatColumn.turns] = linetab[4][1:]
 
         return stat
 
@@ -258,7 +281,7 @@ class OutputType(Enum):
 
 # TODO manage output type
 Output = OutputType.Console
-OUTPUTFILE = r'death_stats.txt'
+OutputFile = r'death_stats.txt'
 
 
 def write_file(data):
@@ -268,7 +291,7 @@ def write_file(data):
     :return:
     """
     # TODO manage output type
-    file_name = OUTPUTFILE
+    file_name = OutputFile
     with open(file_name, 'a') as x_file:
         x_file.write(data + "\n")
 
@@ -279,8 +302,8 @@ def write_percharacter_stats(deathstats, list_character):
         write_file("-" * 50)
         write_file("Statistic for : {}".format(lc))
         write_file("Number of games played : {}".format(deathstats.get_number_of_game(lcstat)))
-        write_file("Killed most by : {}".format(deathstats.get_stat_basic("death_cause", lcstat)))
-        write_file("Killed most in : {}".format(deathstats.get_stat_basic("dun+lev", lcstat)))
+        write_file("Killed most by : {}".format(deathstats.get_stat_basic(StatColumn.death_cause, lcstat)))
+        write_file("Killed most in : {}".format(deathstats.get_stat_basic(StatColumn.dun_lev, lcstat)))
         write_file("Best game : {}".format(deathstats.get_best_game(lcstat)))
         write_file("Average Score : {}".format(deathstats.get_averagescore(lcstat)))
 
@@ -296,8 +319,8 @@ def main():
     crawl_path = args.path
     morgue_path = join(crawl_path, 'morgue')
 
-    if isfile(OUTPUTFILE):
-        remove(OUTPUTFILE)
+    if isfile(OutputFile):
+        remove(OutputFile)
 
     ds = DeathStats(morgue_path)
 
@@ -306,8 +329,8 @@ def main():
     write_file("-" * 50)
     write_file("Number of games played : {}".format(ds.get_number_of_game()))
     write_file("-" * 50)
-    write_file("Killed most by : {}".format(ds.get_stat_basic("death_cause")))
-    write_file("Killed most in : {}".format(ds.get_stat_basic("dun+lev")))
+    write_file("Killed most by : {}".format(ds.get_stat_basic(StatColumn.death_cause)))
+    write_file("Killed most in : {}".format(ds.get_stat_basic(StatColumn.dun_lev)))
     write_file("Best game : {}".format(ds.get_best_game()))
     write_file("Average Score : {}".format(ds.get_averagescore()))
     write_file("-" * 50)
