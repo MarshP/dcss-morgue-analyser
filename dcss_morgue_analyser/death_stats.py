@@ -126,7 +126,7 @@ class DeathStats:
 i       From the stat structure in param , get the count of each possible value of *column*
         :param column: the StatColumn value
         :param stat: the stat structure ; if None global one is taken
-        :return: 
+        :return: a list of tuples (column value,count)
         """
         if stat is None:
             stat = self.Stats
@@ -144,6 +144,11 @@ i       From the stat structure in param , get the count of each possible value 
         return sorted_simplestat
 
     def get_best_game(self, stat=None):
+        """
+        returns the game with higher score
+        :param stat: the stat structure ; if None global one is taken
+        :return: the highest score
+        """
         if stat is None:
             stat = self.Stats
         bestgame = stat[0]
@@ -153,6 +158,11 @@ i       From the stat structure in param , get the count of each possible value 
         return bestgame[StatColumn.score]
 
     def get_averagescore(self, stat=None):
+        """
+        returns the average score
+        :param stat: the stat structure ; if None global one is taken
+        :return: the average score
+        """
         if stat is None:
             stat = self.Stats
         avg = 0.0
@@ -163,6 +173,11 @@ i       From the stat structure in param , get the count of each possible value 
         return int(avg / len(stat))
 
     def get_information(self, morgue):
+        """
+        Create an entry for the stat structure
+        :param morgue: the morgue file
+        :return: the information contained in the morge file
+        """
         stat = {}
         line = 0
         stat[StatColumn.version] = self.get_version(morgue[line])
@@ -268,7 +283,13 @@ i       From the stat structure in param , get the count of each possible value 
 
     @staticmethod
     def get_version(line):
+        # example line :
         # Dungeon Crawl Stone Soup version 0.18.1 (tiles) character file.
+        """
+        Extract version information from the line
+        :param line: the line of the morgue file
+        :return: the version
+        """
         idxv = line.find('version ') + 8
         idxc = line.find(' character')
         return line[idxv:idxc]
