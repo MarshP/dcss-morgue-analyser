@@ -1,6 +1,6 @@
 import argparse
 import operator
-from enum import Enum,auto
+from enum import Enum, auto
 from os import listdir, remove, path
 from os.path import isfile, join
 
@@ -25,7 +25,6 @@ class StatColumn(Enum):
     score = auto()
 
 
-
 class DeathStats:
     """
     Class that parses morgue folder and generate a stat structure
@@ -34,11 +33,7 @@ class DeathStats:
 
     MorguePath = ''
 
-    Verbose = True
-
     MorgueFiles = []
-
-
 
     """
     Example of line in Stats :
@@ -114,6 +109,10 @@ class DeathStats:
 
     def get_character_list(self):
 
+        """
+        Get the list of characters types (race+job) found in morgue
+        :return: a . list . of . characters
+        """
         list_char = []
         for s in self.Stats:
             sb = s[StatColumn.species] + ' ' + s[StatColumn.background]
@@ -122,23 +121,27 @@ class DeathStats:
 
         return list_char
 
-    def get_stat_basic(self, param, stat=None):
+    def get_stat_basic(self, column, stat=None, retsorted=True):
+        """
+i       From the stat structure in param , get the count of each possible value of *column*
+        :param column: the StatColumn value
+        :param stat: the stat structure ; if None global one is taken
+        :return: 
+        """
         if stat is None:
             stat = self.Stats
         simplestat = {}
         for s in stat:
-            if s[param] in simplestat:
-                simplestat[s[param]] += 1
+            if s[column] in simplestat:
+                simplestat[s[column]] += 1
             else:
-                simplestat[s[param]] = 1
-        sorted_simplestat = sorted(simplestat.items(), key=operator.itemgetter(1), reverse=True)
-        if self.Verbose:
-            s = "\n"
-            for k in sorted_simplestat:
-                s = s + "{} ({} times)\n".format(k[0], simplestat[k[0]])
-            return s
+                simplestat[s[column]] = 1
+        if retsorted:
+            sorted_simplestat = sorted(simplestat.items(), key=operator.itemgetter(1), reverse=True)
         else:
-            return sorted_simplestat[1] + " (" + simplestat[sorted_simplestat[1]] + " times)"
+            sorted_simplestat = simplestat.items()
+
+        return sorted_simplestat
 
     def get_best_game(self, stat=None):
         if stat is None:
@@ -149,15 +152,15 @@ class DeathStats:
                 bestgame = s
         return bestgame[StatColumn.score]
 
-    def get_averagescore(self,stat=None):
+    def get_averagescore(self, stat=None):
         if stat is None:
             stat = self.Stats
         avg = 0.0
-        if len(stat)==0:
+        if len(stat) == 0:
             return 0
         for s in stat:
-            avg=avg+s[StatColumn.score]
-        return int(avg/len(stat))
+            avg = avg + s[StatColumn.score]
+        return int(avg / len(stat))
 
     def get_information(self, morgue):
         stat = {}
@@ -234,7 +237,8 @@ class DeathStats:
                     else:
                         stat[StatColumn.death_cause] = ' '.join(linetab[2:])
                 if stat[StatColumn.death_cause].find('\'s ghost') > -1:
-                    stat[StatColumn.death_cause] = "Player" + stat[StatColumn.death_cause][stat[StatColumn.death_cause].find('\'s ghost'):]
+                    stat[StatColumn.death_cause] = "Player" + stat[StatColumn.death_cause][
+                                                              stat[StatColumn.death_cause].find('\'s ghost'):]
 
         # dungeon & level
         while not (morgue[line].strip().startswith('... on level') or morgue[line].strip().startswith('... in a')):
@@ -302,8 +306,18 @@ def write_percharacter_stats(deathstats, list_character):
         write_file("-" * 50)
         write_file("Statistic for : {}".format(lc))
         write_file("Number of games played : {}".format(deathstats.get_number_of_game(lcstat)))
-        write_file("Killed most by : {}".format(deathstats.get_stat_basic(StatColumn.death_cause, lcstat)))
-        write_file("Killed most in : {}".format(deathstats.get_stat_basic(StatColumn.dun_lev, lcstat)))
+        sorted_simplestat = deathstats.get_stat_basic(StatColumn.death_cause, lcstat)
+        s = "\n"
+        for k in sorted_simplestat:
+            s = s + "{} ({} times)\n".format(k[0], k[1])
+        write_file("Killed most by : {}".format(s))
+
+        sorted_simplestat = deathstats.get_stat_basic(StatColumn.dun_lev, lcstat)
+        s = "\n"
+        for k in sorted_simplestat:
+            s = s + "{} ({} times)\n".format(k[0], k[1])
+        write_file("Killed most in : {}".format(s))
+
         write_file("Best game : {}".format(deathstats.get_best_game(lcstat)))
         write_file("Average Score : {}".format(deathstats.get_averagescore(lcstat)))
 
@@ -322,21 +336,33 @@ def main():
     if isfile(OutputFile):
         remove(OutputFile)
 
-    ds = DeathStats(morgue_path)
+    deathstats = DeathStats(morgue_path)
 
-    ds.analyze()
+    deathstats.analyze()
 
     write_file("-" * 50)
-    write_file("Number of games played : {}".format(ds.get_number_of_game()))
-    write_file("-" * 50)
-    write_file("Killed most by : {}".format(ds.get_stat_basic(StatColumn.death_cause)))
-    write_file("Killed most in : {}".format(ds.get_stat_basic(StatColumn.dun_lev)))
-    write_file("Best game : {}".format(ds.get_best_game()))
-    write_file("Average Score : {}".format(ds.get_averagescore()))
+    write_file("Number of games played : {}".format(deathstats.get_number_of_game()))
     write_file("-" * 50)
 
-    list_character = ds.get_character_list()
-    write_percharacter_stats(ds, list_character)
+    stat = deathstats.get_stat_basic(StatColumn.death_cause)
+    s = "\n"
+    for k in stat:
+        s = s + "{} ({} times)\n".format(k[0], k[1])
+    write_file("Killed most by : {}".format(s))
+
+    stat = deathstats.get_stat_basic(StatColumn.dun_lev)
+
+    s = "\n"
+    for k in stat:
+        s = s + "{} ({} times)\n".format(k[0], k[1])
+    write_file("Killed most in : {}".format(s))
+
+    write_file("Best game : {}".format(deathstats.get_best_game()))
+    write_file("Average Score : {}".format(deathstats.get_averagescore()))
+    write_file("-" * 50)
+
+    list_character = deathstats.get_character_list()
+    write_percharacter_stats(deathstats, list_character)
 
 
 if __name__ == "__main__":
