@@ -1,5 +1,6 @@
 import argparse
 import operator
+import datetime
 from enum import Enum, auto
 from os import listdir, remove, path
 from os.path import isfile, join
@@ -8,6 +9,7 @@ from os.path import isfile, join
 class StatColumn(Enum):
     dungeon = 0
     background = auto()
+    datestart= auto()
     name = auto()
     hp = auto()
     surname = auto()
@@ -82,8 +84,9 @@ class DeathStats:
                 content = file.readlines()
 
             stat = self.get_information(content)
-            stat[StatColumn.filename] = morgue
-            self.Stats.append(stat)
+            if len(stat)>0:
+                stat[StatColumn.filename] = morgue
+                self.Stats.append(stat)
 
     def get_number_of_game(self, stat=None):
         """
@@ -172,6 +175,25 @@ i       From the stat structure in param , get the count of each possible value 
             avg = avg + s[StatColumn.score]
         return int(avg / len(stat))
 
+    def get_scoreevolution(self,stat=None):
+        if stat is None:
+            stat = self.Stats
+        evol={}
+        for s in stat:
+            key=s[StatColumn.datestart].strftime("%y-%m")
+            if not key in evol:
+                evol[key]=[]
+            evol[key].append(s[StatColumn.score])
+
+        ret=[]
+        for key, value in sorted(evol.items()):
+            ret.append([key,int(sum(value)/len(value))])
+
+        return ret
+
+
+
+
     def get_information(self, morgue):
         """
         Create an entry for the stat structure
@@ -180,6 +202,9 @@ i       From the stat structure in param , get the count of each possible value 
         """
         stat = {}
         line = 0
+        if self.get_typegame(morgue[line])=="Sprint":
+            # TODO Manage sprint game (different stat ?)
+            return stat
         stat[StatColumn.version] = self.get_version(morgue[line])
 
         # Score & main Stats
@@ -201,8 +226,12 @@ i       From the stat structure in param , get the count of each possible value 
         linetab = curline.strip().split(' ')
         stat[StatColumn.species] = linetab[3]
         stat[StatColumn.background] = linetab[4]
+        dateidx=len(linetab)-9
         if len(linetab) > 9:
             stat[StatColumn.background] = stat[StatColumn.background] + ' ' + linetab[5]
+        # Date
+        stat[StatColumn.datestart] = self.convert_date(linetab[7+dateidx] , linetab[6+dateidx] ,linetab[8+dateidx])
+
 
         # Find religion
         line = line + 1
@@ -293,6 +322,16 @@ i       From the stat structure in param , get the count of each possible value 
         idxv = line.find('version ') + 8
         idxc = line.find(' character')
         return line[idxv:idxc]
+    @staticmethod
+    def get_typegame(line):
+        header=line.split()
+        return header[1]
+    @staticmethod
+    def convert_date(day,month,year):
+        # from DCSS source: hiscores.cc line 532
+        months=[ "Jan", "Feb", "Mar", "Apr", "May", "June","July", "Aug", "Sept", "Oct", "Nov", "Dec"]
+        rdate = datetime.date(int(year[:-1]),months.index(month)+1,int(day[:-1]))
+        return rdate
 
 
 ###############
@@ -304,7 +343,7 @@ class OutputType(Enum):
     File = 2
 
 
-# TODO manage output type
+# TODO manage program output type
 Output = OutputType.Console
 OutputFile = r'death_stats.txt'
 
@@ -315,7 +354,7 @@ def write_file(data):
     :param data:
     :return:
     """
-    # TODO manage output type
+    # TODO manage program output type
     file_name = OutputFile
     with open(file_name, 'a') as x_file:
         x_file.write(data + "\n")
@@ -384,6 +423,9 @@ def main():
 
     list_character = deathstats.get_character_list()
     write_percharacter_stats(deathstats, list_character)
+
+    scorevol = deathstats.get_scoreevolution()
+    print(scorevol)
 
 
 if __name__ == "__main__":
