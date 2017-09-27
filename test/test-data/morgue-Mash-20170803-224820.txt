@@ -1,0 +1,386 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+7238 Mash the Cleaver (level 10, 0/80 HPs)
+             Began as a Minotaur Fighter on Aug 3, 2017.
+             Was a High Priest of Okawaru.
+             Killed by vampiric draining
+             ... invoked by Josephine
+              (13 damage)
+             ... on level 9 of the Dungeon.
+             The game lasted 00:54:15 (10265 turns).
+
+Mash the Cleaver (Minotaur Fighter)                Turns: 10265, Time: 00:54:15
+
+Health: 0/80       AC: 15    Str: 23    XL:     10   Next: 88%
+Magic:  9/9        EV: 12    Int:  8    God:    Okawaru [*****.]
+Gold:   499        SH: 12    Dex: 16    Spells: 9/9 levels left
+
+rFire    . . .     SeeInvis .   d - +1 morningstar (pain)
+rCold    + + .     Gourm    .   R - +2 shield {reflect}
+rNeg     . . .     Faith    +   G - +2 scale mail {rC+}
+rPois    .         Spirit   .   g - +1 hat
+rElec    .         Reflect  +   b - +0 cloak
+rCorr    .         Harm     .   t - +0 pair of gloves
+MR       .....                  (no boots)
+Stlth    +.........             P - amulet of faith
+Regen    0.3/turn               E - ring of protection from cold
+MPRegen  0.2/turn               U - +3 ring of intelligence
+
+@: agile, slowed, drained, very slow
+A: retaliatory headbutt, horns 2
+a: Heroism, Finesse, Renounce Religion
+
+
+You were on level 9 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 11 of its levels.
+You also visited: Sewer.
+
+You collected 499 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe
+ d - a +1 morningstar of pain (weapon)
+Missiles
+ p - 3 silver tomahawks
+ J - 4 tomahawks (quivered)
+Armour
+ b - a +0 cloak (worn)
+ g - a +1 hat (worn)
+ m - a +0 chain mail
+ t - a +0 pair of gloves (worn)
+ G - a +2 scale mail of cold resistance (worn)
+ R - a +2 shield of reflection (worn)
+Jewellery
+ e - an uncursed ring of fire
+ D - an uncursed ring of magical power
+ E - a ring of protection from cold (left hand)
+ H - an uncursed ring of teleportation
+ P - an amulet of faith (around neck)
+ U - a +3 ring of intelligence (right hand)
+Wands
+ I - a wand of flame (26/48)
+ K - a wand of random effects (26/48)
+ O - a wand of disintegration (0/24)
+Scrolls
+ i - 6 scrolls of teleportation
+ j - 2 scrolls of recharging
+ l - 3 scrolls of remove curse
+ n - a scroll of random uselessness
+ u - 2 scrolls of enchant armour
+ v - 2 scrolls of immolation {unknown}
+ w - 4 scrolls of fog
+ x - a scroll of noise {unknown}
+ y - 2 scrolls of blinking {unknown}
+ A - 3 scrolls of enchant weapon {unknown}
+ F - a scroll of amnesia
+ N - a scroll of vulnerability
+ Q - a scroll of acquirement {unknown}
+ S - a scroll of fear {unknown}
+Potions
+ h - a potion of ambrosia
+ o - 6 potions of flight
+ s - 2 potions of magic
+ z - 2 potions of lignification
+ L - a potion of cancellation
+ M - a potion of invisibility
+Books
+ C - a book of Maledictions   
+   
+    Spells                             Type                      Level
+    a - Corona                       Hexes                         1
+    b - Ensorcelled Hibernation      Hexes/Ice                     2
+    c - Confuse                      Hexes                         3
+    d - Tukima's Dance               Hexes                         3
+    e - Dazzling Spray               Conjuration/Hexes             3
+Comestibles
+ f - 9 bread rations
+ k - 7 meat rations
+
+
+   Skills:
+ - Level 4.5(3.4) Fighting
+ + Level 14.0(12.5) Axes
+ * Level 13.4(11.9) Armour
+ - Level 4.3(3.1) Shields
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:4         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:9 =
+
+Annotations:
+D:9 exclusion: statue, Josephine
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Josephine is almost dead.
+The wraith closely misses you.
+Josephine is infused with unholy energy.
+* * * LOW HITPOINT WARNING * * *
+Josephine draws life force from you and is healed!
+You block the wraith's attack. Josephine hits you with a dagger.
+* * * LOW HITPOINT WARNING * * *
+You feel better.
+The howler monkey hoots and howls with incredible vigour!
+The wraith hits you.
+* * * LOW HITPOINT WARNING * * *
+You block Josephine's attack.
+You feel better. You block Josephine's attack. The wraith hits you!
+* * * LOW HITPOINT WARNING * * *
+The wraith drains your vigour!
+You feel as though you will be slow longer.
+Josephine closely misses you. The wraith hits you but does no damage.
+You feel better. You block the wraith's attack.
+Josephine is infused with unholy energy.
+You die...
+
+          #............#
+          #....(.......#
+          ##...........#
+           #..........##
+           ##.........#
+           #....h.....##
+          ##.......##..#
+          #.....#...#.##
+         ##....###h...#
+        ##.....# ##...#
+      ###......# ##...#
+     ##.......####....##
+    ##........##......@##
+    #.............##..W@#
+##  #............####...#
+.####...........##  #..##
+....#...........#   #.##
+#.(......<....(.##  ###
+###..............#
+  ###............#
+    #..........###
+    #.........##
+    #........##
+    #.......##
+    #.....###
+
+
+You could see Josephine, a wraith and 2 howler monkeys.
+
+Vanquished Creatures
+  2 two-headed ogres
+  Joseph (D:8)
+  Psyche (D:8)
+  A spriggan (D:7)
+  3 wraiths (D:9)
+  7 yaks (D:9)
+  A hungry ghost (D:9)
+  Eustachio (D:4)
+  Duvessa (D:4)
+  A sky beast (D:8)
+  A black bear (D:6)
+  A necrophage (D:8)
+  A phantom (D:9)
+  2 ice beasts
+  2 centaurs
+  5 ogres
+  3 big kobolds
+  A gnoll sergeant (D:7)
+  Dowan (D:4)
+  3 scorpions
+  4 crimson imps
+  A centaur zombie (D:6)
+  7 hounds
+  2 jellies (D:9)
+  3 orc priests
+  6 orc wizards
+  An iguana (D:9)
+  2 bullfrog skeletons
+  Natasha (thrice) (D:4)
+  7 worker ants
+  A hound skeleton (D:8)
+  Robin (D:4)
+  A worker ant zombie (D:5)
+  13 gnolls
+  10 adders
+  2 shadow imps
+  2 oozes
+  An adder zombie (D:5)
+  An adder skeleton (D:6)
+  6 worms
+  4 dart slugs
+  A leopard gecko (D:3)
+  21 orcs
+  7 ball pythons
+  11 bats
+  5 giant cockroaches
+  16 goblins
+  12 hobgoblins
+  5 jackals
+  25 kobolds
+  2 quokkas
+  7 frilled lizards
+  A jackal skeleton (D:4)
+  2 leopard gecko skeletons
+  A quokka skeleton (D:9)
+  10 rats
+243 creatures vanquished.
+
+Vanquished Creatures (others)
+  A cyclops (D:9)
+1 creature vanquished.
+
+Grand Total: 244 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   111 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   490 | D:1      | Reached XP level 3. HP: 34/34 MP: 2/2
+   971 | D:2      | Found a glowing golden altar of the Shining One.
+   986 | D:2      | Found a white marble altar of Elyvilon.
+   987 | D:2      | Found a glowing silver altar of Zin.
+  1005 | D:2      | Found an opulent altar of Gozag.
+  1143 | D:2      | Reached skill level 3 in Axes
+  1229 | D:2      | Reached XP level 4. HP: 41/41 MP: 3/3
+  1859 | D:3      | Reached skill level 4 in Axes
+  2006 | D:3      | Reached XP level 5. HP: 29/47 MP: 4/4
+  2155 | D:3      | Reached skill level 5 in Axes
+  2655 | D:3      | Found a shimmering altar of Xom.
+  3007 | D:4      | Noticed Robin
+  3027 | D:4      | Killed Robin
+  3056 | D:4      | Noticed Dowan
+  3078 | D:4      | Found a hide-covered altar of Uskayaw.
+  3078 | D:4      | Noticed a hand axe
+  3078 | D:4      | Noticed a hand axe
+  3141 | D:4      | Found a glowing drain.
+  3158 | Sewer    | Entered a sewer
+  3174 | Sewer    | Reached skill level 6 in Axes
+  3288 | Sewer    | Reached XP level 6. HP: 53/53 MP: 5/5
+  3422 | Sewer    | Reached skill level 7 in Axes
+  3632 | D:4      | Found a staircase to the Ecumenical Temple.
+  3632 | D:4      | Noticed Eustachio
+  3841 | D:4      | Killed Eustachio
+  3841 | D:4      | Reached skill level 8 in Axes
+  3841 | D:4      | Reached XP level 7. HP: 55/60 MP: 6/6
+  3892 | Temple   | Entered the Ecumenical Temple
+  4047 | D:4      | Noticed Natasha
+  4050 | D:4      | Killed Natasha
+  4055 | D:4      | Noticed Natasha
+  4057 | D:4      | Noticed Duvessa
+  4064 | D:4      | Killed Natasha
+  4069 | D:4      | Killed Duvessa
+  4069 | D:4      | Reached skill level 9 in Axes
+  4072 | D:4      | Killed Dowan
+  4235 | D:4      | Noticed Natasha
+  4239 | D:4      | Killed Natasha
+  4255 | D:4      | Found a deep blue altar of Sif Muna.
+  4336 | D:4      | Found a stormy altar of Qazlal.
+  4507 | D:4      | Reached skill level 10 in Axes
+  4679 | D:5      | Entered Level 5 of the Dungeon
+  4874 | D:5      | Reached XP level 8. HP: 65/67 MP: 7/7
+  5166 | D:5      | Reached skill level 11 in Axes
+  5265 | D:5      | Found an iron altar of Okawaru.
+  5277 | D:5      | Became a worshipper of Warmaster Okawaru
+  5881 | D:6      | Reached skill level 5 in Armour
+  7159 | D:7      | Reached * piety under Okawaru
+  7229 | D:7      | Reached skill level 12 in Axes
+  7229 | D:7      | Reached XP level 9. HP: 55/72 MP: 8/8
+  7302 | D:8      | Noticed a two-headed ogre
+  7325 | D:7      | Killed a two-headed ogre
+  7580 | D:8      | Noticed Joseph
+  7599 | D:8      | Killed Joseph
+  7599 | D:8      | Reached ** piety under Okawaru
+  7599 | D:8      | Reached skill level 10 in Armour
+  7733 | D:8      | Found a burning altar of Makhleb.
+  8031 | D:8      | Noticed Psyche
+  8041 | D:8      | Killed Psyche
+  8041 | D:8      | Reached skill level 13 in Axes
+  8041 | D:8      | Reached XP level 10. HP: 80/80 MP: 9/9
+  8125 | D:8      | Found a blossoming altar of Fedhas.
+  8240 | D:8      | Noticed a two-headed ogre
+  8739 | D:9      | Found a radiant altar of Vehumet.
+  8762 | D:9      | Found Xovilog's Jewellery Shop.
+  8826 | D:9      | Reached *** piety under Okawaru
+  8846 | D:9      | Received a gift from Okawaru
+  9227 | D:9      | Noticed a cyclops
+  9237 | D:9      | Killed a cyclops
+  9416 | D:9      | Found an iron altar of Okawaru.
+  9715 | D:9      | Reached **** piety under Okawaru
+ 10022 | D:9      | Noticed a two-headed ogre
+ 10034 | D:9      | Killed a two-headed ogre
+ 10200 | D:10     | Entered Level 10 of the Dungeon
+ 10214 | D:10     | Noticed Josephine
+ 10232 | D:9      | Reached skill level 14 in Axes
+ 10240 | D:9      | Reached ***** piety under Okawaru
+ 10262 | D:9      | HP: 2/80 [Josephine/dagger (4)]
+ 10265 | D:9      | Killed from afar by Josephine
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |  4                            |  4.5
+Shields        |     4                         |  4.3
+Armour         |        4              7 10 13 | 13.4
+Axes           |        3  4  6  8 10 12 13 14 | 14.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: War axe           |    90 |   248 |   292 |    15 ||   645
+       Headbutt          |     7 |    48 |    48 |    43 ||   146
+       Morningstar       |       |       |       |   164 ||   164
+Throw: Tomahawk          |       |       |     1 |       ||     1
+Evoke: Wand              |       |       |     1 |     3 ||     4
+  Use: Scroll            |       |     6 |       |    13 ||    19
+       Potion            |       |       |     4 |     5 ||     9
+ Stab: Distracted        |       |     1 |       |       ||     1
+  Eat: Chunk             |     1 |     9 |     5 |     3 ||    18
+       Bread ration      |       |       |     1 |     2 ||     3
+       Royal jelly       |       |       |     2 |       ||     2
+Armor: Scale mail        |    15 |       |    84 |    62 ||   161
+       Chain mail        |    33 |   122 |     6 |       ||   161
+Dodge: Dodged            |    23 |    56 |    57 |    45 ||   181
+Block: Shield            |    42 |   127 |    93 |   122 ||   384
+       Reflection        |       |       |     1 |     4 ||     5
+

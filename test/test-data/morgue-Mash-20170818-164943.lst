@@ -1,0 +1,511 @@
+Mash
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 whip
+(6, -2, D:1)
+  24 stones
+(12, 6, D:1)
+  9 stones
+(15, 15, D:1)
+  a +0 robe
+(18, 8, D:1)
+  21 poisoned needles
+(23, 8, D:1)
+  a +0 club
+(28, 4, D:1)
+  a +0 leather armour
+(29, -23, D:1)
+  a +0 club
+(31, -2, D:1)
+  a +0 short sword
+(31, 32, D:1)
+  14 stones
+(37, -28, D:1)
+  a +0 chain mail
+(38, -4, D:1)
+  a +0 dagger
+(38, 6, D:1)
+  a +0 club
+(45, 7, D:1)
+  21 stones
+(45, 18, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a cursed -2 dagger
+(0, 1, D:2)
+  17 stones
+(1, 0, D:2)
+  15 arrows
+(1, 1, D:2)
+  8 stones
+(2, 8, D:2)
+  a +0 dagger
+(8, 48, D:2)
+  a stone
+(10, 0, D:2)
+  24 stones
+(10, 47, D:2)
+  2 stones
+(13, 52, D:2)
+  a +0 buckler
+(25, 7, D:2)
+  a +0 shield
+(28, 1, D:2)
+  a stone
+(28, 2, D:2)
+  a stone
+(28, 3, D:2)
+  a stone
+(32, 5, D:2)
+  a +0 short sword
+(32, 6, D:2)
+  a cursed -3 club
+(32, 7, D:2)
+  a stone
+(40, -4, D:2)
+  16 arrows
+(44, 5, D:2)
+  a +0 whip
+(44, 6, D:2)
+  a +0 spear
+(47, 12, D:2)
+  18 bolts
+(50, 9, D:2)
+  a +0 dagger
+(55, 5, D:2)
+  a +0 club
+(55, 9, D:2)
+  17 stones
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 falchion
+(2, 17, D:3)
+  23 arrows
+(6, -5, D:3)
+  a cursed +0 dagger
+(10, 10, D:3)
+  8 arrows
+(11, 12, D:3)
+  a +0 flail
+  a +0 shortbow
+  23 arrows
+  a +0 dagger
+  a +0 robe
+  a +0 short sword
+(16, 11, D:3)
+  a +0 ring mail
+(16, 16, D:3)
+  a +0 club
+(20, 20, D:3)
+  22 stones
+(21, 12, D:3)
+  a +0 short sword
+(22, -19, D:3)
+  a +0 flail
+(25, -13, D:3)
+  a +0 hand axe
+(25, 35, D:3)
+  a +0 scale mail
+(30, 32, D:3)
+  18 sling bullets
+(34, 15, D:3)
+  a +0 shortbow
+  18 arrows
+(34, 16, D:3)
+  a +0 dagger
+(34, 21, D:3)
+  2 arrows
+(46, 15, D:3)
+  a +0 club
+(50, 21, D:3)
+  14 bolts
+(52, 23, D:3)
+  a +0 hand axe
+(53, 23, D:3)
+  a +0 falchion
+  a +0 club
+(58, 11, D:3)
+  15 poisoned needles
+
+Level 4 of the Dungeon
+(13, -23, D:4)
+  a throwing net
+(16, -40, D:4)
+  23 stones
+(21, -24, D:4)
+  17 arrows
+(24, -3, D:4)
+  19 arrows
+(29, -23, D:4)
+  a +0 club
+(30, -8, D:4)
+  a +0 ring mail
+(37, -17, D:4)
+  a +0 robe
+  a +0 dagger
+(48, -30, D:4)
+  5 javelins
+(48, -25, D:4)
+  a +0 flail
+  a +0 leather armour
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +3 hunting sling
+(2, 13, D:5)
+  19 stones
+(3, 19, D:5)
+  a +0 ring mail
+(7, 0, D:5)
+  a +0 falchion
+(7, 7, D:5)
+  a cursed -2 spear
+(11, -4, D:5)
+  a +0 short sword
+(12, -2, D:5)
+  (unseen)
+(13, -23, D:5)
+  a +0 chain mail
+(14, -2, D:5)
+  a +0 robe
+  a +0 dagger
+(16, -6, D:5)
+  a +0 hand axe
+(20, 14, D:5)
+  a +0 robe
+(22, -9, D:5)
+  a +0 short sword
+(26, -11, D:5)
+  a +0 robe
+(26, 5, D:5)
+  a +0 whip
+  19 stones
+(26, 13, D:5)
+  a +0 dagger
+  a +0 robe
+(27, 5, D:5)
+  a cursed -3 trident
+(27, 12, D:5)
+  a +0 mace
+(28, 12, D:5)
+  a +0 dagger
+(29, 12, D:5)
+  a +0 trident
+  4 tomahawks
+(31, -8, D:5)
+  20 arrows
+(38, 14, D:5)
+  a +0 falchion
+  a +0 ring mail
+(42, -18, D:5)
+  a +0 robe
+(45, -20, D:5)
+  a +0 shortbow
+  29 arrows
+(48, 15, D:5)
+  a +0 war axe
+(49, -6, D:5)
+  a +0 scale mail
+(50, 15, D:5)
+  a tomahawk
+(51, 17, D:5)
+  a tomahawk
+(51, 18, D:5)
+  a +0 falchion
+  a +0 leather armour
+(56, -26, D:5)
+  the cursed +1 rapier "Tovak" {venom, +Inv rElec Dex+3}
+    It poisons the flesh of those it strikes.
+    
+    It affects your dexterity (+3).
+    It insulates you from electricity.
+    It lets you turn invisible.
+    It has a curse placed upon it.
+(60, -14, D:5)
+  10 bolts
+(61, 26, D:5)
+  a +0 giant club
+  a +0 giant club
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  14 stones
+(5, -4, D:6)
+  13 stones
+(12, -7, D:6)
+  15 bolts
+(14, -15, D:6)
+  a +0 scale mail
+(15, -7, D:6)
+  a +0 dagger
+  a +0 leather armour
+(16, -8, D:6)
+  a +0 hand axe
+(35, -32, D:6)
+  14 arrows
+(42, -15, D:6)
+  a +0 flail
+  a +0 flail
+  a +2 hand axe of flaming
+(43, -16, D:6)
+  a +0 trident
+
+Level 7 of the Dungeon
+(5, -11, D:7)
+  5 stones
+(10, -8, D:7)
+  a cursed +0 leather armour
+  a +0 club
+(11, -5, D:7)
+  a +0 dagger
+  a cursed +0 robe
+(12, -9, D:7)
+  a +0 dagger
+  a +0 mace
+(21, -1, D:7)
+  a +0 dagger
+  a +0 scale mail
+  a +0 dagger
+  a +0 robe
+  a +0 chain mail
+(21, 17, D:7)
+  a +0 plate armour
+(24, 11, D:7)
+  a +0 flail
+(28, 30, D:7)
+  14 stones
+(29, -14, D:7)
+  a +0 shortbow
+  12 arrows
+(33, -8, D:7)
+  17 arrows
+(38, 20, D:7)
+  a +0 hand axe
+  a +0 whip
+(39, 20, D:7)
+  a cursed +0 chain mail
+  a +0 trident
+(40, 20, D:7)
+  a +0 leather armour
+  a +0 hand axe
+(44, 17, D:7)
+  a +0 scale mail
+  a +0 hand axe
+(44, 18, D:7)
+  a +0 hand axe
+  a +0 ring mail
+  a +2 mace of draining
+  a +0 club
+(46, 2, D:7)
+  a +0 ring mail
+
+Level 8 of the Dungeon
+[Shop] Moehoonu's Antique Weapon Shop
+  a +1 war axe of flaming (372 gold)
+  a +2 war axe of flaming (512 gold)
+  a +1 arbalest of freezing (422 gold)
+  the +9 dagger of Ibimpu {drain, *Rage +Fly rElec rC+ Dex+2} (2066 gold)
+    A truly terrible weapon, it drains the life of those it strikes.
+    
+    It affects your dexterity (+2).
+    It protects you from cold.
+    It insulates you from electricity.
+    It lets you fly.
+    It may make you go berserk in combat.
+  a +0 trident (98 gold)
+  a +0 war axe (98 gold)
+  a +0 falchion (84 gold)
+  a +0 halberd (112 gold)
+  a +0 hand axe (84 gold)
+  a +0 longbow (126 gold)
+  a +0 trident (98 gold)
+[Shop] Xotayren's Armour Shop
+  a +0 robe (9 gold)
+  a +0 leather armour (26 gold)
+  a +0 plate armour (299 gold)
+  a +0 leather armour (26 gold)
+  a +0 robe (9 gold)
+  a +0 leather armour (26 gold)
+  a cursed +0 chain mail (19 gold)
+  a +0 pair of boots (58 gold)
+  a +0 scale mail (52 gold)
+  a +0 ring mail (52 gold)
+  a +0 robe (9 gold)
+[Shop] Qat Afugh's Book Shoppe
+  a book of Spatial Translocations (910 gold)
+  a book of Callings (420 gold)
+  a book of Party Tricks (700 gold)
+  a book of Geomancy (490 gold)
+  a book of Necromancy (420 gold)
+  a book of Summonings (980 gold)
+  a manual of Spellcasting (1545 gold)
+  a book of Air (490 gold)
+  a book of Party Tricks (700 gold)
+  a book of Callings (420 gold)
+  a book of the Earth (910 gold)
+[Shop] Quuhis's Jewellery Shoppe
+  an uncursed ring of poison resistance (240 gold)
+  a cursed amulet of inaccuracy (24 gold)
+  a +2 ring of intelligence (90 gold)
+  a +2 ring of evasion (120 gold)
+  a cursed ring of teleportation (54 gold)
+  an uncursed ring of positive energy (240 gold)
+  an uncursed ring of wizardry (360 gold)
+  an uncursed ring of magical power (240 gold)
+  an uncursed ring of ice (300 gold)
+  a cursed ring of teleportation (54 gold)
+(0, 0, D:8)
+  a +0 giant club
+  a +0 giant club
+  a +1 shortbow of velocity
+  14 arrows
+(0, 15, D:8)
+  a +0 giant club
+(1, -1, D:8)
+  an arrow
+(2, -1, D:8)
+  an arrow
+(3, -1, D:8)
+  an arrow
+(3, 4, D:8)
+  a +0 robe
+(4, -1, D:8)
+  an arrow
+(4, 17, D:8)
+  a +0 giant club
+(15, 15, D:8)
+  a +0 trident
+(17, 6, D:8)
+  a +0 pair of boots
+(18, 33, D:8)
+  a +0 blowgun
+(22, -9, D:8)
+  a +0 dagger
+  a +0 robe
+(22, 16, D:8)
+  18 arrows
+(23, 21, D:8)
+  21 stones
+(24, 24, D:8)
+  20 stones
+(25, 20, D:8)
+  a +0 giant club
+  a +0 giant club
+(25, 22, D:8)
+  a cursed +3 great sword
+  a +0 robe
+(27, 24, D:8)
+  a cursed +0 mace
+  a +0 robe
+(27, 25, D:8)
+  a +0 mace
+(31, -4, D:8)
+  12 poisoned needles
+(32, 26, D:8)
+  a cursed +2 dagger
+  a +0 robe
+(33, 26, D:8)
+  a +0 flail
+  a +0 leather armour
+(35, 25, D:8)
+  a +0 mace
+  a +0 leather armour
+(41, 37, D:8)
+  a +0 ring mail
+(44, 32, D:8)
+  a +1 scimitar of flaming
+  a +0 robe
+(47, 12, D:8)
+  a +0 pair of gloves
+  a +0 flail
+  a +0 leather armour
+(47, 13, D:8)
+  a +0 club
+  a +0 ring mail
+  a cursed -3 hand axe
+(53, 25, D:8)
+  21 stones
+(55, 26, D:8)
+  a +0 ring mail
+(59, 9, D:8)
+  a +0 ring mail
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  24 stones
+(13, -17, D:9)
+  a +2 halberd of freezing
+  a +0 robe
+(14, -36, D:9)
+  a +0 dagger
+(14, -32, D:9)
+  a +0 hand axe
+  a +0 robe
+(14, -31, D:9)
+  a +0 flail
+  a +0 plate armour
+(14, -17, D:9)
+  a cursed -1 short sword
+  a +0 robe
+  a cursed +0 halberd
+  a +0 robe
+  a cursed +0 great sword
+  a +0 robe
+  a +0 long sword
+  a +0 robe
+(18, -33, D:9)
+  a +0 flail
+(18, -32, D:9)
+  a +0 dagger
+(25, 2, D:9)
+  a stone
+(26, -10, D:9)
+  9 arrows
+(26, -9, D:9)
+  an uncursed staff of poison
+(27, 1, D:9)
+  a stone
+(28, 1, D:9)
+  a stone
+(29, -1, D:9)
+  a +0 short sword
+  (unseen)
+(32, -11, D:9)
+  a +0 dagger
+(33, -11, D:9)
+  a +0 dagger
+  a kobold corpse (skeletalised by now)
+(44, -20, D:9)
+  25 arrows
+(51, -30, D:9)
+  an uncursed staff of poison
+(54, -18, D:9)
+  a +0 hand axe
+  a +3 dagger
+  a +0 chain mail
+  a +0 hand axe
+(55, -17, D:9)
+  a +0 robe
+  a +0 dagger
+(64, -41, D:9)
+  a +0 leather armour
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  21 gold pieces
+(8, -4, Lair:1)
+  a +2 shield
+  the +3 hat of Pondering {ponderous, MR+ MP+10 Int+5}
+    It affects your intelligence (+5).
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (+10).
+  a book of Misfortune
+  a book of Callings
+  a book of Geomancy
+

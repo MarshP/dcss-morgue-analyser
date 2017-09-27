@@ -1,0 +1,554 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+91603 Mash the Severer (level 15, -1/125 HPs)
+             Began as a Minotaur Fighter on Aug 23, 2017.
+             Was the Champion of the Shining One.
+             Slain by a fire elemental (12 damage)
+             ... on level 1 of the Elven Halls.
+             The game lasted 02:16:01 (29812 turns).
+
+Mash the Severer (Minotaur Fighter)                Turns: 29812, Time: 02:16:02
+
+Health: -1/125     AC: 30    Str: 29    XL:     15   Next: 55%
+Magic:  23/23      EV:  9    Int:  5    God:    the Shining One [******]
+Gold:   2161       SH:  0    Dex: 11    Spells: 14/14 levels left
+
+rFire    . . .     SeeInvis .   u - +5 battleaxe
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     + + +     Faith    .   I - +7 chain mail of Raozuixt {rPois rCorr}
+rPois    +         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   O - +1 cloak
+rCorr    +         Harm     .   n - +1 pair of gloves
+MR       +....                  J - +2 pair of boots
+Stlth    ..........             (no amulet)
+Regen    0.3/turn               U - +2 ring of protection
+MPRegen  0.2/turn               K - +3 ring of strength
+
+@: glowing, very slow
+A: retaliatory headbutt, horns 2, frail 1
+a: Divine Shield, Cleansing Flame, Summon Divine Warrior, Brand Weapon With Holy
+Wrath, Renounce Religion
+
+
+You were on level 1 of the Elven Halls.
+You worshipped the Shining One.
+The Shining One was exalted by your worship.
+You were not hungry.
+
+You visited 5 branches of the dungeon, and saw 25 of its levels.
+You also visited: Ice Cave.
+
+You collected 2535 gold pieces.
+You spent 374 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ d - a +2 great mace
+ u - a +5 battleaxe (weapon)
+Armour
+ n - a +1 pair of gloves (worn)
+ I - the +7 chain mail of Raozuixt (worn) {rPois rCorr}
+   (You found it on level 7 of the Dungeon)   
+   
+   It protects you from poison.
+   It protects you from acid and corrosion.
+ J - a +2 pair of boots (worn)
+ O - a +1 cloak (worn)
+Jewellery
+ a - an uncursed ring of positive energy
+ t - an uncursed ring of protection from fire
+ K - a +3 ring of strength (right hand)
+ U - a +2 ring of protection (left hand)
+Wands
+ b - a wand of flame (23/48)
+ s - a wand of digging (14/24)
+ B - a wand of disintegration (2/24)
+ G - a wand of digging (10/24)
+ P - a wand of acid (11/15)
+ Q - a wand of polymorph (15/24)
+ R - a wand of confusion (12/48)
+ W - a wand of iceblast (2/15)
+ Y - a wand of iceblast (8/15)
+Scrolls
+ e - a scroll of summoning
+ h - a scroll of immolation
+ i - a scroll of brand weapon {unknown}
+ j - a scroll of vulnerability {unknown}
+ k - 8 scrolls of teleportation
+ m - 2 scrolls of blinking
+ p - 9 scrolls of remove curse
+ r - a scroll of fear
+ v - a scroll of recharging
+ y - 5 scrolls of fog
+ E - 3 scrolls of magic mapping
+ F - a scroll of noise {unknown}
+ N - 3 scrolls of holy word
+Potions
+ g - 3 potions of cancellation
+ l - a potion of heal wounds
+ o - 6 potions of curing
+ q - 4 potions of lignification
+ w - a potion of might
+ x - a potion of resistance
+ z - a potion of berserk rage
+ C - 3 potions of agility
+ H - 2 potions of haste
+ M - 5 potions of flight
+Miscellaneous
+ T - a phantom mirror
+ V - a lightning rod (1/4)
+Comestibles
+ c - a meat ration
+ f - 10 bread rations
+
+
+   Skills:
+ + Level 14.8 Fighting
+ * Level 20.9 Axes
+ + Level 13.2 Armour
+   Level 3.6 Shields
+ - Level 12.0 Invocations
+ - Level 2.4 Evocations
+
+
+You had 14 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (1/1) D:5            Lair (6/6) D:10
+ Shoals (0/4) Lair:3       Spider (0/4) Lair:4        Slime (0/5) Lair:5
+    Orc (2/2) D:11            Elf (1/3) Orc:2        Vaults (0/5) D:13
+ Depths (0/5) D:15        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+Jiyva
+
+Shops:
+D:5 *   D:12 !   Orc:1 ?   Orc:2 *(*(%
+
+Annotations:
+Lair:5 exclusions: electric eel and 2 more exclusions
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+You are frail. (-10% HP)
+
+
+Message History
+
+The deep elf knight hits you with a short sword.
+* * * LOW HITPOINT WARNING * * *
+The fire elemental hits you. The deep elf archer blinks!
+You cannot read scrolls while unable to breathe!
+With effort, you pull free of the water engulfing you.
+You gasp with relief as air once again reaches your lungs.
+The battleaxe of venom is engulfed in blazing flames.
+The deep elf archer blinks!
+The deep elf knight gestures wildly while chanting.
+The deep elf knight seems to speed up.
+The deep elf knight hits you but does no damage.
+The fire elemental hits you. The fire elemental burns you!
+* * * LOW HITPOINT WARNING * * *
+The water elemental is engulfed in blazing flames. x2
+The water elemental is destroyed!
+The battleaxe of venom hits you!!
+* * * LOW HITPOINT WARNING * * *
+The deep elf knight splashes around in the water.
+The fire elemental hits you. The fire elemental burns you!
+You die...
+
+        #######
+       ##^....##
+      ##.......##
+      #....<....#
+      #........)#
+      #§.@˜˜)˜..#
+      #˜(eE˜)˜˜˜#
+      #˜e§e˜˜˜˜˜#
+      #˜˜§˜˜˜˜˜˜#
+   # ##..4˜˜˜e..#
+   #.#.e........#
+.  #.#.....#..###
+.e.#.s.....#.#######
+§§...#..........e..#
+  .#.......#######.#
+   #.[##.###
+   #.# #)#
+   #.  #.#
+
+
+You could see a demonic crawler, a deep elf archer, 2 deep elf knights, an ice
+devil, 2 deep elf magi, a fire elemental and a battleaxe of venom.
+
+Vanquished Creatures
+  A reaper (IceCv)
+  Azrael (D:12)
+  3 dire elephants
+  Harold (D:12)
+  Erolcha (D:10)
+  Fannar (Lair:1)
+  A vault guard (D:13)
+  7 hydras
+  3 centaur warriors
+  7 two-headed ogres
+  A death knight (D:15)
+  An anaconda (Lair:6)
+  2 orc high priests
+  A deep elf knight (Elf:1)
+  2 unseen horrors
+  2 wizards (D:13)
+  4 orc knights
+  3 wolf spiders (Lair:4)
+  2 necromancers (D:13)
+  14 ugly things
+  2 orc sorcerers (Orc:2)
+  2 deep elf magi (Elf:1)
+  3 cyclopes
+  2 manticores
+  A salamander (D:15)
+  14 elephants (Lair:6)
+  Joseph (D:8)
+  3 black mambas
+  2 ice statues (IceCv)
+  2 gargoyles
+  8 spiny frogs
+  A redback zombie (D:13)
+  6 ice devils (IceCv)
+  4 rime drakes
+  A freezing wraith (D:12)
+  7 komodo dragons
+  4 merfolk
+  A yaktaur (D:13)
+  3 meliai (D:14)
+  2 jumping spiders (Lair:4)
+  7 trolls
+  A troll (shapeshifter) (D:13)
+  2 polar bears
+  A hornet (shapeshifter) (D:15)
+  10 hippogriffs
+  5 slime creatures (D:15)
+  12 blink frogs
+  A shadow (D:13)
+  A spriggan (D:7)
+  2 wraiths
+  18 humans (D:13)
+  3 wyverns
+  39 yaks
+  7 basilisks
+  2 fire elementals
+  3 vampire mosquitoes (D:14)
+  Edmund (D:4)
+  A soldier ant (D:14)
+  5 wargs
+  3 hell hounds
+  10 water moccasins
+  13 porcupines
+  2 acid dragons
+  3 black bears
+  33 orc warriors
+  2 hornet zombies
+  3 ice beasts
+  8 necrophages
+  3 phantoms
+  3 sky beasts
+  4 ogres
+  5 wolves (Lair:1)
+  18 centaurs
+  9 crocodiles
+  A big kobold (D:12)
+  18 bullfrogs
+  A gnoll sergeant (Orc:1)
+  4 scorpions
+  2 water moccasin skeletons
+  6 killer bees
+  8 wights
+  5 electric eels
+  7 crimson imps
+  A lava snake (Lair:3)
+  2 quasits
+  6 centaur zombies
+  A bullfrog zombie (D:6)
+  5 jellies
+  19 orc priests
+  4 bullfrog skeletons
+  A centaur skeleton (D:8)
+  A gnoll shaman (D:6)
+  8 hounds
+  27 orc wizards
+  An iguana (D:5)
+  2 hell rats (Lair:5)
+  11 worker ants
+  A killer bee zombie (D:6)
+  2 hound skeletons
+  A howler monkey zombie (D:6)
+  11 gnolls
+  8 adders
+  7 river rats (Lair:5)
+  4 shadow imps
+  10 white imps (IceCv)
+  6 ufetubi (IceCv)
+  2 adder skeletons
+  An adder zombie (D:5)
+  2 worms
+  2 dart slugs
+  5 leopard geckos
+  88 orcs
+  A ball python (D:2)
+  8 giant cockroaches
+  7 goblins
+  10 hobgoblins
+  10 jackals
+  2 quokkas
+  5 bats
+  2 frilled lizards (D:1)
+  A giant cockroach zombie (D:6)
+  A goblin zombie (D:5)
+  A hobgoblin zombie (D:5)
+  A jackal zombie (D:5)
+  11 kobolds
+  An orc zombie (D:5)
+  A quokka skeleton (D:6)
+  A rat (Lair:5)
+  3 fungi
+  7 plants
+731 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A dire elephant (Lair:6)
+  2 orc high priests (Orc:2)
+  2 orc knights (Orc:2)
+  2 ugly things (D:14)
+  An orc sorcerer (Orc:2)
+  An efreet (D:13)
+  A shadow (D:14)
+  A yak (Lair:6)
+  An orc priest (Orc:2)
+  3 orc wizards
+  5 orcs
+20 creatures vanquished.
+
+Vanquished Creatures (others)
+  A water elemental (Elf:1)
+  A sky beast (D:14)
+  A human (D:2)
+  A bullfrog (D:14)
+  An adder (Lair:4)
+  2 white imps (IceCv)
+  4 ufetubi (IceCv)
+  7 fungi
+  8 plants
+26 creatures vanquished.
+
+Grand Total: 777 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   114 | D:1      | Reached skill level 3 in Axes
+   219 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   565 | D:1      | Reached skill level 4 in Axes
+   676 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+   803 | D:2      | You fall through a shaft!
+   942 | D:2      | Found an ancient bone altar of Kikubaaqudgha.
+   967 | D:2      | Found a shimmering altar of Xom.
+   967 | D:2      | Found a shimmering altar of Xom.
+   967 | D:2      | Found a shimmering altar of Xom.
+   967 | D:2      | Found a shimmering altar of Xom.
+   967 | D:2      | Found a shimmering altar of Xom.
+   980 | D:2      | Found a shimmering altar of Xom.
+   980 | D:2      | Found a shimmering altar of Xom.
+  1073 | D:2      | Found a snail-covered altar of Cheibriados.
+  1309 | D:2      | Reached skill level 5 in Axes
+  1327 | D:2      | Noticed a human
+  1328 | D:2      | Killed a human
+  1526 | D:3      | Reached XP level 4. HP: 24/39 MP: 3/3
+  2348 | D:3      | Reached skill level 6 in Axes
+  2494 | D:4      | Noticed Edmund
+  2509 | D:4      | Killed Edmund
+  2509 | D:4      | Reached skill level 7 in Axes
+  2509 | D:4      | Reached XP level 5. HP: 44/45 MP: 4/4
+  2593 | D:4      | Reached XP level 6. HP: 25/51 MP: 5/5
+  2763 | D:4      | Found a glowing silver altar of Zin.
+  2892 | D:4      | Reached skill level 8 in Axes
+  3259 | D:4      | Reached skill level 9 in Axes
+  3293 | D:5      | Entered Level 5 of the Dungeon
+  3373 | D:5      | Reached XP level 7. HP: 41/57 MP: 6/6
+  3844 | D:5      | Reached skill level 10 in Axes
+  3909 | D:5      | Found a blossoming altar of Fedhas.
+  3920 | D:5      | Reached skill level 11 in Axes
+  4062 | D:5      | Found a staircase to the Ecumenical Temple.
+  4070 | Temple   | Entered the Ecumenical Temple
+  4310 | D:5      | Reached XP level 8. HP: 64/64 MP: 7/7
+  4412 | D:5      | Found Kyxzu's Assorted Antiques.
+  4737 | D:6      | Reached skill level 12 in Axes
+  5024 | D:6      | Reached skill level 13 in Axes
+  5223 | D:6      | Reached XP level 9. HP: 58/70 MP: 8/8
+  5479 | Temple   | Became a worshipper of the Shining One
+  5641 | D:5      | Reached skill level 14 in Axes
+  5797 | D:6      | Found an iron altar of Okawaru.
+  5826 | D:6      | Found a sacrificial altar of Ru.
+  6161 | D:7      | Found a bloodstained altar of Trog.
+  6256 | D:7      | Got a dazzling chain mail
+  6267 | D:7      | Identified the +7 chain mail of Raozuixt {rPois rCorr} (You found it on level 7 of the Dungeon)
+  6841 | D:7      | Reached skill level 15 in Axes
+  7218 | D:8      | Got a bound emerald amulet
+  7219 | D:8      | Identified the amulet "Fotuq" {Harm *Drain rF+ rC+ MR+} (You found it on level 8 of the Dungeon)
+  7309 | D:8      | Noticed Joseph
+  7324 | D:8      | Killed Joseph
+  7528 | D:8      | Found a shadowy altar of Dithmenos.
+  7616 | D:8      | Reached skill level 16 in Axes
+  7635 | D:8      | Noticed a two-headed ogre
+  7647 | D:8      | Killed a two-headed ogre
+  7647 | D:8      | Reached XP level 10. HP: 49/77 MP: 9/9
+  7962 | D:8      | Reached * piety under the Shining One
+  8581 | D:9      | Reached skill level 17 in Axes
+  9276 | D:10     | Entered Level 10 of the Dungeon
+  9531 | D:10     | Reached skill level 5 in Armour
+  9728 | D:10     | Noticed Erolcha
+  9741 | D:10     | Killed Erolcha
+  9908 | D:10     | Found a staircase to the Lair.
+ 10044 | D:10     | Noticed a cyan ugly thing
+ 10073 | D:10     | Noticed a two-headed ogre
+ 10085 | D:10     | Killed a cyan ugly thing
+ 10085 | D:10     | Reached XP level 11. HP: 66/82 MP: 10/10
+ 10089 | D:10     | Killed a two-headed ogre
+ 10164 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 10209 | Lair:1   | Reached skill level 1 in Invocations
+ 10210 | Lair:1   | Noticed a six-headed hydra
+ 10210 | Lair:1   | Reached ** piety under the Shining One
+ 10220 | Lair:1   | Killed a six-headed hydra
+ 10478 | Lair:1   | Reached skill level 18 in Axes
+ 11085 | Lair:1   | Noticed Fannar
+ 11101 | Lair:1   | Killed Fannar
+ 11101 | Lair:1   | Reached skill level 5 in Invocations
+ 12116 | Lair:2   | Noticed an eight-headed hydra
+ 12157 | Lair:2   | Killed an eight-headed hydra
+ 12157 | Lair:2   | Reached skill level 10 in Armour
+ 12157 | Lair:2   | Reached XP level 12. HP: 74/90 MP: 12/15
+ 13507 | Lair:3   | Found a staircase to the Shoals.
+ 13827 | Lair:2   | Reached skill level 19 in Axes
+ 16058 | Lair:4   | Found a hole to the Spider Nest.
+ 16317 | Lair:5   | Reached *** piety under the Shining One
+ 16680 | Lair:5   | Reached skill level 20 in Axes
+ 16680 | Lair:5   | Reached XP level 13. HP: 56/95 MP: 17/17
+ 17055 | Lair:5   | Reached skill level 5 in Fighting
+ 17560 | Lair:5   | Found a viscous altar of Jiyva.
+ 17561 | Lair:5   | Found a staircase to the Slime Pits.
+ 18187 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 19302 | Lair:6   | Reached skill level 10 in Fighting
+ 19780 | Lair:6   | Noticed a dire elephant
+ 19793 | Lair:6   | Killed a dire elephant
+ 19996 | Lair:6   | Noticed a dire elephant
+ 19996 | Lair:6   | Noticed a dire elephant
+ 20016 | Lair:6   | Noticed a dire elephant
+ 20036 | Lair:6   | Killed a dire elephant
+ 20619 | Lair:6   | Killed a dire elephant
+ 21257 | Lair:1   | Gained mutation: You are frail. (-10% HP) [mutagenic glow]
+ 21325 | D:10     | Found an opulent altar of Gozag.
+ 21351 | D:10     | Reached skill level 1 in Evocations
+ 22152 | D:11     | Found a staircase to the Orcish Mines.
+ 22352 | D:12     | Reached XP level 14. HP: 81/114 MP: 18/18
+ 22380 | D:12     | Found a frozen archway.
+ 22558 | D:12     | Reached **** piety under the Shining One
+ 22563 | IceCv    | Entered an ice cave
+ 22861 | IceCv    | Reached ***** piety under the Shining One
+ 23056 | IceCv    | Noticed a reaper
+ 23078 | IceCv    | Killed a reaper
+ 23736 | D:12     | Noticed Azrael
+ 23748 | D:12     | Killed Azrael
+ 23820 | D:12     | Noticed Harold
+ 23825 | D:12     | Killed Harold
+ 23937 | D:12     | Found Waoneupu's Distillery.
+ 23944 | D:12     | Bought a potion of heal wounds for 65 gold pieces
+ 24435 | D:13     | Reached skill level 10 in Invocations
+ 25087 | D:13     | Found a gate to the Vaults.
+ 25974 | D:14     | Reached ****** piety under the Shining One
+ 26482 | D:14     | Reached XP level 15. HP: 105/124 MP: 21/23
+ 26730 | D:15     | Entered Level 15 of the Dungeon
+ 27480 | D:15     | Found a staircase to the Depths.
+ 27908 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 28155 | Orc:1    | Found Dieng's Magic Scroll Boutique.
+ 28163 | Orc:1    | Bought a scroll of teleportation for 39 gold pieces
+ 28163 | Orc:1    | Bought a scroll of teleportation for 39 gold pieces
+ 28163 | Orc:1    | Bought a scroll of identify for 26 gold pieces
+ 28163 | Orc:1    | Bought a scroll of enchant weapon for 97 gold pieces
+ 28250 | Orc:1    | Found a roughly hewn altar of Beogh.
+ 28583 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 28647 | Orc:2    | Found Zaixaus's General Store.
+ 28674 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 28677 | Orc:2    | Bought a potion of might for 48 gold pieces
+ 28677 | Orc:2    | Bought a potion of heal wounds for 60 gold pieces
+ 28902 | Orc:2    | Found a staircase to the Elven Halls.
+ 29381 | Orc:2    | Paralysed by an orc sorcerer for 5 turns
+ 29409 | Orc:2    | Found Qezawafi's Food Boutique.
+ 29409 | Orc:2    | Found Anguymuri's Antique Weapon Shoppe.
+ 29411 | Orc:2    | Found Gesoz's Assorted Antiques.
+ 29411 | Orc:2    | Found Haovext's Weapon Shoppe.
+ 29763 | Elf:1    | Entered Level 1 of the Elven Halls
+ 29812 | Elf:1    | Slain by a fire elemental
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 |
+---------------+----------------------------------------------+-----
+Axes           |  3  4  5  7     9 11 13 16 17 18 20          | 20.9
+Armour         |                             7 10 11 12    13 | 13.2
+Invocations    |                                6  7    12    | 12.0
+Fighting       |                                     12 14    | 14.8
+Evocations     |                                      2       |  2.4
+Shields        |                                              |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |   108 |   110 |   268 |       |       ||   486
+       Headbutt          |     9 |    16 |    73 |   107 |   245 ||   450
+       Battleaxe         |       |       |    32 |   542 |   944 ||  1518
+       Flail             |       |       |       |    13 |    46 ||    59
+       Broad axe         |       |       |       |       |     8 ||     8
+       Glaive            |       |       |       |       |    13 ||    13
+Invok: Divine Shield     |       |       |       |     5 |     9 ||    14
+       Cleansing Flame   |       |       |       |       |     4 ||     4
+       Summon Divine War |       |       |       |       |     4 ||     4
+Evoke: Wand              |       |       |       |    12 |    20 ||    32
+       Lightning rod     |       |       |       |       |     3 ||     3
+       Phial of floods   |       |       |       |       |     1 ||     1
+  Use: Scroll            |     3 |     4 |     7 |     9 |    17 ||    40
+       Potion            |       |     2 |     1 |     2 |     8 ||    13
+  Eat: Chunk             |     1 |     2 |     1 |     9 |    12 ||    25
+       Bread ration      |     1 |     1 |     2 |     3 |     3 ||    10
+       Royal jelly       |       |       |       |     2 |     3 ||     5
+       Fruit             |       |       |       |     3 |    15 ||    18
+Armor: Scale mail        |    39 |    28 |    87 |       |       ||   154
+       Chain mail        |       |       |    34 |   288 |   559 ||   881
+Dodge: Dodged            |    27 |    24 |    67 |   174 |   283 ||   575
+Block: Shield            |    50 |    64 |   112 |       |     3 ||   229
+       Other             |       |       |       |    20 |    35 ||    55
+

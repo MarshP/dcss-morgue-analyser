@@ -1,0 +1,583 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+105665 Mash the Severer (level 16, -2/131 (132) HPs)
+             Began as a Hill Orc Fighter on Aug 30, 2017.
+             Was a High Priest of Okawaru.
+             Succumbed to poison (dark miasma)
+             ... on level 3 of the Swamp.
+             The game lasted 02:38:17 (33220 turns).
+
+Mash the Severer (Hill Orc Fighter)                Turns: 33220, Time: 02:38:17
+
+HP:   -2/131 (132)  AC: 32    Str: 26    XL:     16   Next: 42%
+MP:   24/24         EV: 13    Int:  8    God:    Okawaru [*****.]
+Gold: 757           SH:  0    Dex: 10    Spells: 15/15 levels left
+
+rFire    + . .     SeeInvis +   A - +3 battleaxe
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     + + .     Faith    .   h - +2 plate armour
+rPois    +         Spirit   .   y - +2 helmet {SInv}
+rElec    .         Reflect  .   K - +2 cloak
+rCorr    .         Harm     .   Y - +2 pair of gloves
+MR       +....                  O - +1 pair of boots of the Vacuum {rN++}
+Stlth    ..........             N - amulet of Biyt Sow {+Blink rPois Regen+}
+Regen    0.0/turn               B - ring of protection from fire
+MPRegen  0.2/turn               x - +5 ring of evasion
+
+@: lethally poisoned (-2 -> -61), non-regenerating, diseased, slowed, very slow
+A: frail 1
+a: Heroism, Finesse, Renounce Religion, Evoke Blink
+
+
+You were on level 3 of the Swamp.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You were not hungry.
+
+You visited 5 branches of the dungeon, and saw 25 of its levels.
+
+You collected 2130 gold pieces.
+You spent 1373 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ r - the +1 eveningstar of Trial by Ordeal {crush, rPois Int+4}
+   (You found it on level 1 of the Swamp)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your intelligence (+4).
+   It protects you from poison.
+ A - a +3 battleaxe (weapon)
+ L - the +6 great mace of Frustration {elec, rElec}
+   (Okawaru gifted it to you on level 3 of the Swamp)   
+   
+   Occasionally, upon striking a foe, it will discharge some electrical energy
+   and cause terrible harm.
+   
+   It insulates you from electricity.
+Missiles
+ d - 5 poisoned javelins
+ I - 5 javelins of returning (quivered)
+ P - 5 javelins of penetration
+Armour
+ h - a +2 plate armour (worn)
+ y - a +2 helmet of see invisible (worn)
+ K - a +2 cloak (worn)
+ O - the +1 pair of boots of the Vacuum (worn) {rN++}
+   (Okawaru gifted it to you on level 4 of the Lair of Beasts)   
+   
+   It greatly protects you from negative energy.
+ Y - a +2 pair of gloves (worn)
+Jewellery
+ c - an uncursed ring of protection from magic
+ x - a +5 ring of evasion (right hand)
+ B - a ring of protection from fire (left hand)
+ E - an uncursed ring of protection from cold
+ M - an uncursed ring of poison resistance
+ N - the amulet of Biyt Sow (around neck) {+Blink rPois Regen+}
+   (You bought it in a shop on level 12 of the Dungeon)   
+   
+   [amulet of regeneration]
+   
+   It protects you from poison.
+   It lets you blink.
+   It increases your rate of regeneration.
+Wands
+ i - a wand of iceblast (6/15)
+ l - a wand of confusion (13/48)
+ F - a wand of flame (28/48)
+ Q - a wand of iceblast (9/15)
+ R - a wand of digging (8/24)
+ X - a wand of acid (4/15)
+Scrolls
+ b - a scroll of blinking
+ e - 3 scrolls of teleportation
+ m - 4 scrolls of immolation
+ o - 2 scrolls of remove curse
+ t - a scroll of holy word
+ u - 3 scrolls of identify
+ w - a scroll of summoning
+ G - a scroll of magic mapping
+ H - 3 scrolls of vulnerability
+ J - 3 scrolls of fear
+ Z - 2 scrolls of recharging
+Potions
+ g - 2 potions of cancellation
+ j - 5 potions of flight
+ k - 7 potions of curing
+ n - a potion of might
+ p - a potion of lignification
+ s - 2 potions of resistance
+ v - 7 potions of haste
+ C - a potion of ambrosia
+ D - a potion of heal wounds
+ T - a potion of agility
+ V - a potion of berserk rage
+Books
+ q - Zegofonte's Guide on the Volcanoes and Talismans
+   (You found it on level 3 of the Swamp)   
+   
+    Spells                             Type                      Level
+    a - Infusion                     Charms                        1
+    b - Throw Flame                  Conjuration/Fire              2
+    c - Regeneration                 Charms/Necromancy             3
+    d - Conjure Flame                Conjuration/Fire              3
+    e - Deflect Missiles             Charms/Air                    6
+Miscellaneous
+ a - a phial of floods
+ W - a lamp of fire
+Comestibles
+ f - 7 bread rations
+ z - 9 meat rations
+ S - a chunk of flesh
+
+
+   Skills:
+ + Level 14.4 Fighting
+ * Level 20.9(21.2) Axes
+ - Level 6.4(13.5) Maces & Flails
+ - Level 6.3 Throwing
+ + Level 15.5 Armour
+   Level 3.2 Shields
+ - Level 10.7 Invocations
+ - Level 6.1 Evocations
+
+
+You had 15 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:5            Lair (6/6) D:8
+  Swamp (4/4) Lair:4        Snake (0/4) Lair:2        Slime (0/5) Lair:5
+    Orc (2/2) D:12            Elf (0/3) Orc:2       
+
+Altars:
+Ashenzari
+Cheibriados
+Fedhas
+Makhleb
+Nemelex Xobeh
+Okawaru
+Sif Muna
+Trog
+Xom
+Yredelemnul
+Zin
+Beogh
+
+Shops:
+D:9 =   D:12 ?=[(:   Orc:2 }***
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are frail. (-10% HP)
+
+
+Message History
+
+You feel better.
+The death drake bites you but does no damage.
+The death drake breathes miasma at you.
+The foul vapour engulfs you!
+You barely miss the death drake.
+The death drake is almost dead.
+You are engulfed in dark miasma.
+You are poisoned. You feel your flesh rotting away!
+You feel ill.
+* * * LOW HITPOINT WARNING * * * x2
+You feel very sick.
+The death drake bites you but does no damage.
+You slice the death drake like a ripe choko!!!
+You kill the death drake!
+Okawaru accepts your kill.
+You are engulfed in dark miasma.
+You are more poisoned.
+* * * LOW HITPOINT WARNING * * * x2
+You feel very sick.
+You die...
+
+?˜˜? ???.˜??..˜˜??...˜˜<?     ?.˜..#....
+????????..˜˜˜˜˜???˜??..˜???????˜˜.(#..##
+  ?...˜....˜˜˜˜.?..˜˜˜.˜.˜?˜˜?˜˜˜..#...#
+  ??˜˜..˜?˜.˜˜˜.˜˜..˜˜.†.....?˜.˜..##...
+  ?˜.˜˜.˜??˜˜˜.˜?.˜˜..?..˜˜????..˜..##..
+  ??...????????˜..?????††...???˜.....###
+   ?§.˜.?    ?˜˜˜˜..? ?˜.....??˜........
+   ??.˜.?    ?§˜˜˜˜.? ?˜˜˜˜.˜????..˜....
+    ?...?    ??.˜˜.?? ?˜.˜˜˜??  ?..˜.???
+    ?..??     ?????????˜.˜˜˜?   ??˜?????
+    ????       ?.˜.??˜˜˜....?    ???  ?.
+               ?.˜˜...˜˜...˜?????     ??
+               ??§@...˜˜˜.˜˜˜..§?
+                ????...˜˜..˜˜˜˜??
+                   ??˜˜˜..˜....?
+                    ????????????
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Gastronok (D:10)
+  Frances (D:12)
+  Donald (Swamp:4)
+  An orc warlord (Orc:2)
+  Nessos (Orc:2)
+  Snorg (D:11)
+  A fire dragon (Lair:6)
+  An ettin (Orc:2)
+  Josephine (Lair:6)
+  14 hydras
+  Erica (D:11)
+  A ghost crab (Swamp:2)
+  7 two-headed ogres
+  7 alligators
+  A centaur warrior (D:7)
+  4 death yaks (Lair:6)
+  An ogre mage (Orc:1)
+  4 orc high priests (Orc:2)
+  A tengu warrior (D:11)
+  Nergalle (Lair:4)
+  A fire crab (Lair:6)
+  2 spriggan druids
+  A death drake (Swamp:3)
+  5 swamp dragons
+  A shambling mangrove (Swamp:1)
+  4 orc knights
+  4 orc sorcerers
+  A cyclops (D:11)
+  An ugly thing (D:12)
+  13 black mambas
+  Psyche (D:11)
+  3 molten gargoyles (Lair:6)
+  14 spiny frogs
+  4 swamp worm zombies (Swamp:4)
+  8 komodo dragons
+  A hydra zombie (Swamp:4)
+  6 trolls
+  2 polar bears (Lair:3)
+  18 hornets
+  23 blink frogs
+  11 bog bodies
+  6 dream sheep (Lair:5)
+  7 tyrant leeches
+  5 hippogriffs
+  An alligator zombie (Swamp:4)
+  9 spriggans
+  2 shadows
+  5 wraiths (Lair:6)
+  8 wyverns
+  23 yaks
+  3 basilisks
+  27 vampire mosquitoes
+  2 steam dragons (Lair:6)
+  6 insubstantial wisps (Swamp:2)
+  2 nagas (Lair:2)
+  3 wargs
+  12 swamp worms
+  A soldier ant (D:12)
+  5 hell hounds
+  11 porcupines
+  17 water moccasins
+  2 black bears
+  2 swamp drakes (Swamp:3)
+  A swamp dragon zombie (Swamp:4)
+  36 orc warriors
+  6 ice beasts
+  A phantom (D:6)
+  A necrophage (D:11)
+  3 sky beasts
+  16 wolves
+  5 centaurs
+  11 ogres
+  14 crocodiles
+  3 big kobolds
+  13 bullfrogs
+  3 wyvern zombies
+  A wyvern skeleton (D:12)
+  3 scorpions
+  A killer bee (D:7)
+  11 wights
+  2 electric eels (Lair:2)
+  4 howler monkeys
+  5 lava snakes (Lair:6)
+  6 crimson imps
+  A bullfrog zombie (D:6)
+  2 quasits
+  A jelly (D:5)
+  6 hounds
+  A gnoll shaman (D:5)
+  27 orc priests
+  Crazy Yiuf (D:3)
+  3 centaur skeletons
+  Jessica (D:2)
+  Natasha (thrice) (D:3)
+  3 bullfrog skeletons
+  6 iguanas
+  8 worker ants
+  17 orc wizards
+  2 hound zombies (D:7)
+  A hound skeleton (D:9)
+  A howler monkey zombie (D:8)
+  4 gnolls (D:6)
+  A worker ant zombie (D:5)
+  12 adders
+  2 shadow imps
+  An ooze (D:5)
+  2 adder skeletons
+  2 adder zombies
+  A worm (D:2)
+  2 dart slugs
+  4 leopard geckos
+  119 orcs
+  4 ball pythons
+  6 bats
+  4 giant cockroaches
+  5 goblins
+  11 hobgoblins
+  12 jackals
+  7 quokkas
+  5 frilled lizards
+  14 kobolds
+  A leopard gecko zombie (D:5)
+  2 quokka zombies
+  6 rats
+  7 fungi
+  6 plants
+804 creatures vanquished.
+
+Vanquished Creatures (others)
+  A swamp drake (Swamp:2)
+  An orc (Orc:2)
+  7 fungi
+  2 plants
+11 creatures vanquished.
+
+Grand Total: 815 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+    57 | D:2      | Reached skill level 3 in Axes
+   141 | D:3      | Reached XP level 2. HP: 24/26 MP: 2/2
+   171 | D:4      | Noticed an ogre
+   176 | D:4      | Killed an ogre
+   176 | D:4      | Reached skill level 6 in Axes
+   176 | D:4      | Reached XP level 3. HP: 31/31 MP: 3/3
+   176 | D:4      | Reached XP level 4. HP: 39/39 MP: 4/4
+   194 | D:4      | Reached XP level 5. HP: 40/45 MP: 5/5
+   242 | D:4      | Reached skill level 7 in Axes
+   260 | D:4      | Found a burning altar of Makhleb.
+   395 | D:5      | Entered Level 5 of the Dungeon
+   712 | D:4      | Reached skill level 8 in Axes
+   712 | D:4      | Reached XP level 6. HP: 34/51 MP: 6/6
+  1292 | D:5      | Found a staircase to the Ecumenical Temple.
+  1296 | Temple   | Entered the Ecumenical Temple
+  1302 | Temple   | Became a worshipper of Warmaster Okawaru
+  2273 | D:2      | Reached skill level 9 in Axes
+  2314 | D:2      | Noticed Jessica
+  2326 | D:2      | Killed Jessica
+  2804 | D:3      | Found a runed door.
+  2845 | D:3      | Noticed Natasha
+  2858 | D:3      | Killed Natasha
+  3060 | D:3      | Found a shattered altar of Ashenzari.
+  3093 | D:3      | Reached XP level 7. HP: 55/57 MP: 7/7
+  3132 | D:3      | Noticed Natasha
+  3143 | D:3      | Killed Natasha
+  3167 | D:3      | Noticed Natasha
+  3173 | D:3      | Killed Natasha
+  3612 | D:4      | Found a glowing silver altar of Zin.
+  3612 | D:4      | Noticed an angel
+  3700 | D:5      | Reached skill level 10 in Axes
+  4117 | D:6      | Reached skill level 11 in Axes
+  4251 | D:5      | Reached XP level 8. HP: 45/64 MP: 4/8
+  4482 | D:6      | Reached * piety under Okawaru
+  4576 | D:6      | Reached skill level 12 in Axes
+  4811 | D:6      | Reached skill level 13 in Axes
+  4872 | D:6      | Found a snail-covered altar of Cheibriados.
+  5151 | D:6      | Reached ** piety under Okawaru
+  5355 | D:6      | Reached skill level 14 in Axes
+  5355 | D:6      | Reached XP level 9. HP: 69/70 MP: 9/9
+  5789 | D:7      | Noticed a centaur warrior
+  6300 | D:7      | Reached skill level 15 in Axes
+  6392 | D:7      | Killed a centaur warrior
+  6392 | D:7      | Reached *** piety under Okawaru
+  6392 | D:7      | Reached skill level 16 in Axes
+  6972 | D:8      | Reached XP level 10. HP: 66/77 MP: 8/10
+  7021 | D:8      | Noticed a two-headed ogre
+  7031 | D:8      | Killed a two-headed ogre
+  7031 | D:8      | Reached skill level 5 in Invocations
+  7111 | D:8      | Noticed a two-headed ogre
+  7124 | D:8      | Killed a two-headed ogre
+  7124 | D:8      | Reached **** piety under Okawaru
+  7687 | D:8      | Found a staircase to the Lair.
+  7932 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  8134 | D:3      | Noticed Crazy Yiuf
+  8140 | D:3      | Killed Crazy Yiuf
+  8396 | Lair:1   | Noticed a black mamba
+  8411 | Lair:1   | Killed a black mamba
+  8411 | Lair:1   | Reached skill level 17 in Axes
+  8658 | Lair:1   | Noticed a five-headed hydra
+  8682 | Lair:1   | Killed a five-headed hydra
+  8682 | Lair:1   | Received a gift from Okawaru
+  8682 | Lair:1   | Reached ***** piety under Okawaru
+  8682 | Lair:1   | Reached skill level 5 in Armour
+  8682 | Lair:1   | Reached XP level 11. HP: 52/82 MP: 8/18
+  8686 | Lair:1   | Reached skill level 10 in Invocations
+ 10319 | Lair:2   | Reached skill level 5 in Fighting
+ 10929 | Lair:2   | Found a staircase to the Snake Pit.
+ 11663 | Lair:1   | Received a gift from Okawaru
+ 12588 | Lair:3   | Reached XP level 12. HP: 100/100 MP: 20/20
+ 12799 | Lair:3   | Noticed a five-headed hydra
+ 12811 | Lair:3   | Killed a five-headed hydra
+ 13243 | Lair:3   | Reached skill level 10 in Armour
+ 14361 | Lair:4   | Noticed a seven-headed hydra
+ 14374 | Lair:4   | Killed a seven-headed hydra
+ 14417 | Lair:4   | Noticed a four-headed hydra
+ 14427 | Lair:4   | Killed a four-headed hydra
+ 14427 | Lair:4   | Reached skill level 10 in Fighting
+ 14516 | Lair:4   | Reached ****** piety under Okawaru
+ 14672 | Lair:4   | Noticed Nergalle
+ 14692 | Lair:4   | Killed Nergalle
+ 14722 | Lair:4   | Received a gift from Okawaru
+ 14723 | Lair:4   | Got a pair of slimy boots {god gift}
+ 14734 | Lair:4   | Identified the +1 pair of boots of the Vacuum {rN++} (Okawaru gifted it to you on level 4 of the Lair of Beasts)
+ 14905 | Lair:4   | Noticed a five-headed hydra
+ 14915 | Lair:4   | Killed a five-headed hydra
+ 15073 | Lair:4   | Noticed an eight-headed hydra
+ 15093 | Lair:4   | Killed an eight-headed hydra
+ 15093 | Lair:4   | Reached XP level 13. HP: 96/116 MP: 9/21
+ 15173 | Lair:4   | Found a staircase to the Swamp.
+ 16509 | Lair:5   | Found a staircase to the Slime Pits.
+ 16974 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 17358 | Lair:6   | Noticed Josephine
+ 17370 | Lair:6   | Killed Josephine
+ 17606 | Lair:5   | Reached skill level 1 in Evocations
+ 17990 | Lair:6   | Received a gift from Okawaru
+ 18214 | Lair:6   | Reached skill level 5 in Evocations
+ 18677 | Lair:6   | Noticed a fire dragon
+ 18677 | Lair:6   | Found a large runed door.
+ 18678 | Lair:6   | Found a large runed door.
+ 19040 | Lair:6   | Reached skill level 1 in Throwing
+ 19040 | Lair:6   | Reached XP level 14. HP: 83/127 MP: 15/22
+ 19274 | Lair:6   | Received a gift from Okawaru
+ 19380 | Lair:6   | Got an encrusted falchion
+ 19381 | Lair:6   | Identified the cursed +3 falchion of Irhufuh {drain, Fragile rPois Str+2} (You found it on level 6 of the Lair of Beasts)
+ 20060 | D:9      | Found a shimmering altar of Xom.
+ 20061 | D:9      | Found a shimmering altar of Xom.
+ 20061 | D:9      | Found a shimmering altar of Xom.
+ 20171 | D:9      | Found a shimmering altar of Xom.
+ 20171 | D:9      | Found a shimmering altar of Xom.
+ 20328 | D:9      | Found Litu's Jewellery Boutique.
+ 20452 | D:9      | Found a sparkling altar of Nemelex Xobeh.
+ 20707 | D:9      | Received a gift from Okawaru
+ 20777 | D:10     | Entered Level 10 of the Dungeon
+ 21211 | D:10     | Noticed Gastronok
+ 21230 | D:10     | Killed Gastronok
+ 21230 | D:10     | Reached skill level 5 in Throwing
+ 21673 | D:11     | Noticed Snorg
+ 21703 | D:11     | Killed Snorg
+ 21846 | D:11     | Noticed Psyche
+ 21860 | D:11     | Killed Psyche
+ 21901 | D:11     | Noticed Erica
+ 21922 | D:11     | Killed Erica
+ 22960 | D:12     | Found Tucvow's Book Boutique.
+ 23209 | D:12     | Found a staircase to the Orcish Mines.
+ 23209 | D:12     | Found Cobajisch's Antique Weapon Shoppe.
+ 23421 | D:12     | Found Urphavve's Antique Armour Shoppe.
+ 23513 | D:12     | Found Ciceinow's Jewellery Shop.
+ 23521 | D:12     | Noticed Frances
+ 23550 | D:12     | Killed Frances
+ 23550 | D:12     | Reached skill level 5 in Maces & Flails
+ 23970 | D:12     | Found Jepereo's Magic Scroll Emporium.
+ 23980 | D:12     | Bought a scroll of silence for 97 gold pieces
+ 23980 | D:12     | Bought a scroll of fear for 45 gold pieces
+ 24707 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 24995 | D:12     | Reached skill level 18 in Axes
+ 25476 | Orc:1    | Reached XP level 15. HP: 134/134 MP: 23/23
+ 25593 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 26140 | Orc:2    | Found Yge Nib's Gadget Emporium.
+ 26249 | Orc:2    | Found Funad's General Store.
+ 26261 | Orc:2    | Bought a scroll of identify for 30 gold pieces
+ 26306 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 26604 | Orc:2    | Noticed Nessos
+ 26627 | Orc:2    | Killed Nessos
+ 26627 | Orc:2    | Reached skill level 19 in Axes
+ 26911 | Orc:2    | Found a staircase to the Elven Halls.
+ 27100 | Orc:2    | Noticed an orc warlord
+ 27117 | Orc:2    | Killed an orc warlord
+ 27174 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 27362 | Orc:2    | Received a gift from Okawaru
+ 27731 | Orc:2    | Gained mutation: You are frail. (-10% HP) [a neqoxec]
+ 27906 | Orc:2    | Found Wic Ubonov's General Store.
+ 27917 | Orc:2    | Bought a scroll of identify for 36 gold pieces
+ 27939 | Orc:2    | Found Kuedol's General Store.
+ 28003 | Orc:2    | Bought a scroll of identify for 28 gold pieces
+ 28003 | Orc:2    | Bought a scroll of enchant armour for 105 gold pieces
+ 28003 | Orc:2    | Bought a scroll of identify for 28 gold pieces
+ 28003 | Orc:2    | Bought a scroll of identify for 28 gold pieces
+ 28535 | D:9      | Bought an uncursed ring of protection from magic for 350 gold pieces
+ 28845 | D:12     | Bought the amulet of Biyt Sow {+Blink rPois Regen+} for 626 gold pieces
+ 29072 | Swamp:1  | Entered Level 1 of the Swamp
+ 29162 | Swamp:1  | Reached skill level 20 in Axes
+ 29568 | Swamp:1  | Got a pitted eveningstar
+ 29569 | Swamp:1  | Identified the +1 eveningstar of Trial by Ordeal {crush, rPois Int+4} (You found it on level 1 of the Swamp)
+ 30612 | Swamp:1  | Reached skill level 15 in Armour
+ 30781 | Swamp:2  | Received a gift from Okawaru
+ 30903 | Swamp:2  | Reached XP level 16. HP: 120/130 MP: 24/24
+ 31433 | Swamp:3  | Received a gift from Okawaru
+ 31434 | Swamp:3  | Got a pitted great mace {god gift}
+ 31435 | Swamp:3  | Identified the +6 great mace of Frustration {elec, rElec} (Okawaru gifted it to you on level 3 of the Swamp)
+ 32109 | Swamp:3  | Identified Zegofonte's Guide on the Volcanoes and Talismans
+ 32447 | Swamp:4  | Entered Level 4 of the Swamp
+ 32962 | Swamp:4  | Noticed Donald
+ 32983 | Swamp:4  | Received a gift from Okawaru
+ 32984 | Swamp:4  | Killed Donald
+ 33219 | Swamp:3  | HP: 4/131 [poison (dark miasma)]
+ 33220 | Swamp:3  | Succumbed to poison (dark miasma)
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 |
+---------------+-------------------------------------------------+-----
+Axes           |  3  6        8  9 11 14 16 17          18 20    | 20.9
+Invocations    |                             9 10                | 10.7
+Armour         |                             5  9 11 13 14 15    | 15.5
+Fighting       |                                7 11 12    13 14 | 14.4
+Evocations     |                                      6          |  6.1
+Throwing       |                                      1  6       |  6.3
+Maces & Flails |                                         6       |  6.4
+Shields        |                                                 |  3.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 || total
+-------------------------+-------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |    23 |   254 |   423 |   693 |   735 |       ||  2128
+       Flail             |       |       |       |    59 |    38 |       ||    97
+       Battleaxe         |       |       |       |       |   850 |   219 ||  1069
+       Punch             |       |       |       |       |     2 |       ||     2
+       Eveningstar       |       |       |       |       |    12 |     2 ||    14
+       Great mace        |       |       |       |       |     9 |    57 ||    66
+Throw: Javelin           |       |       |       |    16 |    14 |     2 ||    32
+       Tomahawk          |       |       |       |     3 |       |       ||     3
+Invok: Heroism           |       |       |       |    16 |    37 |     2 ||    55
+       Finesse           |       |       |       |     7 |    17 |     1 ||    25
+Evoke: Wand              |       |       |       |     5 |     7 |       ||    12
+       Lamp of fire      |       |       |       |       |     1 |     1 ||     2
+  Use: Potion            |     1 |       |     2 |     3 |     5 |     1 ||    12
+       Scroll            |       |       |    10 |    11 |    23 |     3 ||    47
+ Stab: Confused          |       |       |       |       |       |     1 ||     1
+  Eat: Chunk             |       |     3 |     9 |    12 |    15 |       ||    39
+       Bread ration      |       |     1 |       |     1 |     1 |       ||     3
+       Fruit             |       |       |     1 |     8 |     2 |       ||    11
+       Royal jelly       |       |       |     2 |     1 |     5 |       ||     8
+       Meat ration       |       |       |       |       |     4 |     2 ||     6
+Armor: Scale mail        |     6 |    28 |       |       |       |       ||    34
+       Plate armour      |       |    80 |   141 |   342 |   801 |   263 ||  1627
+Dodge: Dodged            |     4 |    43 |    73 |   258 |   697 |   251 ||  1326
+       Deflected         |       |       |       |       |    14 |       ||    14
+Block: Shield            |     9 |   123 |   138 |   331 |   336 |       ||   937
+

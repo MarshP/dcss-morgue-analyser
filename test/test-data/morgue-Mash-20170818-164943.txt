@@ -1,0 +1,366 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+8533 Mash the Severer (level 11, -5/77 HPs)
+             Began as a Minotaur Fighter on Aug 18, 2017.
+             Was an Initiate of Okawaru.
+             Slain by a thrashing horror (18 damage)
+             ... on level 1 of the Abyss.
+             The game lasted 00:39:28 (8787 turns).
+
+Mash the Severer (Minotaur Fighter)                 Turns: 8787, Time: 00:39:29
+
+Health: -5/77      AC: 18    Str: 24 (25) XL:     11   Next: 11%
+Magic:  10/10      EV:  7    Int:  1      God:    Okawaru [......]
+Gold:   438        SH:  0    Dex:  8 (9)  Spells: 10/10 levels left
+
+rFire    . . .     SeeInvis .   L - +0 battleaxe
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   F - +0 plate armour
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   S - +1 pair of gloves
+MR       .....     Rnd*Rage +   G - +0 pair of boots
+Stlth    ..........             c - amulet of rage
+Regen    0.3/turn               y - +3 ring of slaying
+MPRegen  0.2/turn               O - +5 ring of slaying
+
+@: no status effects
+A: retaliatory headbutt, horns 2, [berserk 2], [blurry vision 2], [deterioration
+2], [dopey 2], [frail 2], [subdued magic 2], [MP-powered wands]
+a: Renounce Religion, Evoke Berserk Rage
+
+
+You were on level 1 of the Abyss.
+You worshipped Okawaru.
+Okawaru was noncommittal.
+You were full.
+
+You visited 3 branches of the dungeon, and saw 11 of its levels.
+You visited the Abyss 1 time.
+You also visited: Ossuary.
+
+You collected 438 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe
+ b - a cursed -2 flail
+ L - a +0 battleaxe (weapon)
+ T - a +0 war axe of electrocution
+Missiles
+ M - 22 tomahawks (quivered)
+Armour
+ F - a +0 plate armour (worn)
+ G - a +0 pair of boots (worn)
+ K - a +2 ring mail of cold resistance
+ S - a +1 pair of gloves (worn)
+Jewellery
+ c - an amulet of rage (around neck)
+ g - an uncursed ring of fire {unknown}
+ y - a +3 ring of slaying (left hand)
+ O - a +5 ring of slaying (right hand)
+Wands
+ H - a wand of polymorph (24/24)
+ I - a wand of lightning (8/15)
+ U - a wand of acid (5/15)
+Scrolls
+ e - a scroll of enchant armour {unknown}
+ i - 2 scrolls of recharging
+ j - 7 scrolls of teleportation
+ o - a scroll of fear {unknown}
+ p - 6 scrolls of immolation
+ q - 5 scrolls of remove curse
+ u - 2 scrolls of random uselessness {unknown}
+ z - 3 scrolls of magic mapping {unknown}
+ A - 2 scrolls of amnesia {unknown}
+ C - 2 scrolls of noise {unknown}
+ D - a scroll of fog {unknown}
+ J - a scroll of blinking {unknown}
+Potions
+ d - 3 potions of might
+ h - a potion of degeneration
+ k - a potion of heal wounds
+ m - 3 potions of curing
+ n - 2 potions of resistance
+ r - a potion of agility
+ s - a potion of mutation
+ t - 3 potions of lignification
+ v - 3 potions of brilliance
+ x - 3 potions of haste {unknown}
+ B - a potion of cancellation {unknown}
+ R - a potion of ambrosia {unknown}
+ V - a potion of berserk rage {unknown}
+Miscellaneous
+ E - a lamp of fire
+Comestibles
+ f - 4 bread rations
+
+
+   Skills:
+ + Level 9.4 Fighting
+ * Level 15.3 Axes
+ + Level 10.3 Armour
+   Level 3.6 Shields
+ - Level 0.8 Invocations
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:4            Lair (1/6) D:9
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:8 =:[(
+
+Annotations:
+D:6 1 runed door
+D:9 Erolcha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+[You often lose your temper in combat.]
+[Scrolls take you longer to read.]
+[Your body often deteriorates upon taking damage.]
+[You are very dopey. (Int -4)]
+[You are very frail. (-20% HP)]
+[Your spells are easier to cast, but less powerful.]
+[You expend magic power (3 MP) to strengthen your wands.]
+
+
+Message History
+
+The thrashing horror roars!
+The thrashing horror barely misses you. The thrashing horror tramples you. You hold your ground!
+The thrashing horror roars!
+The thrashing horror tramples you but does no damage.
+The thrashing horror tramples you! You stumble backwards!
+The thrashing horror roars! You hear an angry buzzing noise.
+The thrashing horror tramples you!
+* * * LOW HITPOINT WARNING * * *
+You stumble backwards!
+The ancient zyme hits you but does no damage. x2
+You feel yourself growing ill in the presence of the ancient zyme.
+You slice the ancient zyme!!
+The ancient zyme is severely damaged.
+The thrashing horror tramples you.
+* * * LOW HITPOINT WARNING * * *
+You hold your ground!
+The thrashing horror tramples you but does no damage.
+The thrashing horror roars!
+The thrashing horror tramples you!!
+You die...
+
+ #§
+#.#.# #######  ##
+ #....#x#...# ..   #
+   #...@.#..#.####.
+  #.#..#X.........
+  .......#x###..#
+#.###..#.#.##  #
+  .....###.#..#
+  ..#..#.#x*.#
+  .#..##.#...##
+ .###.#..###5W##
+     ##. *...#.#
+      . W# ..#.#
+     ##.......####
+     #. ..#........
+     #.#. .#.##...
+
+
+You could see an ancient zyme, a thrashing horror and a worldbinder.
+
+Vanquished Creatures
+  Gastronok (D:9)
+  Erica (D:8)
+  3 two-headed ogres
+  A fire bat (Abyss:1)
+  A porcupine (Lair:1)
+  A water moccasin (D:8)
+  3 sky beasts
+  4 orc warriors
+  2 ice beasts
+  A black bear (D:5)
+  A phantom (D:9)
+  2 ogres (D:8)
+  A necrophage (D:6)
+  5 centaurs
+  A big kobold (D:9)
+  3 bullfrogs
+  3 scorpions (D:8)
+  8 wights
+  7 howler monkeys
+  2 bullfrog zombies
+  4 crimson imps
+  A quasit (D:5)
+  2 hounds
+  A centaur skeleton (D:4)
+  3 orc priests
+  9 orc wizards
+  2 bullfrog skeletons
+  3 iguanas
+  10 worker ants
+  A hound zombie (D:5)
+  2 hound skeletons
+  13 mummies (Ossuary)
+  3 gnolls (D:5)
+  5 adders
+  A shadow imp (D:5)
+  An ooze (D:1)
+  An adder zombie (D:5)
+  An adder skeleton (D:4)
+  A dart slug (D:3)
+  7 worms
+  9 leopard geckos
+  43 orcs
+  12 bats
+  3 giant cockroaches (D:3)
+  7 goblins
+  7 hobgoblins
+  2 jackals (D:2)
+  4 quokkas
+  A ball python (D:5)
+  4 frilled lizards
+  A gnoll skeleton (Ossuary)
+  A goblin skeleton (Ossuary)
+  10 kobolds
+  4 kobold skeletons (Ossuary)
+  2 orc skeletons (Ossuary)
+  9 rats
+  11 rat skeletons (Ossuary)
+252 creatures vanquished.
+
+Vanquished Creatures (others)
+  A kobold (D:9)
+1 creature vanquished.
+
+Grand Total: 253 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   219 | D:1      | Reached skill level 3 in Axes
+   325 | D:1      | Reached XP level 2. HP: 24/26 MP: 1/1
+   580 | D:1      | Reached skill level 4 in Axes
+   847 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1004 | D:2      | Found a hazy altar of Hepliaklqana.
+  1892 | D:3      | Reached skill level 5 in Axes
+  1969 | D:3      | Reached XP level 4. HP: 39/39 MP: 3/3
+  2000 | D:3      | Noticed a centaur
+  2018 | D:3      | Killed a centaur
+  2018 | D:3      | Reached skill level 6 in Axes
+  2018 | D:3      | Reached XP level 5. HP: 37/45 MP: 4/4
+  2028 | D:3      | Noticed an ice beast
+  2045 | D:3      | Killed an ice beast
+  2045 | D:3      | Reached skill level 7 in Axes
+  2347 | D:3      | Noticed a centaur
+  2351 | D:3      | Reached XP level 6. HP: 43/51 MP: 5/5
+  2353 | D:3      | Reached skill level 8 in Axes
+  2744 | D:4      | Found a sacrificial altar of Ru.
+  2834 | D:4      | Reached skill level 9 in Axes
+  2869 | D:4      | Found a sand-covered staircase.
+  2877 | Ossuary  | Entered an ossuary
+  2947 | Ossuary  | Reached XP level 7. HP: 50/57 MP: 6/6
+  3423 | D:4      | Found a staircase to the Ecumenical Temple.
+  3429 | Temple   | Entered the Ecumenical Temple
+  3682 | D:4      | Reached skill level 5 in Armour
+  3940 | D:4      | Found a shattered altar of Ashenzari.
+  4005 | D:4      | Found a bloodstained altar of Trog.
+  4028 | D:5      | Entered Level 5 of the Dungeon
+  4465 | D:5      | Reached XP level 8. HP: 64/64 MP: 7/7
+  4506 | D:5      | Reached skill level 10 in Axes
+  4776 | D:5      | Noticed a two-headed ogre
+  4788 | D:5      | Killed a two-headed ogre
+  5385 | D:5      | Reached skill level 11 in Axes
+  5393 | D:5      | Reached XP level 9. HP: 47/70 MP: 8/8
+  5592 | D:6      | Found a runed door.
+  5784 | D:6      | You fall through a shaft!
+  5795 | D:7      | Reached skill level 10 in Armour
+  6071 | D:7      | Reached skill level 5 in Fighting
+  6543 | D:8      | Found Moehoonu's Antique Weapon Shop.
+  6596 | D:8      | Found Xotayren's Armour Shop.
+  6626 | D:8      | Noticed Erica
+  6643 | D:8      | Killed Erica
+  6643 | D:8      | Reached skill level 12 in Axes
+  6742 | D:8      | Noticed a two-headed ogre
+  6751 | D:8      | Killed a two-headed ogre
+  6751 | D:8      | Reached XP level 10. HP: 72/90 MP: 9/9
+  6859 | D:8      | Found Qat Afugh's Book Shoppe.
+  6959 | D:8      | Noticed a two-headed ogre
+  6966 | D:8      | Killed a two-headed ogre
+  6966 | D:8      | Reached skill level 13 in Axes
+  7251 | D:8      | Found Quuhis's Jewellery Shoppe.
+  7731 | D:9      | Noticed Gastronok
+  7860 | D:9      | Killed Gastronok
+  7860 | D:9      | Reached skill level 15 in Axes
+  7962 | D:9      | Reached XP level 11. HP: 97/97 MP: 10/10
+  7993 | D:9      | Found an iron altar of Okawaru.
+  8001 | D:9      | Became a worshipper of Warmaster Okawaru
+  8328 | D:9      | Noticed Erolcha
+  8605 | D:9      | Found a staircase to the Lair.
+  8614 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  8693 | D:9      | Cast into level 1 of the Abyss (Erolcha)
+  8707 | Abyss:1  | Noticed a thrashing horror
+  8738 | Abyss:1  | Noticed a wretched star
+  8787 | Abyss:1  | Slain by a thrashing horror
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Axes           |  3  4  5  6  7  9    11 12 15 | 15.3
+Armour         |                    6  9 10    | 10.3
+Fighting       |                          8  9 |  9.4
+Shields        |                               |  3.6
+Invocations    |                               |  0.8
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: War axe           |   126 |    76 |   207 |       ||   409
+       Headbutt          |    12 |    10 |    50 |    32 ||   104
+       Battleaxe         |       |       |    53 |   147 ||   200
+  Use: Scroll            |       |     3 |     8 |     2 ||    13
+       Potion            |       |       |     2 |     6 ||     8
+ Stab: Paralysed         |       |     1 |       |       ||     1
+  Eat: Chunk             |     3 |     3 |     1 |     4 ||    11
+       Royal jelly       |       |     1 |     1 |     1 ||     3
+       Meat ration       |       |       |     1 |     1 ||     2
+       Fruit             |       |       |     3 |       ||     3
+Armor: Scale mail        |    48 |    25 |    45 |       ||   118
+       Ring mail         |       |       |    18 |       ||    18
+       Plate armour      |       |       |    16 |   145 ||   161
+       Skin              |       |       |     1 |       ||     1
+Dodge: Dodged            |    35 |    22 |    57 |    77 ||   191
+Block: Shield            |    66 |    39 |   100 |       ||   205
+

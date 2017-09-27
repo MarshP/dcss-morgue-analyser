@@ -1,0 +1,348 @@
+Mash
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a stone
+(1, 0, D:1)
+  a stone
+(3, 0, D:1)
+  a stone
+(4, 1, D:1)
+  a stone
+(6, 1, D:1)
+  a cursed -2 club
+(7, 6, D:1)
+  22 arrows
+(13, -2, D:1)
+  a cursed +0 robe
+(31, 6, D:1)
+  a cursed -3 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 scale mail
+(1, -18, D:2)
+  23 stones
+(4, -30, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  19 arrows
+(24, 38, D:3)
+  a cursed -2 scale mail
+(25, 35, D:3)
+  a +0 leather armour of fire resistance
+(30, 34, D:3)
+  30 sling bullets
+(38, 15, D:3)
+  15 bolts
+(39, 38, D:3)
+  a scroll of immolation
+(40, 1, D:3)
+  a +0 short sword (still there?)
+  a +0 scale mail (still there?)
+  a +0 scale mail (still there?)
+(41, 0, D:3)
+  a +0 dagger
+  (unseen)
+(43, 16, D:3)
+  a +0 hand axe
+(46, 39, D:3)
+  a +0 hand axe
+(49, 19, D:3)
+  12 stones
+(56, 33, D:3)
+  a +0 mace
+  a +0 leather armour
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  24 arrows
+(6, -2, D:4)
+  a +0 whip
+(7, -3, D:4)
+  a +0 hand axe of flaming
+(18, -5, D:4)
+  a stone
+(18, -4, D:4)
+  a stone
+(19, -9, D:4)
+  a stone
+(19, -3, D:4)
+  a stone
+(21, -3, D:4)
+  a +0 flail
+(22, -40, D:4)
+  a +0 whip
+(22, -9, D:4)
+  a stone
+(22, -3, D:4)
+  a +0 spear
+(23, -9, D:4)
+  4 stones
+(24, -9, D:4)
+  2 stones
+(24, -8, D:4)
+  2 stones
+(25, -7, D:4)
+  2 stones
+(28, -13, D:4)
+  a stone
+(28, -12, D:4)
+  5 stones
+(28, -11, D:4)
+  a stone
+(29, -11, D:4)
+  a stone
+(32, -21, D:4)
+  a cursed -3 shortbow
+(33, -11, D:4)
+  a +0 ring mail
+(35, -40, D:4)
+  a +0 chain mail
+(36, -22, D:4)
+  a +0 short sword
+(55, -48, D:4)
+  a +0 robe
+(55, -28, D:4)
+  a +0 flail of crushing
+(57, -27, D:4)
+  a +0 dagger
+  a +0 robe
+  a +0 whip
+  a +0 ring mail
+(71, -11, D:4)
+  12 arrows
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a cursed +0 scale mail
+  a +0 dagger
+  a +0 hand axe
+  a +0 leather armour
+(0, 1, D:5)
+  a +0 robe
+  a +0 dagger
+(5, 11, D:5)
+  a +0 war axe
+(18, -4, D:5)
+  a +0 antimagic long sword
+(20, 12, D:5)
+  a +0 short sword
+  a +0 ring mail
+(22, 13, D:5)
+  a +0 dagger
+  a cursed -1 robe
+(23, 18, D:5)
+  a cursed +0 leather armour
+(29, 13, D:5)
+  a +0 mace
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  26 arrows
+(27, 8, D:6)
+  an arrow
+(27, 9, D:6)
+  a +0 shortbow
+  24 arrows
+(28, -18, D:6)
+  a +0 scale mail
+(28, 9, D:6)
+  an arrow
+(29, 9, D:6)
+  an arrow
+(38, 6, D:6)
+  a +0 shortbow
+  16 arrows
+(39, -15, D:6)
+  a +0 dagger
+
+Level 7 of the Dungeon
+(5, -2, D:7)
+  an arrow
+(5, -1, D:7)
+  an arrow
+(6, -3, D:7)
+  an arrow
+(10, -3, D:7)
+  2 arrows
+(11, -3, D:7)
+  an arrow
+(12, -1, D:7)
+  a +0 whip of flaming
+  a +0 robe
+  an arrow
+(13, -22, D:7)
+  19 gold pieces
+(13, -1, D:7)
+  a +0 shortbow
+  7 arrows
+  a +0 animal skin
+(14, -29, D:7)
+  15 stones
+(20, -17, D:7)
+  19 gold pieces
+(21, -19, D:7)
+  7 gold pieces
+(24, -24, D:7)
+  a +0 spear
+(26, 4, D:7)
+  an arrow
+(31, 4, D:7)
+  an arrow
+(32, -22, D:7)
+  a +0 whip
+(33, 4, D:7)
+  17 arrows
+  a cursed -1 shortbow
+(35, -17, D:7)
+  a +0 hand axe
+  a +0 animal skin
+(36, -2, D:7)
+  13 stones
+(38, -7, D:7)
+  a +0 club
+  a +0 whip
+(38, -6, D:7)
+  a +0 dagger
+(38, 5, D:7)
+  17 arrows
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 shield
+(0, 4, D:8)
+  17 stones
+(4, 3, D:8)
+  a +0 hand axe
+  a +0 dagger
+  a +0 dagger
+  a cursed -3 flail
+  a +0 chain mail
+(6, 9, D:8)
+  6 large rocks
+(11, 6, D:8)
+  8 needles of frenzy
+(13, -1, D:8)
+  9 stones
+(14, 31, D:8)
+  a +0 war axe
+  a +0 war axe
+(21, 23, D:8)
+  a +0 trident
+(24, -9, D:8)
+  9 bolts
+(25, 40, D:8)
+  3 stones
+  a poisoned needle
+(26, 40, D:8)
+  a +0 whip
+  a +0 giant club
+  a +0 whip
+  4 stones
+(27, 38, D:8)
+  a +0 dagger of chaos
+  a +0 robe of the Archmagi
+(27, 39, D:8)
+  a +2 dagger of venom
+(27, 40, D:8)
+  a +0 whip
+  a +0 blowgun
+  17 poisoned needles
+(33, 29, D:8)
+  a +0 dagger
+  a +0 robe
+(34, -11, D:8)
+  23 arrows
+(35, 28, D:8)
+  29 arrows
+(36, 24, D:8)
+  a +0 dagger
+  a +0 robe
+(37, 25, D:8)
+  a cursed -2 dagger
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+  a +0 flail
+  a +0 leather armour
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a +1 centaur barding
+(6, -10, Lair:1)
+  the cursed +1 whip "Opelumno" {slash, Str+9 Stlth+}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your strength (+9).
+    It makes you more stealthy.
+    It has a curse placed upon it.
+(10, -29, Lair:1)
+  19 stones
+(26, -7, Lair:1)
+  23 stones
+(29, -36, Lair:1)
+  a +0 dagger
+(30, -10, Lair:1)
+  a +0 flail of venom
+(35, -31, Lair:1)
+  an uncursed staff of power
+(35, 4, Lair:1)
+  3 fruits
+(36, 3, Lair:1)
+  a fruit
+(37, 2, Lair:1)
+  2 fruits
+(37, 3, Lair:1)
+  3 fruits
+(38, 3, Lair:1)
+  3 fruits
+(39, 3, Lair:1)
+  2 fruits
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a +0 cloak
+(4, 3, Lair:2)
+  a yak corpse
+  a yak corpse (skeletalised by now)
+(4, 4, Lair:2)
+  a yak corpse
+(10, 16, Lair:2)
+  a +0 war axe
+(11, 1, Lair:2)
+  a +0 shortbow
+(11, 20, Lair:2)
+  a +0 club
+(34, 23, Lair:2)
+  a +0 trident
+(36, 12, Lair:2)
+  a +0 morningstar
+(37, 24, Lair:2)
+  17 sling bullets
+(45, 19, Lair:2)
+  a +0 ring mail
+(45, 28, Lair:2)
+  a +0 great sword
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  7 curare-tipped needles
+(4, -5, Lair:3)
+  18 stones
+(9, -12, Lair:3)
+  the +0 robe "Xetikh" {rPois}
+    It protects you from poison.
+(11, 2, Lair:3)
+  a +0 leather armour
+(15, 14, Lair:3)
+  a +0 ring mail
+(21, 17, Lair:3)
+  18 stones
+(31, -6, Lair:3)
+  a spiny frog corpse (skeletalised by now)
+(49, 16, Lair:3)
+  a scroll of remove curse
+

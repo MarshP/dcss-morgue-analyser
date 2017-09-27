@@ -1,0 +1,358 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+8171 Mash the Severer (level 11, -4/82 HPs)
+             Began as a Minotaur Fighter on Aug 19, 2017.
+             Was an Elder of Okawaru.
+             Slain by a black mamba (12 damage)
+             ... on level 2 of the Lair of Beasts.
+             The game lasted 00:38:27 (10710 turns).
+
+Mash the Severer (Minotaur Fighter)                Turns: 10710, Time: 00:38:27
+
+Health: -4/82      AC: 19    Str: 24    XL:     11   Next: 6%
+Magic:  8/10       EV: 10    Int:  5    God:    Okawaru [****..]
+Gold:   567        SH:  0    Dex: 10    Spells: 10/10 levels left
+
+rFire    + . .     SeeInvis .   d - +0 battleaxe
+rCold    + . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   F - +0 plate armour
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   c - scarf {rC+ rF+}
+rCorr    .         Harm     .   e - +0 pair of gloves
+MR       .....                  (no boots)
+Stlth    ..........             E - amulet of rage
+Regen    0.3/turn               (no ring)
+MPRegen  0.2/turn               (no ring)
+
+@: lethally poisoned (-4 -> -19), heroism, very slightly contaminated, studying
+Crossbows
+A: retaliatory headbutt, horns 2
+a: Heroism, Renounce Religion, Evoke Berserk Rage
+
+
+You were on level 2 of the Lair of Beasts.
+You worshipped Okawaru.
+Okawaru was greatly pleased with you.
+You were hungry.
+
+You visited 3 branches of the dungeon, and saw 12 of its levels.
+
+You collected 567 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 battleaxe (weapon)
+ y - a +5 flail of crushing
+ N - the +8 whip "Transmigrator" {slash, +Rage Str+2}
+   (You found it on level 8 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your strength (+2).
+   It lets you go berserk.
+Missiles
+ J - 5 tomahawks of returning (quivered)
+Armour
+ c - a scarf of resistance (worn)
+ e - a +0 pair of gloves (worn)
+ F - a +0 plate armour (worn)
+ O - a scarf of repulsion
+Jewellery
+ E - an amulet of rage (around neck)
+Wands
+ b - a wand of scattershot (0/9)
+ l - a wand of digging (11/24)
+ v - a wand of confusion (13/48)
+ x - a wand of flame (27/48)
+ H - a wand of paralysis (6/24)
+ L - a wand of lightning (7/15)
+ P - a wand of digging (6/24)
+ S - a wand of paralysis (12/24)
+Scrolls
+ h - 3 scrolls of teleportation {unknown}
+ j - 6 scrolls of remove curse
+ k - a scroll of magic mapping
+ m - a scroll of random uselessness {unknown}
+ n - 2 scrolls of blinking
+ p - a scroll of enchant weapon {unknown}
+ r - a scroll of noise {unknown}
+ s - 4 scrolls of enchant armour {unknown}
+ w - a scroll of fear {unknown}
+ A - 3 scrolls of fog {unknown}
+ D - a scroll of identify
+ M - 2 scrolls of amnesia {unknown}
+ R - a scroll of silence {unknown}
+ T - a scroll of brand weapon {unknown}
+Potions
+ g - a potion of invisibility
+ i - 3 potions of flight
+ o - a potion of agility
+ q - a potion of lignification
+ t - 4 potions of haste
+ u - 2 potions of degeneration
+ z - a potion of brilliance
+ C - a potion of mutation
+ G - 2 potions of magic
+Books
+ a - a manual of Crossbows
+Comestibles
+ f - 8 bread rations
+ B - 12 meat rations
+ Q - 4 fruits
+
+
+   Skills:
+ - Level 3.6(8.6) Fighting
+ * Level 15.5(20.5) Axes
+ * Level 12.5(17.5) Armour
+   Level 3.6(8.6) Shields
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:7            Lair (2/6) D:9
+ Swamp: Lair:2-4    Shoals: Lair:2-4     Snake: Lair:2-4    Spider: Lair:2-4
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Yredelemnul
+Zin
+The Shining One
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+As you read the scroll labeled YMESUPL ERRASU, it crumbles to dust.
+It was a scroll of blinking.
+You feel very sick.
+You feel sick.
+You feel sick.
+You feel very sick.
+The black mamba bites you but does no damage.
+You feel sick. The black mamba bites you!
+* * * LOW HITPOINT WARNING * * *
+You gain the combat prowess of a mighty hero.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+The black mamba bites you but does no damage.
+You slash the black mamba!
+The black mamba is severely wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+The black mamba bites you but does no damage.
+The black mamba bites you!
+You die...
+
+....##          ##.#
+.....#           ...    ###.
+....##           #.#####P...
+....#            #.#.#..(.P.
+....#           ##..P....#
+....#           #....†.P#
+....######   ####P......#
+....##.P.#####PP#..######
+...................##
+....................###
+...................#..#######
+............................#.
+.....................S@....<..
+............#.###P##..........
+..............# #####.........
+.#..#.....#.###    #.....#####
+.#........#..#     #....##      #....#
+...##.##....##     ##..##       #....
+.#.#####..#.#      ##..#        #...#
+...### ##...###    #...###      #...#
+.#.#P####.#.P.######....##.######...#
+.#.....##.......<[..................#
+.#........#.........................########
+.#.+##..#.#........#.##PP#..##.......##...##
+...................### ######...............
+
+
+You could see a black mamba.
+
+Vanquished Creatures
+  2 hydras (Lair:1)
+  3 spiny frogs
+  A troll (D:9)
+  2 hippogriffs (Lair:1)
+  A vampire (D:9)
+  13 yaks
+  Edmund (D:6)
+  A water moccasin (Lair:1)
+  2 phantoms
+  2 orc warriors
+  2 black bears
+  2 necrophages
+  2 crocodiles (Lair:1)
+  8 bullfrogs
+  4 scorpions
+  3 wights (D:9)
+  A howler monkey (D:6)
+  3 crimson imps
+  A bullfrog zombie (D:5)
+  A centaur zombie (D:9)
+  4 hounds
+  3 iron imps (D:8)
+  3 jellies
+  A gnoll shaman (D:7)
+  4 orc wizards
+  2 orc priests
+  Terence (D:3)
+  4 iguanas
+  9 worker ants
+  2 hound skeletons (D:6)
+  3 worker ant zombies
+  3 gnolls (D:7)
+  15 adders
+  A shadow imp (D:6)
+  An ooze (D:3)
+  A worm (D:3)
+  2 dart slugs
+  27 orcs
+  2 giant cockroaches
+  10 goblins
+  8 hobgoblins
+  17 jackals
+  5 quokkas
+  3 ball pythons
+  8 bats
+  4 frilled lizards
+  A jackal skeleton (D:5)
+  7 kobolds
+  A quokka skeleton (D:8)
+  A quokka zombie (D:9)
+  7 rats
+215 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc warrior (D:7)
+  A worker ant (D:7)
+  2 orcs (D:7)
+  2 plants (Lair:1)
+6 creatures vanquished.
+
+Grand Total: 221 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   146 | D:1      | Reached skill level 3 in Axes
+   158 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   514 | D:1      | Reached skill level 4 in Axes
+   581 | D:2      | Found a faded altar of an unknown god.
+   680 | D:2      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1020 | D:2      | Reached skill level 5 in Axes
+  1270 | D:2      | Reached XP level 4. HP: 38/39 MP: 3/3
+  1598 | D:3      | Reached skill level 6 in Axes
+  1759 | D:3      | Reached XP level 5. HP: 42/45 MP: 4/4
+  1848 | D:3      | Noticed Terence
+  1862 | D:3      | Killed Terence
+  1862 | D:3      | Reached skill level 7 in Axes
+  2072 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  2089 | D:4      | Noticed a phantom
+  2127 | D:4      | Killed a phantom
+  2127 | D:4      | Reached skill level 8 in Axes
+  2127 | D:4      | Reached XP level 6. HP: 38/51 MP: 5/5
+  2656 | D:5      | Entered Level 5 of the Dungeon
+  2698 | D:5      | Identified the Tome of Sinister Rituals and Attacks
+  2748 | D:5      | Reached skill level 9 in Axes
+  2748 | D:5      | Reached XP level 7. HP: 11/57 MP: 6/6
+  3131 | D:5      | Found a white marble altar of Elyvilon.
+  3458 | D:5      | Reached skill level 10 in Axes
+  4011 | D:6      | Reached skill level 11 in Axes
+  4011 | D:6      | Reached XP level 8. HP: 30/64 MP: 7/7
+  4277 | D:5      | Reached skill level 5 in Armour
+  4765 | D:6      | Noticed Edmund
+  4929 | D:7      | Found a staircase to the Ecumenical Temple.
+  4938 | Temple   | Entered the Ecumenical Temple
+  4971 | Temple   | Became a worshipper of Warmaster Okawaru
+  5087 | D:7      | Reached skill level 12 in Axes
+  5924 | D:6      | Killed Edmund
+  6347 | D:8      | Reached XP level 9. HP: 70/70 MP: 8/8
+  6356 | D:8      | Got a translucent whip
+  6635 | D:8      | Found a burning altar of Makhleb.
+  7095 | D:8      | Found a blossoming altar of Fedhas.
+  7286 | D:9      | Found a staircase to the Lair.
+  7426 | D:9      | Reached * piety under Okawaru
+  7509 | D:9      | Reached skill level 13 in Axes
+  8192 | D:9      | Noticed a troll
+  8201 | D:9      | Killed a troll
+  8279 | D:9      | Reached ** piety under Okawaru
+  8336 | D:9      | Reached skill level 10 in Armour
+  8411 | D:9      | Identified the +8 whip "Transmigrator" {slash, +Rage Str+2} (You found it on level 8 of the Dungeon)
+  8457 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  8509 | Lair:1   | Noticed a spiny frog
+  8512 | Lair:1   | Noticed a spiny frog
+  8528 | Lair:1   | Killed a spiny frog
+  8528 | Lair:1   | Reached skill level 14 in Axes
+  8528 | Lair:1   | Reached XP level 10. HP: 62/77 MP: 9/9
+  8532 | Lair:1   | Killed a spiny frog
+  8532 | Lair:1   | Reached *** piety under Okawaru
+  8991 | Lair:1   | Noticed a seven-headed hydra
+  9004 | Lair:1   | Killed a seven-headed hydra
+  9264 | Lair:1   | Reached **** piety under Okawaru
+  9264 | Lair:1   | Reached skill level 15 in Axes
+  9327 | Lair:1   | Noticed a six-headed hydra
+  9339 | Lair:1   | Killed a six-headed hydra
+ 10014 | Lair:1   | Reached XP level 11. HP: 62/82 MP: 10/10
+ 10710 | Lair:2   | Slain by a black mamba
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Axes           |  3  4  5  6  8  9 11 12 14 15 | 15.5
+Armour         |                    4  7 10 12 | 12.5
+Fighting       |                               |  3.6
+Shields        |                               |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: War axe           |    94 |   149 |   166 |       ||   409
+       Headbutt          |    12 |    17 |    65 |    19 ||   113
+       Battleaxe         |       |       |   192 |   112 ||   304
+       Whip              |       |       |       |    12 ||    12
+Invok: Heroism           |       |       |       |     5 ||     5
+Evoke: Wand              |       |     2 |     3 |       ||     5
+  Use: Potion            |       |     1 |     3 |     6 ||    10
+       Scroll            |       |       |    10 |     3 ||    13
+ Stab: Confused          |       |       |     2 |       ||     2
+  Eat: Chunk             |     1 |     3 |     2 |     5 ||    11
+       Fruit             |       |     2 |     7 |     1 ||    10
+       Bread ration      |       |       |     1 |       ||     1
+       Royal jelly       |       |       |     1 |       ||     1
+       Meat ration       |       |       |     1 |       ||     1
+Armor: Scale mail        |    36 |    53 |    58 |       ||   147
+       Plate armour      |       |       |    94 |    82 ||   176
+Dodge: Dodged            |    30 |    32 |    87 |    45 ||   194
+Block: Shield            |    49 |    48 |       |       ||    97
+       Large shield      |       |    12 |   108 |       ||   120
+
