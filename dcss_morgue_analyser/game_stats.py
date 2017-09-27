@@ -1,9 +1,10 @@
-import argparse
+
 import operator
 import datetime
 from enum import Enum, auto
-from os import listdir, remove, path
+from os import listdir
 from os.path import isfile, join
+
 
 
 class StatColumn(Enum):
@@ -23,11 +24,12 @@ class StatColumn(Enum):
     species = auto()
     version = auto()
     death_cause = auto()
+    self_kill = auto()
     dungeon_level = auto()
     score = auto()
 
 
-class DeathStats:
+class GameStats:
     """
     Class that parses morgue folder and generate a stat structure
     that can be interrogated through get... methods
@@ -60,12 +62,12 @@ class DeathStats:
 
     Stats = []
 
-    def __init__(self, morguepath):
+    def __init__(self, configuration):
         """
         Constructor
         :param morguepath: Path to crawl morgue files (ex: C:\dcss\morgue )
         """
-        self.MorguePath = morguepath
+        self.MorguePath = configuration.morgue_path
         self.MorgueFiles = []
         for f in listdir(self.MorguePath):
             if isfile(join(self.MorguePath, f)) and f[:6] == "morgue" and f[-3:] == "txt":
@@ -175,12 +177,19 @@ i       From the stat structure in param , get the count of each possible value 
             avg = avg + s[StatColumn.score]
         return int(avg / len(stat))
 
-    def get_scoreevolution(self,stat=None):
+    def get_scoreevolution(self,type='month',stat=None):
         if stat is None:
             stat = self.Stats
         evol={}
+
+        if type=="month":
+            filter="%y-%m"
+        else:
+            filter="%y-%m-%d"
+
+
         for s in stat:
-            key=s[StatColumn.datestart].strftime("%y-%m")
+            key=s[StatColumn.datestart].strftime(filter)
             if not key in evol:
                 evol[key]=[]
             evol[key].append(s[StatColumn.score])
@@ -280,6 +289,13 @@ i       From the stat structure in param , get the count of each possible value 
                         stat[StatColumn.death_cause] = ' '.join(linetab[3:])
                     else:
                         stat[StatColumn.death_cause] = ' '.join(linetab[2:])
+
+                if linetab[1] == "themself":
+                    stat[StatColumn.death_cause] = 'Himself (' + ' '.join(linetab[4:]) + ')'
+                    stat[StatColumn.self_kill] = True
+                else:
+                    stat[StatColumn.self_kill] = False
+
                 if stat[StatColumn.death_cause].find('\'s ghost') > -1:
                     stat[StatColumn.death_cause] = "Player" + stat[StatColumn.death_cause][
                                                               stat[StatColumn.death_cause].find('\'s ghost'):]
@@ -334,99 +350,3 @@ i       From the stat structure in param , get the count of each possible value 
         return rdate
 
 
-###############
-# MAIN Stuff
-################
-
-class OutputType(Enum):
-    Console = 1
-    File = 2
-
-
-# TODO manage program output type
-Output = OutputType.Console
-OutputFile = r'death_stats.txt'
-
-
-def write_file(data):
-    """
-    this function write data to file
-    :param data:
-    :return:
-    """
-    # TODO manage program output type
-    file_name = OutputFile
-    with open(file_name, 'a') as x_file:
-        x_file.write(data + "\n")
-
-
-def write_percharacter_stats(deathstats, list_character):
-    for lc in list_character:
-        lcstat = deathstats.get_filtered_stat(lc)
-        write_file("-" * 50)
-        write_file("Statistic for : {}".format(lc))
-        write_file("Number of games played : {}".format(deathstats.get_number_of_game(lcstat)))
-        sorted_simplestat = deathstats.get_stat_basic(StatColumn.death_cause, lcstat)
-        s = "\n"
-        for k in sorted_simplestat:
-            s = s + "{} ({} times)\n".format(k[0], k[1])
-        write_file("Killed most by : {}".format(s))
-
-        sorted_simplestat = deathstats.get_stat_basic(StatColumn.dun_lev, lcstat)
-        s = "\n"
-        for k in sorted_simplestat:
-            s = s + "{} ({} times)\n".format(k[0], k[1])
-        write_file("Killed most in : {}".format(s))
-
-        write_file("Best game : {}".format(deathstats.get_best_game(lcstat)))
-        write_file("Average Score : {}".format(deathstats.get_averagescore(lcstat)))
-
-
-def main():
-    """
-    Main function (heh :)
-    """
-    parser = argparse.ArgumentParser()
-    parser.add_argument("-p", "--path", type=str, help="DCSS path", default=path.dirname(path.abspath(__file__)))
-    args = parser.parse_args()
-
-    crawl_path = args.path
-    morgue_path = join(crawl_path, 'morgue')
-
-    if isfile(OutputFile):
-        remove(OutputFile)
-
-    deathstats = DeathStats(morgue_path)
-
-    deathstats.analyze()
-
-    write_file("-" * 50)
-    write_file("Number of games played : {}".format(deathstats.get_number_of_game()))
-    write_file("-" * 50)
-
-    stat = deathstats.get_stat_basic(StatColumn.death_cause)
-    s = "\n"
-    for k in stat:
-        s = s + "{} ({} times)\n".format(k[0], k[1])
-    write_file("Killed most by : {}".format(s))
-
-    stat = deathstats.get_stat_basic(StatColumn.dun_lev)
-
-    s = "\n"
-    for k in stat:
-        s = s + "{} ({} times)\n".format(k[0], k[1])
-    write_file("Killed most in : {}".format(s))
-
-    write_file("Best game : {}".format(deathstats.get_best_game()))
-    write_file("Average Score : {}".format(deathstats.get_averagescore()))
-    write_file("-" * 50)
-
-    list_character = deathstats.get_character_list()
-    write_percharacter_stats(deathstats, list_character)
-
-    scorevol = deathstats.get_scoreevolution()
-    print(scorevol)
-
-
-if __name__ == "__main__":
-    main()
