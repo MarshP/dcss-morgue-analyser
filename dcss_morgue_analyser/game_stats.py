@@ -99,7 +99,7 @@ class GameStats:
 
         return len(stat)
 
-    def get_filtered_stat(self, character):
+    def get_char_filtered_stat(self, character):
         """
         returns a stat structure filtered for character
         :param character: the character (race+job) to filter
@@ -109,6 +109,20 @@ class GameStats:
         for s in self.Stats:
             sb = s[StatColumn.species] + ' ' + s[StatColumn.background]
             if sb == character:
+                filtstat.append(s)
+        return filtstat
+
+    def get_filtered_stat(self, value,column=StatColumn.dungeon_level, ):
+        """
+             returns a stat structure filtered for column
+        :param column: the column to filter
+        :param value:  the value of the column
+        :return: stat structure
+        """
+        filtstat = []
+        for s in self.Stats:
+
+            if s[column] == value:
                 filtstat.append(s)
         return filtstat
 

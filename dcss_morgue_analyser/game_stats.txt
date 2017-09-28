@@ -1,0 +1,499 @@
+--------------------------------------------------
+--------------------------------------------------
+Number of games played : 142
+--------------------------------------------------
+--------------------------------------------------
+Killed most by : 
+orc priest (12 times)
+gnoll (12 times)
+orc wizard (7 times)
+adder (7 times)
+hobgoblin (6 times)
+ogre (6 times)
+jackal (6 times)
+adder's poison (5 times)
+Player's ghost (5 times)
+Sigmund (5 times)
+Natasha (4 times)
+ice beast (3 times)
+centaur (3 times)
+Terence (3 times)
+Grinder (3 times)
+worm (3 times)
+bat (2 times)
+red ugly thing (2 times)
+hound (2 times)
+Joseph (2 times)
+Menkaure (2 times)
+Crazy Yiuf (2 times)
+orc (2 times)
+giant frog (1 times)
+Frances (1 times)
+goblin's poison (1 times)
+shock serpent (1 times)
+iguana (1 times)
+Maud (1 times)
+wraith (1 times)
+eight-headed hydra (1 times)
+wyvern (1 times)
+hellwing (1 times)
+scorpion (1 times)
+cloud of flame (1 times)
+jelly's acid (1 times)
+vampire (1 times)
+enormous slime creature (1 times)
+dire elephant (1 times)
+soul eater (1 times)
+Grum (1 times)
+tengu conjurer (1 times)
+ (1 times)
+Ijyb (1 times)
+shadow (1 times)
+white ugly thing (1 times)
+Himself (badly aimed iceblast) (1 times)
+electric eel (1 times)
+giant cockroach (1 times)
+Josephine (1 times)
+orc warrior (1 times)
+Robin (1 times)
+killer bee zombie (1 times)
+Erica's acid (1 times)
+Duvessa (1 times)
+rat (1 times)
+ooze (1 times)
+centaur warrior (1 times)
+Player's ghost's poison (1 times)
+the fiery rage of Trog (1 times)
+giant gecko (1 times)
+
+Killed most in : 
+Dungeon:2 (35 times)
+Dungeon:1 (28 times)
+Dungeon:3 (24 times)
+Dungeon:4 (17 times)
+Dungeon:5 (10 times)
+Dungeon:9 (7 times)
+Dungeon:12 (5 times)
+Dungeon:6 (3 times)
+Dungeon:8 (2 times)
+Dungeon:7 (2 times)
+Orcish:2 (2 times)
+Lair:6 (1 times)
+Lair:7 (1 times)
+Dungeon:10 (1 times)
+bailey:(/na) (1 times)
+Lair:3 (1 times)
+Dungeon:11 (1 times)
+Lair:1 (1 times)
+
+Best game : 61742
+Average Score : 2921
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC                   PER CHARACTER STATISTIC
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Statistic for : Merfolk Ice Elementalist
+Number of games played : 64
+Killed most by : 
+orc priest (9 times)
+gnoll (6 times)
+hobgoblin (4 times)
+Sigmund (4 times)
+adder's poison (3 times)
+orc wizard (3 times)
+jackal (3 times)
+Grinder (3 times)
+bat (2 times)
+ice beast (2 times)
+centaur (2 times)
+Terence (2 times)
+Player's ghost (2 times)
+Menkaure (2 times)
+adder (2 times)
+Natasha (2 times)
+ogre (2 times)
+giant frog (1 times)
+goblin's poison (1 times)
+scorpion (1 times)
+killer bee zombie (1 times)
+Duvessa (1 times)
+rat (1 times)
+ooze (1 times)
+worm (1 times)
+the fiery rage of Trog (1 times)
+giant gecko (1 times)
+Crazy Yiuf (1 times)
+
+Killed most in : 
+Dungeon:2 (20 times)
+Dungeon:1 (18 times)
+Dungeon:5 (9 times)
+Dungeon:3 (9 times)
+Dungeon:4 (8 times)
+
+Best game : 1470
+Average Score : 168
+--------------------------------------------------
+Statistic for : Minotaur Berserker
+Number of games played : 54
+Killed most by : 
+gnoll (4 times)
+ogre (4 times)
+adder (3 times)
+red ugly thing (2 times)
+orc priest (2 times)
+Natasha (2 times)
+Joseph (2 times)
+Player's ghost (2 times)
+Frances (1 times)
+shock serpent (1 times)
+Maud (1 times)
+wraith (1 times)
+eight-headed hydra (1 times)
+wyvern (1 times)
+hellwing (1 times)
+cloud of flame (1 times)
+jelly's acid (1 times)
+vampire (1 times)
+enormous slime creature (1 times)
+dire elephant (1 times)
+soul eater (1 times)
+Grum (1 times)
+tengu conjurer (1 times)
+ (1 times)
+Crazy Yiuf (1 times)
+Ijyb (1 times)
+shadow (1 times)
+hound (1 times)
+white ugly thing (1 times)
+Himself (badly aimed iceblast) (1 times)
+electric eel (1 times)
+hobgoblin (1 times)
+orc (1 times)
+giant cockroach (1 times)
+Josephine (1 times)
+orc warrior (1 times)
+Robin (1 times)
+Erica's acid (1 times)
+centaur warrior (1 times)
+Player's ghost's poison (1 times)
+centaur (1 times)
+
+Killed most in : 
+Dungeon:2 (10 times)
+Dungeon:3 (8 times)
+Dungeon:9 (7 times)
+Dungeon:12 (5 times)
+Dungeon:4 (5 times)
+Dungeon:6 (3 times)
+Dungeon:1 (3 times)
+Dungeon:8 (2 times)
+Dungeon:7 (2 times)
+Orcish:2 (2 times)
+Lair:6 (1 times)
+Lair:7 (1 times)
+Dungeon:10 (1 times)
+bailey:(/na) (1 times)
+Lair:3 (1 times)
+Dungeon:11 (1 times)
+Lair:1 (1 times)
+
+Best game : 61742
+Average Score : 7427
+--------------------------------------------------
+Statistic for : Deep Elf Necromancer
+Number of games played : 7
+Killed most by : 
+orc wizard (1 times)
+gnoll (1 times)
+orc priest (1 times)
+iguana (1 times)
+Player's ghost (1 times)
+hound (1 times)
+worm (1 times)
+
+Killed most in : 
+Dungeon:4 (3 times)
+Dungeon:3 (2 times)
+Dungeon:1 (1 times)
+Dungeon:2 (1 times)
+
+Best game : 511
+Average Score : 195
+--------------------------------------------------
+Statistic for : Deep Elf Conjurer
+Number of games played : 1
+Killed most by : 
+Terence (1 times)
+
+Killed most in : 
+Dungeon:3 (1 times)
+
+Best game : 63
+Average Score : 63
+--------------------------------------------------
+Statistic for : Human Fire Elementalist
+Number of games played : 1
+Killed most by : 
+gnoll (1 times)
+
+Killed most in : 
+Dungeon:1 (1 times)
+
+Best game : 16
+Average Score : 16
+--------------------------------------------------
+Statistic for : Human Necromancer
+Number of games played : 13
+Killed most by : 
+jackal (3 times)
+adder's poison (2 times)
+orc wizard (2 times)
+adder (2 times)
+orc (1 times)
+worm (1 times)
+hobgoblin (1 times)
+Sigmund (1 times)
+
+Killed most in : 
+Dungeon:1 (5 times)
+Dungeon:2 (4 times)
+Dungeon:3 (3 times)
+Dungeon:4 (1 times)
+
+Best game : 151
+Average Score : 47
+--------------------------------------------------
+Statistic for : Centaur Hunter
+Number of games played : 2
+Killed most by : 
+ice beast (1 times)
+orc wizard (1 times)
+
+Killed most in : 
+Dungeon:5 (1 times)
+Dungeon:3 (1 times)
+
+Best game : 781
+Average Score : 439
+--------------------------------------------------
+--------------------------------------------------
+                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC                   PER DUNGEON STATISTIC
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Statistic for : Dungeon:1
+Number of games played : 28
+Killed most by : 
+hobgoblin (6 times)
+gnoll (6 times)
+jackal (6 times)
+bat (2 times)
+adder (2 times)
+giant frog (1 times)
+Terence (1 times)
+giant cockroach (1 times)
+rat (1 times)
+ooze (1 times)
+giant gecko (1 times)
+
+Best game : 63
+Average Score : 9
+--------------------------------------------------
+Statistic for : Dungeon:2
+Number of games played : 35
+Killed most by : 
+gnoll (5 times)
+Sigmund (5 times)
+adder's poison (4 times)
+Natasha (4 times)
+adder (4 times)
+orc priest (2 times)
+Crazy Yiuf (2 times)
+worm (2 times)
+hound (1 times)
+jelly's acid (1 times)
+Terence (1 times)
+orc wizard (1 times)
+the fiery rage of Trog (1 times)
+ice beast (1 times)
+ogre (1 times)
+
+Best game : 273
+Average Score : 64
+--------------------------------------------------
+Statistic for : Dungeon:12
+Number of games played : 5
+Killed most by : 
+Frances (1 times)
+tengu conjurer (1 times)
+white ugly thing (1 times)
+Player's ghost (1 times)
+Josephine (1 times)
+
+Best game : 29446
+Average Score : 18541
+--------------------------------------------------
+Statistic for : Dungeon:3
+Number of games played : 24
+Killed most by : 
+orc priest (6 times)
+orc wizard (3 times)
+Player's ghost (2 times)
+orc (2 times)
+goblin's poison (1 times)
+Terence (1 times)
+cloud of flame (1 times)
+adder (1 times)
+ (1 times)
+hound (1 times)
+ogre (1 times)
+Robin (1 times)
+gnoll (1 times)
+adder's poison (1 times)
+Grinder (1 times)
+
+Best game : 341
+Average Score : 113
+--------------------------------------------------
+Statistic for : Dungeon:5
+Number of games played : 10
+Killed most by : 
+ice beast (2 times)
+centaur (2 times)
+Menkaure (2 times)
+Grinder (2 times)
+orc priest (1 times)
+killer bee zombie (1 times)
+
+Best game : 1470
+Average Score : 636
+--------------------------------------------------
+Statistic for : Dungeon:8
+Number of games played : 2
+Killed most by : 
+red ugly thing (1 times)
+Grum (1 times)
+
+Best game : 4843
+Average Score : 4718
+--------------------------------------------------
+Statistic for : Lair:6
+Number of games played : 1
+Killed most by : 
+shock serpent (1 times)
+
+Best game : 31605
+Average Score : 31605
+--------------------------------------------------
+Statistic for : Dungeon:4
+Number of games played : 17
+Killed most by : 
+orc wizard (3 times)
+orc priest (3 times)
+ogre (2 times)
+iguana (1 times)
+Player's ghost (1 times)
+scorpion (1 times)
+Ijyb (1 times)
+Himself (badly aimed iceblast) (1 times)
+electric eel (1 times)
+Duvessa (1 times)
+centaur (1 times)
+worm (1 times)
+
+Best game : 919
+Average Score : 346
+--------------------------------------------------
+Statistic for : Lair:7
+Number of games played : 1
+Killed most by : 
+Maud (1 times)
+
+Best game : 37915
+Average Score : 37915
+--------------------------------------------------
+Statistic for : Dungeon:9
+Number of games played : 7
+Killed most by : 
+wraith (1 times)
+wyvern (1 times)
+ogre (1 times)
+red ugly thing (1 times)
+centaur warrior (1 times)
+Player's ghost's poison (1 times)
+Player's ghost (1 times)
+
+Best game : 8547
+Average Score : 5575
+--------------------------------------------------
+Statistic for : Dungeon:10
+Number of games played : 1
+Killed most by : 
+eight-headed hydra (1 times)
+
+Best game : 5573
+Average Score : 5573
+--------------------------------------------------
+Statistic for : bailey:(/na)
+Number of games played : 1
+Killed most by : 
+hellwing (1 times)
+
+Best game : 2932
+Average Score : 2932
+--------------------------------------------------
+Statistic for : Dungeon:6
+Number of games played : 3
+Killed most by : 
+Joseph (1 times)
+ogre (1 times)
+vampire (1 times)
+
+Best game : 2219
+Average Score : 1650
+--------------------------------------------------
+Statistic for : Dungeon:7
+Number of games played : 2
+Killed most by : 
+enormous slime creature (1 times)
+Joseph (1 times)
+
+Best game : 4426
+Average Score : 3348
+--------------------------------------------------
+Statistic for : Lair:3
+Number of games played : 1
+Killed most by : 
+dire elephant (1 times)
+
+Best game : 27279
+Average Score : 27279
+--------------------------------------------------
+Statistic for : Orcish:2
+Number of games played : 2
+Killed most by : 
+soul eater (1 times)
+orc warrior (1 times)
+
+Best game : 61742
+Average Score : 61096
+--------------------------------------------------
+Statistic for : Dungeon:11
+Number of games played : 1
+Killed most by : 
+shadow (1 times)
+
+Best game : 9690
+Average Score : 9690
+--------------------------------------------------
+Statistic for : Lair:1
+Number of games played : 1
+Killed most by : 
+Erica's acid (1 times)
+
+Best game : 7331
+Average Score : 7331
