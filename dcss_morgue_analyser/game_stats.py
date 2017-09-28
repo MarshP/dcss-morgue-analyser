@@ -126,6 +126,18 @@ class GameStats:
 
         return list_char
 
+    def get_stat_list(self,statcolumn=StatColumn.dungeon_level):
+        """
+        Get the list of different statcolumn values
+        :param statcolumn: the column
+        :return: the list pof possible values of column
+        """
+        list_stat = []
+        for s in self.Stats:
+            if s[statcolumn] not in list_stat:
+                list_stat.append(s[statcolumn])
+
+        return list_stat
     def get_stat_basic(self, column, stat=None, retsorted=True):
         """
 i       From the stat structure in param , get the count of each possible value of *column*
