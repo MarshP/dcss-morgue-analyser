@@ -1,0 +1,499 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+94028 Mash the Executioner (level 15, -3/139 HPs)
+             Began as a Minotaur Fighter on Aug 19, 2017.
+             Was a High Priest of Okawaru.
+             Slain by an orc warrior
+             ... wielding a +0 halberd
+              (27 damage)
+             ... on level 2 of the Orcish Mines on Aug 20, 2017.
+             The game lasted 02:21:35 (31393 turns).
+
+Mash the Executioner (Minotaur Fighter)            Turns: 31393, Time: 02:21:35
+
+Health: -3/139     AC: 25    Str: 32    XL:     15   Next: 62%
+Magic:  19/19      EV: 11    Int:  5    God:    Okawaru [*****.]
+Gold:   1708       SH:  0    Dex: 14    Spells: 14/14 levels left
+
+rFire    . . .     SeeInvis .   k - +4 exec axe {elec, Dex+4}
+rCold    + . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   W - +0 plate armour
+rPois    .         Spirit   .   V - +1 hat
+rElec    .         Reflect  +   (no cloak)
+rCorr    .         Harm     .   A - +1 pair of gloves
+MR       ++...                  J - +1 pair of boots
+Stlth    ..........             Y - +2 amulet of reflection
+Regen    0.4/turn               Z - ring of protection from cold
+MPRegen  0.2/turn               q - ring of protection from magic
+
+@: confused, mighty, about to teleport, heroism
+A: retaliatory headbutt, horns 2
+a: Heroism, Finesse, Renounce Religion
+
+
+You were on level 2 of the Orcish Mines.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You were not hungry.
+
+You visited 4 branches of the dungeon, and saw 21 of its levels.
+You also visited: Ice Cave.
+
+You collected 1708 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ k - the +4 executioner's axe "Upiusol" (weapon) {elec, Dex+4}
+   (Okawaru gifted it to you on level 5 of the Lair of Beasts)   
+   
+   Occasionally, upon striking a foe, it will discharge some electrical energy
+   and cause terrible harm.
+   
+   It affects your dexterity (+4).
+ B - a +1 broad axe of flaming
+Missiles
+ y - 39 tomahawks (quivered)
+Armour
+ c - a +0 buckler of protection
+ d - the scarf of the Armoured One {-Tele rCorr Str+9 Int+6}
+   (Okawaru gifted it to you in an ice cave)   
+   
+   It affects your strength (+9).
+   It affects your intelligence (+6).
+   It prevents most forms of teleportation.
+   It protects you from acid and corrosion.
+ z - a scarf of repulsion
+ A - a +1 pair of gloves (worn)
+ J - a +1 pair of boots (worn)
+ V - a +1 hat (worn)
+ W - a +0 plate armour (worn)
+Jewellery
+ e - an uncursed ring of resist corrosion
+ i - an uncursed ring of flight
+ q - a ring of protection from magic (right hand)
+ Y - a +2 amulet of reflection (around neck)
+ Z - a ring of protection from cold (left hand)
+Wands
+ g - a wand of digging (8/24)
+ v - a wand of confusion (13/48)
+ x - a wand of paralysis (7/24)
+ C - a wand of lightning (4/15)
+ F - a wand of iceblast (11/15)
+ G - a wand of random effects (21/48)
+ I - a wand of flame (22/48)
+ K - a wand of polymorph (17/24)
+ M - a wand of digging (15/24)
+Scrolls
+ b - 4 scrolls of noise
+ h - 2 scrolls of teleportation
+ l - a scroll of magic mapping
+ o - a scroll of fog {unknown}
+ r - 2 scrolls of blinking {unknown}
+ s - 4 scrolls of amnesia {unknown}
+ w - 3 scrolls of fear {unknown}
+ E - a scroll of brand weapon {unknown}
+ L - 5 scrolls of remove curse
+ N - a scroll of silence {unknown}
+ R - 3 scrolls of immolation {unknown}
+Potions
+ m - a potion of ambrosia
+ n - 4 potions of curing
+ p - a potion of haste
+ O - a potion of brilliance {unknown}
+ P - a potion of invisibility
+ Q - a potion of cancellation
+ S - a potion of agility {unknown}
+ U - 2 potions of flight
+ X - a potion of resistance {unknown}
+Miscellaneous
+ D - a sack of spiders
+ H - a phantom mirror
+ T - a lightning rod (3/4)
+Comestibles
+ f - 7 bread rations
+ t - 7 meat rations
+
+
+   Skills:
+ - Level 14.3(19.3) Fighting
+ * Level 21.9(26.9) Axes
+ + Level 13.8(18.8) Armour
+ - Level 3.6(8.6) Shields
+ - Level 7.9 Invocations
+ - Level 6.7 Evocations
+
+
+You had 14 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:4            Lair (6/6) D:11
+  Swamp (0/4) Lair:3        Snake (0/4) Lair:2        Slime (0/5) Lair:6
+    Orc (2/2) D:12            Elf (0/3) Orc:2       
+
+Altars:
+Elyvilon
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Okawaru
+Sif Muna
+Yredelemnul
+Jiyva
+
+Shops:
+Orc:2 :
+
+Annotations:
+D:4 Blork the orc
+Lair:5 exclusion: 4 oklob plants
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You feel strangely unstable. The orc warrior closely misses you.
+You feel very mighty all of a sudden.
+The orc knight no longer looks unusually strong.
+The orc warrior no longer looks unusually strong.
+The orc knight closely misses you.
+The orc knight roars a battlecry!
+The orcs go into a battle-frenzy!
+You are confused.
+You feel invigorated.
+The orc no longer looks unusually strong.
+The orc warrior hits you from afar with a halberd.
+* * * LOW HITPOINT WARNING * * *
+The orc knight hits you with a long sword!
+* * * LOW HITPOINT WARNING * * *
+The orc knight roars a battlecry!
+The orc goes into a battle-frenzy!
+You bump into the rock wall.
+The orc warrior shouts!
+The orc warrior hits you from afar with a halberd!!
+You die...
+
+          ###      ####
+         ##.## #####.#.
+    ######...###.#.....
+   ##.##.##.###........
+   #.........###.......
+   ##.........##.......
+    #...#.......#......
+    ##.#..(.(..........
+    ##.....n...........
+#####o..o.(.(..........
+#@oooo..#.#............
+######.##.#............
+     ##.o..o...........
+       oooo............
+       oooo...  .......
+       .oooo.o  .......
+       ...oo..  .......
+       ...4oo.  .......
+       .......  .......
+                .......
+                .......
+                ......#
+                ......#
+
+
+You could see 2 orc knights, 3 orc warriors and an orc.
+
+Vanquished Creatures
+  Frances (D:12)
+  A frost giant (IceCv)
+  An orc warlord (D:12)
+  The ghost of Mash the Severer, a journeyman MiFi of Okawaru (Lair:3)
+  Josephine (Lair:4)
+  9 hydras
+  Erica (Orc:1)
+  5 two-headed ogres
+  5 death yaks
+  An orc high priest (Orc:1)
+  An orc knight (Orc:2)
+  An orc sorcerer (Orc:1)
+  An ugly thing (D:12)
+  A manticore (D:12)
+  2 cyclopes (D:12)
+  3 oklob plants (D:11)
+  6 elephants (Lair:5)
+  Maurice (D:8)
+  An ice statue (IceCv)
+  10 black mambas
+  27 spiny frogs
+  Joseph (D:7)
+  5 torpor snails
+  4 rime drakes
+  11 komodo dragons
+  A hornet (Lair:4)
+  4 trolls
+  17 polar bears
+  20 blink frogs
+  5 tyrant leeches (Lair:6)
+  7 hippogriffs
+  3 slime creatures (D:12)
+  15 dream sheep
+  A spriggan (D:9)
+  3 wyverns
+  72 yaks
+  5 wraiths (Lair:4)
+  Grum (D:9)
+  4 basilisks
+  10 vampire mosquitoes
+  2 hungry ghosts (D:11)
+  4 nagas (Lair:2)
+  6 swamp worms (Lair:6)
+  3 wargs (Orc:1)
+  14 porcupines
+  Duvessa (D:7)
+  14 water moccasins
+  2 ice beasts
+  5 necrophages (Lair:4)
+  30 orc warriors
+  A black bear (D:11)
+  A phantom (D:7)
+  31 wolves
+  10 ogres
+  9 centaurs
+  8 crocodiles
+  3 big kobolds
+  31 bullfrogs
+  A gnoll sergeant (D:9)
+  A water moccasin zombie (D:10)
+  Dowan (D:7)
+  6 wights
+  3 howler monkeys
+  An electric eel (Lair:3)
+  8 crimson imps
+  6 jellies
+  2 quasits
+  7 hounds
+  22 orc wizards
+  A bullfrog skeleton (D:12)
+  3 centaur zombies
+  18 orc priests
+  2 iguanas
+  10 worker ants
+  A hound zombie (D:11)
+  2 hound skeletons
+  A worker ant zombie (D:11)
+  3 gnolls (D:9)
+  A howler monkey skeleton (D:5)
+  15 adders
+  A shadow imp (D:7)
+  12 white imps (Orc:1)
+  2 oozes
+  An adder zombie (D:5)
+  13 worms
+  8 dart slugs
+  7 leopard geckos
+  98 orcs
+  2 giant cockroaches
+  7 goblins
+  4 hobgoblins
+  8 jackals (D:2)
+  20 kobolds
+  5 quokkas
+  3 ball pythons
+  7 bats
+  10 frilled lizards
+  A quokka skeleton (D:4)
+  10 rats
+  2 fungi
+  9 plants
+789 creatures vanquished.
+
+Vanquished Creatures (others)
+  A sky beast (D:9)
+  A bush (Lair:3)
+  5 fungi
+  54 plants
+61 creatures vanquished.
+
+Grand Total: 850 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   182 | D:1      | Reached skill level 3 in Axes
+   182 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   776 | D:1      | Reached XP level 3. HP: 27/31 MP: 2/2
+   965 | D:2      | Reached skill level 4 in Axes
+  1337 | D:2      | Reached XP level 4. HP: 30/39 MP: 3/3
+  1646 | D:3      | Reached skill level 5 in Axes
+  2032 | D:3      | Reached XP level 5. HP: 35/45 MP: 4/4
+  2469 | D:4      | Found a hazy altar of Hepliaklqana.
+  2469 | D:4      | Noticed an ogre
+  2479 | D:4      | Reached skill level 6 in Axes
+  2482 | D:4      | Killed an ogre
+  2482 | D:4      | Reached skill level 5 in Armour
+  2482 | D:4      | Reached XP level 6. HP: 16/51 MP: 5/5
+  2802 | D:4      | Reached skill level 7 in Axes
+  2900 | D:4      | Found a staircase to the Ecumenical Temple.
+  2913 | Temple   | Entered the Ecumenical Temple
+  2927 | Temple   | Became a worshipper of Warmaster Okawaru
+  2957 | D:4      | Noticed Blork the orc
+  3081 | D:5      | Entered Level 5 of the Dungeon
+  3330 | D:5      | Reached skill level 8 in Axes
+  3330 | D:5      | Reached XP level 7. HP: 27/57 MP: 6/6
+  3730 | D:5      | Reached * piety under Okawaru
+  3897 | D:5      | Got a faintly glowing ring mail
+  3908 | D:5      | Identified the +0 ring mail "Nirynuos" {Int+5} (You found it on level 5 of the Dungeon)
+  4166 | D:6      | Reached skill level 9 in Axes
+  4389 | D:6      | Reached XP level 8. HP: 15/64 MP: 7/7
+  4886 | D:6      | Reached ** piety under Okawaru
+  4886 | D:6      | Reached skill level 10 in Axes
+  5138 | D:7      | Noticed Joseph
+  5243 | D:7      | Killed Joseph
+  5243 | D:7      | Reached skill level 11 in Axes
+  5499 | D:7      | Noticed Dowan
+  5535 | D:7      | Killed Dowan
+  5691 | D:7      | Noticed Duvessa
+  6066 | D:8      | Noticed a two-headed ogre
+  6086 | D:6      | Killed a two-headed ogre
+  6086 | D:6      | Reached skill level 12 in Axes
+  6086 | D:6      | Reached XP level 9. HP: 10/70 MP: 8/8
+  6668 | D:7      | Reached skill level 13 in Axes
+  6882 | D:7      | Killed Duvessa
+  6979 | D:7      | Reached *** piety under Okawaru
+  7318 | D:8      | Reached skill level 14 in Axes
+  7903 | D:8      | Noticed Maurice
+  7928 | D:8      | Killed Maurice
+  7928 | D:8      | Reached skill level 15 in Axes
+  8095 | D:8      | Reached XP level 10. HP: 75/77 MP: 9/9
+  8541 | D:9      | Found a burning altar of Makhleb.
+  8584 | D:9      | Noticed Grum
+  8678 | D:9      | Killed Grum
+  8760 | D:9      | Found a white marble altar of Elyvilon.
+  9057 | D:9      | Reached **** piety under Okawaru
+  9170 | D:9      | Noticed a two-headed ogre
+  9180 | D:9      | Killed a two-headed ogre
+  9180 | D:9      | Reached skill level 16 in Axes
+  9982 | D:10     | Entered Level 10 of the Dungeon
+ 10262 | D:10     | Reached XP level 11. HP: 102/102 MP: 10/10
+ 11159 | D:11     | Got a steaming steel ring
+ 11161 | D:11     | Identified the ring "Uloluxyr" {Ice Int+2 Slay+2} (You found it on level 11 of the Dungeon)
+ 11175 | D:11     | Noticed a two-headed ogre
+ 11182 | D:11     | Killed a two-headed ogre
+ 11182 | D:11     | Reached ***** piety under Okawaru
+ 11349 | D:11     | Noticed an oklob plant
+ 11391 | D:11     | Reached skill level 10 in Armour
+ 11605 | D:11     | Noticed an oklob plant
+ 11750 | D:11     | Noticed a two-headed ogre
+ 11757 | D:11     | Reached skill level 1 in Invocations
+ 11764 | D:11     | Killed a two-headed ogre
+ 11764 | D:11     | Reached XP level 12. HP: 61/110 MP: 8/12
+ 12574 | D:11     | Found a staircase to the Lair.
+ 12588 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 12603 | Lair:1   | Noticed a six-headed hydra
+ 12611 | Lair:1   | Killed a six-headed hydra
+ 12611 | Lair:1   | Received a gift from Okawaru
+ 12687 | Lair:1   | Noticed a four-headed hydra
+ 12704 | Lair:1   | Killed a four-headed hydra
+ 12704 | Lair:1   | Reached skill level 5 in Invocations
+ 12928 | Lair:1   | Reached skill level 17 in Axes
+ 13032 | Lair:1   | Noticed a four-headed hydra
+ 13043 | Lair:1   | Killed a four-headed hydra
+ 13888 | Lair:2   | Noticed a six-headed hydra
+ 13904 | Lair:2   | Killed a six-headed hydra
+ 13904 | Lair:2   | Received a gift from Okawaru
+ 14567 | Lair:2   | Found a staircase to the Snake Pit.
+ 15249 | Lair:3   | Reached skill level 18 in Axes
+ 15462 | Lair:3   | Found a staircase to the Swamp.
+ 15494 | Lair:3   | Noticed Mash's ghost (journeyman MiFi)
+ 15579 | Lair:2   | Reached XP level 13. HP: 20/119 MP: 7/15
+ 16327 | Lair:3   | Killed Mash's ghost
+ 17734 | Lair:4   | Received a gift from Okawaru
+ 17735 | Lair:4   | Got a sapphire shortbow {god gift}
+ 17736 | Lair:4   | Identified the +1 shortbow "Vyxivvoe" {velocity, Int+4} (Okawaru gifted it to you on level 4 of the Lair of Beasts)
+ 17926 | Lair:4   | Noticed Josephine
+ 17945 | Lair:4   | Killed Josephine
+ 19543 | Lair:5   | Reached skill level 19 in Axes
+ 19857 | Lair:5   | Reached skill level 1 in Evocations
+ 20188 | Lair:5   | Received a gift from Okawaru
+ 20451 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 21000 | Lair:5   | Reached skill level 5 in Evocations
+ 21532 | Lair:6   | Reached XP level 14. HP: 104/127 MP: 18/18
+ 21987 | Lair:5   | Received a gift from Okawaru
+ 21989 | Lair:5   | Got a steaming executioner's axe {god gift}
+ 21990 | Lair:5   | Identified the +4 executioner's axe "Upiusol" {elec, Dex+4} (Okawaru gifted it to you on level 5 of the Lair of Beasts)
+ 23756 | Lair:6   | Received a gift from Okawaru
+ 24098 | Lair:5   | Reached skill level 20 in Axes
+ 24624 | Lair:6   | Found a viscous altar of Jiyva.
+ 24624 | Lair:6   | Found a staircase to the Slime Pits.
+ 26429 | D:12     | Noticed Frances
+ 26447 | D:12     | Killed Frances
+ 26447 | D:12     | Reached XP level 15. HP: 76/138 MP: 11/19
+ 26728 | D:12     | Received a gift from Okawaru
+ 27649 | D:12     | Found a staircase to the Orcish Mines.
+ 27899 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 27937 | D:12     | Reached skill level 21 in Axes
+ 28116 | Orc:1    | Found a frozen archway.
+ 28125 | IceCv    | Entered an ice cave
+ 28538 | IceCv    | Received a gift from Okawaru
+ 28539 | IceCv    | Got an ichor-stained scarf {god gift}
+ 28550 | IceCv    | Identified the scarf of the Armoured One {-Tele rCorr Str+9 Int+6} (Okawaru gifted it to you in an ice cave)
+ 28730 | IceCv    | Noticed a frost giant
+ 28741 | IceCv    | Killed a frost giant
+ 29837 | Orc:1    | Noticed Erica
+ 29844 | Orc:1    | Killed Erica
+ 29949 | Orc:1    | Noticed an orc warlord
+ 30161 | D:12     | Killed an orc warlord
+ 30538 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 31144 | Orc:2    | Found a staircase to the Elven Halls.
+ 31298 | Orc:2    | Found Taceugh's Book Boutique.
+ 31393 | Orc:2    | Slain by an orc warrior
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 |
+---------------+----------------------------------------------+-----
+Axes           |  3     4  5  6  8  9 12 15 16    18 19 20 21 | 21.9
+Armour         |     4        5     7          10 11    12 13 | 13.8
+Fighting       |                            11    12    14    | 14.3
+Invocations    |                                2  5  7       |  7.9
+Evocations     |                                      6       |  6.7
+Shields        |                                              |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |    96 |   143 |   293 |   385 |       ||   917
+       Headbutt          |    12 |    21 |    47 |   120 |   240 ||   440
+       Battleaxe         |       |       |       |   127 |   332 ||   459
+       Morningstar       |       |       |       |    39 |    68 ||   107
+       Executioner's axe |       |       |       |       |   655 ||   655
+       Broad axe         |       |       |       |       |    12 ||    12
+Throw: Javelin           |       |     1 |     3 |     4 |       ||     8
+       Tomahawk          |       |       |     1 |       |       ||     1
+Invok: Heroism           |       |       |     2 |    10 |    17 ||    29
+       Finesse           |       |       |       |     3 |    10 ||    13
+ Abil: Stop Flying       |       |       |       |       |     1 ||     1
+       Evoke Flight      |       |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |     7 |     1 |     3 ||    11
+       Lightning rod     |       |       |       |       |     5 ||     5
+  Use: Potion            |       |     1 |     2 |     1 |     7 ||    11
+       Scroll            |       |     6 |     6 |    17 |     6 ||    35
+  Eat: Chunk             |     1 |     4 |     2 |    14 |    11 ||    32
+       Royal jelly       |       |     2 |       |     1 |     3 ||     6
+       Bread ration      |       |       |     3 |     2 |     2 ||     7
+       Fruit             |       |       |       |     1 |     5 ||     6
+       Meat ration       |       |       |       |       |     4 ||     4
+Armor: Scale mail        |    40 |    47 |    16 |       |       ||   103
+       Chain mail        |       |       |   113 |    38 |       ||   151
+       Plate armour      |       |       |       |   200 |   677 ||   877
+Dodge: Dodged            |    35 |    45 |    55 |    88 |   388 ||   611
+       Deflected         |       |       |       |       |    10 ||    10
+Block: Shield            |    41 |    76 |   106 |   155 |       ||   378
+       Other             |       |       |       |     7 |    61 ||    68
+       Buckler           |       |       |       |       |    26 ||    26
+

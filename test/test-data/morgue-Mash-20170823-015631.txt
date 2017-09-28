@@ -1,0 +1,153 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+12 Mash the Shield-Bearer (level 2, 0/26 HPs)
+             Began as a Minotaur Fighter on Aug 22, 2017.
+             Succumbed to an adder's poison
+             ... on level 2 of the Dungeon on Aug 23, 2017.
+             The game lasted 00:01:51 (305 turns).
+
+Mash the Shield-Bearer (Minotaur Fighter)            Turns: 305, Time: 00:01:51
+
+Health: 0/26       AC:  6    Str: 25    XL:     2   Next: 20%
+Magic:  1/1        EV:  7    Int:  5    God:    
+Gold:   36         SH:  9    Dex:  9    Spells: 1/1 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+Regen    0.1/turn               (no ring)
+MPRegen  0.1/turn               (no ring)
+
+@: mighty, lethally poisoned (0 -> -7)
+A: retaliatory headbutt, horns 2
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 36 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Scrolls
+ e - 3 scrolls of identify {unknown}
+Potions
+ d - 3 potions of might
+Comestibles
+ f - a bread ration
+
+
+   Skills:
+ - Level 3.6 Fighting
+ * Level 3.5 Axes
+ - Level 3.6 Armour
+ - Level 3.6 Shields
+
+
+You had one spell level left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+* * * LOW HITPOINT WARNING * * *
+You feel sick. You block the adder's attack.
+There is a stone staircase leading up here.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. You block the adder's attack.
+You climb upwards.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+There is a stone staircase leading down here.
+You feel very mighty all of a sudden.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder bites you but does no damage. You block the adder's attack.
+You barely miss the adder. Your headbutt misses the adder.
+The adder is moderately wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. You block the adder's attack. The adder barely misses you.
+Your shield prevents you from hitting the adder.
+Your headbutt misses the adder.
+The adder is moderately wounded.
+You die...
+
+       .............
+       .............
+.       ...........
+..      ... ......
+...######.# #...#
+..........# #...#
+..........###...#
+............S@..#
+ ##....<#.##.##.#
+#......#...#.#  #
+#......+.......
+#......#...#.##
+###...##...#...
+  #... .......##
+  ###. #......#
+    ..  ......
+
+
+You could see an adder.
+
+Vanquished Creatures
+  A giant cockroach (D:1)
+  4 hobgoblins (D:1)
+  2 bats (D:1)
+  A frilled lizard (D:1)
+  A kobold (D:1)
+  4 rats (D:1)
+13 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   147 | D:1      | Reached XP level 2. HP: 22/26 MP: 1/1
+   304 | D:2      | HP: 1/26 [poisoned by an adder]
+   305 | D:2      | Succumbed to an adder's poison
+
+Skill      XL: |  1 |
+---------------+----+-----
+Axes           |  3 |  3.5
+Fighting       |    |  3.6
+Armour         |    |  3.6
+Shields        |    |  3.6
+
+Action                   || total
+-------------------------++-------
+Melee: War axe           ||    32
+       Headbutt          ||     5
+  Use: Potion            ||     1
+Armor: Scale mail        ||    17
+Dodge: Dodged            ||    12
+Block: Shield            ||    15
+

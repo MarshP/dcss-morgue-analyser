@@ -4,9 +4,9 @@ A Python program to analyse your [Dungeon Crawl Stone Soup](https://github.com/c
 
 * **Version:** 0.1 'mucking about with python'
 * **Release date:** tba
-* **Author:** MarshP (marshp.vcs@gmail)
+* **Maintainer:** MarshP (marshp.vcs@gmail)
 
-**If you're here for a useful tool, best turn back now.** I'm doing this to help me learn Python; it won't be in any way useful for a long time. Then I'll remove this note.
+**This tool is in pre-pre-nascent-alpha** I'm doing this to help me learn Python, though other contributions may make it somewhat useful.
 
 ### Documentation
 

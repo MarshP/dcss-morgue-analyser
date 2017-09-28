@@ -1,0 +1,385 @@
+ Dungeon Crawl Stone Soup version 0.20.1 (tiles) character file.
+
+11679 Mash the Severer (level 11, -5/82 HPs)
+             Began as a Hill Orc Abyssal Knight on Aug 29, 2017.
+             Was an Elder of Lugonu.
+             Hit by a large rock thrown by a cyclops (14 damage)
+             ... on level 11 of the Dungeon.
+             The game lasted 00:50:44 (13353 turns).
+
+Mash the Severer (Hill Orc Abyssal Knight)         Turns: 13353, Time: 00:50:45
+
+Health: -5/82      AC: 18    Str: 21    XL:     11   Next: 81%
+Magic:  20/20      EV:  4    Int: 12    God:    Lugonu [****..]
+Gold:   208        SH:  9    Dex: 10    Spells: 10/10 levels left
+
+rFire    . . .     SeeInvis .   n - +0 war axe
+rCold    . . .     Gourm    .   g - +0 shield
+rNeg     . . .     Faith    +   h - +0 plate armour
+rPois    .         Spirit   .   V - +2 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  a - +0 pair of boots
+Stlth    ..........             u - amulet of faith
+Regen    0.3/turn               m - +2 ring of strength
+MPRegen  0.2/turn               B - +3 ring of slaying
+
+@: very slightly contaminated
+A: no striking features
+a: Depart the Abyss, Bend Space, Banish, Corrupt, Renounce Religion
+
+
+You were on level 11 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was greatly pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 11 of its levels.
+You visited the Abyss 1 time.
+
+You collected 458 gold pieces.
+You spent 250 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ n - a +0 war axe (weapon)
+ Q - a +0 morningstar
+Armour
+ a - a +0 pair of boots (worn)
+ g - a +0 shield (worn)
+ h - a +0 plate armour (worn)
+ r - a +1 ring mail of magic resistance
+ V - a +2 helmet (worn)
+ W - a cursed +0 cloak
+Jewellery
+ e - an uncursed ring of ice
+ l - an uncursed ring of flight
+ m - a +2 ring of strength (left hand)
+ u - an amulet of faith (around neck)
+ A - an uncursed ring of poison resistance
+ B - a +3 ring of slaying (right hand)
+Wands
+ C - a wand of flame (18/48)
+ D - a wand of iceblast (0/15)
+ G - a wand of flame (14/48)
+ K - a wand of iceblast (0/15)
+ R - a wand of polymorph (15/24)
+Scrolls
+ d - 2 scrolls of magic mapping
+ f - 4 scrolls of teleportation
+ i - 3 scrolls of enchant weapon
+ j - 3 scrolls of remove curse
+ t - 5 scrolls of fog
+ v - a scroll of amnesia
+ w - a scroll of blinking
+ z - a scroll of noise
+ E - a scroll of vulnerability {unknown}
+ I - a scroll of holy word {unknown}
+ J - a scroll of recharging {unknown}
+ L - 2 scrolls of enchant armour {unknown}
+ O - a scroll of random uselessness {unknown}
+Potions
+ o - a potion of berserk rage {unknown}
+ p - 4 potions of curing
+ s - a potion of magic {unknown}
+ x - 5 potions of agility
+ F - 3 potions of cancellation
+ H - a potion of flight
+ M - 2 potions of lignification
+ T - a potion of invisibility {unknown}
+Books
+ b - a book of Clouds   
+   
+    Spells                             Type                      Level
+    a - Poisonous Vapours            Poison/Air                    2
+    b - Mephitic Cloud               Conjuration/Poison/Air        3
+    c - Conjure Flame                Conjuration/Fire              3
+    d - Freezing Cloud               Conjuration/Ice/Air           6
+    e - Ring of Flames               Charms/Fire                   7
+ S - a book of Necromancy   
+   
+    Spells                             Type                      Level
+    a - Pain                         Necromancy                    1
+    b - Animate Skeleton             Necromancy                    1
+    c - Vampiric Draining            Necromancy                    3
+    d - Regeneration                 Charms/Necromancy             3
+    e - Animate Dead                 Necromancy                    4
+    f - Control Undead               Necromancy                    4
+Comestibles
+ c - 8 bread rations
+ k - a chunk of flesh
+ q - a meat ration
+ P - 3 royal jellies
+
+
+   Skills:
+ - Level 3.6 Fighting
+ * Level 16.2 Axes
+ - Level 8.5 Armour
+ - Level 0.7 Dodging
+ * Level 4.4 Shields
+ + Level 12.5 Invocations
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (0/1) D:7            Lair (0/6) D:11
+   Orc: D:9-12      
+
+Altars:
+Fedhas
+Vehumet
+Xom
+Yredelemnul
+
+Shops:
+D:9 !
+
+Annotations:
+D:3 1 runed door
+
+Message History
+
+You block the orc's attack.
+Space bends around you! You blink. The cyclops throws a large rock. The large rock hits you.
+* * * LOW HITPOINT WARNING * * *
+An orc priest comes into view. It is wielding a hand axe.
+The orc priest shouts!
+The cyclops throws a large rock. The large rock hits you!
+* * * LOW HITPOINT WARNING * * *
+You see here a large rock.
+Blink to where?
+Press: ? - help, Dir - move target cursor
+You are very lightly contaminated with residual magic.
+As you read the scroll of blinking, it crumbles to dust.
+A cyclops comes into view.
+Blink to where?
+Press: ? - help, Dir - move target cursor
+As you read the scroll of blinking, it crumbles to dust.
+The cyclops throws a large rock. You block the large rock.
+Found a stone staircase leading up.
+The cyclops throws a large rock. The large rock hits you!
+You die...
+
+    #..........
+    #...........
+    #...........
+    #...........
+.####..................
+.....................W.
+....<>.............%...
+.......@...............
+........(..............
+..............PP.P......
+..............P...?......
+#.....####P..............
+##.###  #..P.P...........
+ #.    ##PP....P..?....y.
+ #     #.....)C?PP.P..?..
+       #...§......P...P..
+     .##.P.....>.....PP..
+    #...P....P?.÷=....P..
+    ##........P(?......#.
+     #..#.P...........##
+
+
+You could see a cyclops.
+
+Vanquished Creatures
+  Harold (D:11)
+  2 two-headed ogres
+  A cyclops (D:10)
+  Maurice (D:11)
+  5 slime creatures (D:10)
+  2 hippogriffs (D:8)
+  3 yaks (D:10)
+  A basilisk (D:10)
+  A wraith (D:11)
+  4 hogs (D:8)
+  A wyvern (D:9)
+  A human (D:8)
+  4 vampire mosquitoes (D:9)
+  Menkaure (D:7)
+  A soldier ant (D:11)
+  An acid dragon (D:11)
+  2 porcupines (D:11)
+  2 orc warriors
+  3 black bears
+  5 ice beasts
+  3 phantoms
+  A sky beast (D:9)
+  2 ogres (D:7)
+  3 wolves
+  4 centaurs
+  A crocodile (D:11)
+  2 big kobolds
+  5 bullfrogs
+  A gnoll sergeant (D:8)
+  4 scorpions
+  A howler monkey (D:11)
+  A bullfrog zombie (D:8)
+  4 crimson imps
+  A centaur zombie (D:10)
+  3 hounds
+  A quasit (D:9)
+  2 jellies
+  A bullfrog skeleton (D:9)
+  14 orc wizards
+  Terence (D:3)
+  9 orc priests
+  Jessica (D:2)
+  2 iguanas
+  5 worker ants
+  A worker ant zombie (D:5)
+  10 gnolls
+  A howler monkey skeleton (D:4)
+  10 adders
+  An ooze (D:2)
+  An adder zombie (D:5)
+  An adder skeleton (D:5)
+  4 worms
+  A leopard gecko (D:3)
+  36 orcs
+  3 ball pythons
+  8 bats
+  6 giant cockroaches
+  11 goblins
+  10 hobgoblins
+  11 jackals
+  14 kobolds
+  2 quokkas
+  5 frilled lizards
+  A giant cockroach zombie (D:6)
+  23 rats
+  A fungus (D:11)
+  4 plants (D:11)
+279 creatures vanquished.
+
+Vanquished Creatures (others)
+  A two-headed ogre (D:8)
+  The ghost of Mash the Severer, a novice MiFi of Okawaru (D:8)
+  The ghost of Mash the Cleaver, a novice MiFi of Okawaru (D:7)
+  A yak (D:8)
+  A basilisk (D:11)
+  An orc warrior (D:7)
+  A howler monkey (D:10)
+  An iguana (D:8)
+  An adder (D:8)
+  A shadow imp (D:8)
+  An orc (D:8)
+11 creatures vanquished.
+
+Grand Total: 290 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Mash the Hill Orc Abyssal Knight began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 19/19 MP: 2/2
+   126 | D:1      | Escaped the Abyss
+   243 | D:1      | Reached skill level 3 in Axes
+   256 | D:1      | Reached * piety under Lugonu
+   489 | D:1      | Reached XP level 2. HP: 26/26 MP: 3/3
+   711 | D:1      | Reached skill level 4 in Axes
+  1194 | D:1      | Reached XP level 3. HP: 29/31 MP: 4/4
+  2335 | D:2      | Reached skill level 5 in Axes
+  2362 | D:2      | Noticed Jessica
+  2378 | D:2      | Killed Jessica
+  2378 | D:2      | Reached ** piety under Lugonu
+  2378 | D:2      | Reached XP level 4. HP: 39/39 MP: 6/6
+  2491 | D:2      | Reached skill level 6 in Axes
+  2665 | D:2      | Reached XP level 5. HP: 45/45 MP: 7/7
+  3288 | D:3      | Reached skill level 7 in Axes
+  3498 | D:3      | Found a basalt altar of Yredelemnul.
+  3503 | D:3      | Found a radiant altar of Vehumet.
+  3503 | D:3      | Found a blossoming altar of Fedhas.
+  3532 | D:3      | Reached *** piety under Lugonu
+  3674 | D:3      | Reached XP level 6. HP: 37/51 MP: 8/8
+  3975 | D:3      | Found a runed door.
+  4128 | D:3      | Noticed Terence
+  4162 | D:3      | Killed Terence
+  4599 | D:4      | Reached skill level 8 in Axes
+  4755 | D:4      | Noticed a phantom
+  4807 | D:4      | Killed a phantom
+  4807 | D:4      | Reached skill level 5 in Invocations
+  4807 | D:4      | Reached XP level 7. HP: 52/57 MP: 9/11
+  5082 | D:5      | Entered Level 5 of the Dungeon
+  5524 | D:5      | Reached skill level 9 in Axes
+  5832 | D:5      | Reached **** piety under Lugonu
+  6165 | D:5      | Reached XP level 8. HP: 59/64 MP: 13/13
+  6543 | D:6      | Reached skill level 10 in Axes
+  7164 | D:7      | Found a staircase to the Ecumenical Temple.
+  7299 | D:7      | Reached skill level 11 in Axes
+  7299 | D:7      | Reached XP level 9. HP: 53/70 MP: 15/15
+  7305 | D:7      | Noticed Mash's ghost (novice MiFi)
+  7307 | D:7      | Banished Mash's ghost
+  7450 | D:7      | Noticed Menkaure
+  7455 | D:7      | Killed Menkaure
+  7455 | D:7      | Reached skill level 5 in Armour
+  7794 | D:7      | Reached skill level 12 in Axes
+  8236 | D:8      | Noticed Mash's ghost (novice MiFi)
+  8564 | D:9      | Reached skill level 10 in Invocations
+  8944 | D:9      | Found Juusm's Distillery.
+  8957 | D:9      | Reached XP level 10. HP: 71/77 MP: 17/17
+  8973 | D:9      | Reached skill level 13 in Axes
+  8980 | D:9      | Bought a potion of mutation for 80 gold pieces
+  8980 | D:9      | Bought 2 potions of degeneration for 20 gold pieces
+  8980 | D:9      | Bought a potion of haste for 100 gold pieces
+  8980 | D:9      | Bought a potion of heal wounds for 50 gold pieces
+  9166 | D:10     | Entered Level 10 of the Dungeon
+  9637 | D:9      | Noticed a two-headed ogre
+  9645 | D:9      | Killed a two-headed ogre
+  9990 | D:8      | Banished Mash's ghost
+  9990 | D:8      | Reached skill level 14 in Axes
+ 10000 | D:8      | Killed a two-headed ogre
+ 10201 | D:8      | Noticed a two-headed ogre
+ 10211 | D:8      | Killed a two-headed ogre
+ 10534 | D:8      | Found a shimmering altar of Xom.
+ 10607 | D:8      | Reached XP level 11. HP: 63/82 MP: 19/19
+ 10614 | D:8      | Reached skill level 15 in Axes
+ 11035 | D:10     | Noticed a cyclops
+ 11059 | D:10     | Killed a cyclops
+ 11991 | D:10     | Reached skill level 1 in Shields
+ 12536 | D:11     | Noticed Harold
+ 12784 | D:11     | Killed Harold
+ 12784 | D:11     | Reached skill level 16 in Axes
+ 12995 | D:11     | Found a staircase to the Lair.
+ 13076 | D:11     | Noticed Maurice
+ 13101 | D:11     | Killed Maurice
+ 13106 | D:11     | Noticed a cyclops
+ 13351 | D:11     | Noticed a cyclops
+ 13353 | D:11     | Hit by a large rock thrown by a cyclops
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Axes           |  3  4  5  6  7  8  9 11 12 14 16 | 16.2
+Invocations    |              3  5  7  8 10 11 12 | 12.5
+Armour         |                       4  6  7  8 |  8.5
+Shields        |                                4 |  4.4
+Fighting       |                                  |  3.6
+Dodging        |                                  |  0.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Hand axe          |   140 |   161 |   332 |   126 ||   759
+       War axe           |       |       |       |   276 ||   276
+Invok: Depart the Abyss  |     1 |       |       |       ||     1
+       Bend Space        |       |     1 |       |     3 ||     4
+       Banish            |       |       |     3 |     7 ||    10
+Evoke: Wand              |       |       |       |    10 ||    10
+  Use: Scroll            |       |     5 |     8 |     8 ||    21
+       Potion            |       |       |     2 |     4 ||     6
+  Eat: Chunk             |     5 |     4 |     4 |     3 ||    16
+       Royal jelly       |       |     2 |     1 |     2 ||     5
+       Fruit             |       |       |     4 |       ||     4
+       Meat ration       |       |       |     1 |     2 ||     3
+Armor: Leather armour    |     8 |       |       |       ||     8
+       Plate armour      |    64 |    86 |   157 |   223 ||   530
+Dodge: Dodged            |    44 |    39 |    63 |    86 ||   232
+Block: Shield            |       |       |       |    51 ||    51
+

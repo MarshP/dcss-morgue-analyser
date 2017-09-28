@@ -1,0 +1,148 @@
+ Dungeon Sprint DCSS version 0.20.1 (tiles) character file.
+
+27 Mash the Chopper (level 2, -9/26 HPs)
+             Began as a Minotaur Fighter on Aug 23, 2017.
+             Mangled by an ogre
+             ... wielding a +0 giant club
+              (17 damage)
+             ... in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:00:33 (15 turns).
+
+Mash the Chopper (Minotaur Fighter)                   Turns: 15, Time: 00:00:33
+
+Health: -9/26      AC:  6    Str: 25    XL:     2   Next: 93%
+Magic:  1/1        EV:  7    Int:  5    God:    
+Gold:   0          SH:  9    Dex:  9    Spells: 1/1 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....     NoTele   +   (no boots)
+Stlth    ..........             (no amulet)
+Regen    0.1/turn               (no ring)
+MPRegen  0.1/turn               (no ring)
+
+@: mighty
+A: retaliatory headbutt, horns 2
+a: no special abilities
+
+
+You were in the Dungeon.
+You were not hungry.
+
+You visited 1 branch
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Scrolls
+ k - a scroll of blinking
+Potions
+ e - a potion of curing
+ g - a potion of heal wounds
+ h - a potion of haste
+ i - 2 potions of magic
+ j - a potion of berserk rage
+Comestibles
+ f - a bread ration
+ l - 2 chunks of flesh
+
+
+   Skills:
+ - Level 3.6 Fighting
+ * Level 7.5 Axes
+ - Level 3.6 Armour
+ - Level 3.6 Shields
+
+
+You had one spell level left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Things that are here:
+a club; a scale mail; the goblin corpse of Ijyb
+You butcher the goblin corpse of Ijyb.
+l - 2 chunks of flesh
+Things that are here:
+a club; a scale mail
+As you open the door, it creaks loudly!
+An ogre comes into view. It is wielding a giant club.
+The ogre shouts!
+You block the ogre's attack.
+There is an open door here.
+You slash the ogre!
+The ogre is moderately wounded.
+The ogre hits you with a giant club!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+You feel very mighty all of a sudden.
+The ogre hits you with a giant club!
+Ouch! That really hurt!
+You die...
+
+##########
+#<.#..@O.#
+#..').#..+
+#..#####+#
+#..#
+#..#
+#..#
+#((#
+####
+
+
+You could see an ogre.
+
+Vanquished Creatures
+  Ijyb (D)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Mash the Minotaur Fighter began the quest for the Orb.
+     0 | D        | Reached XP level 1. HP: 19/19 MP: 0/0
+     1 | D        | Noticed Ijyb
+     7 | D        | Killed Ijyb
+     7 | D        | Reached skill level 7 in Axes
+     7 | D        | Reached XP level 2. HP: 22/26 MP: 1/1
+    12 | D        | Noticed an ogre
+    15 | D        | Mangled by an ogre
+
+Skill      XL: |  1 |
+---------------+----+-----
+Axes           |  7 |  7.5
+Fighting       |    |  3.6
+Armour         |    |  3.6
+Shields        |    |  3.6
+
+Action                   || total
+-------------------------++-------
+Melee: War axe           ||     6
+       Headbutt          ||     2
+  Use: Potion            ||     1
+Armor: Scale mail        ||     4
+Dodge: Dodged            ||     1
+Block: Shield            ||     1
+
