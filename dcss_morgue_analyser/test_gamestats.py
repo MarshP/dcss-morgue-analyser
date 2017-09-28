@@ -12,7 +12,9 @@ from game_stats import GameStats,StatColumn
 
 class OutputType(Enum):
     Console = 1
-    File = 2
+    TextFile = 2
+    Markdown = 3
+    HTML = 4
 
 
 # TODO manage program output type
@@ -33,8 +35,13 @@ def write_file(data):
 
 
 def write_percharacter_stats(gamestats, list_character):
+    write_file("-" * 50)
+    write_file("-" * 50)
+    write_file("                   PER CHARACTER STATISTIC")
+    write_file("-" * 50)
+    write_file("-" * 50)
     for lc in list_character:
-        lcstat = gamestats.get_filtered_stat(lc)
+        lcstat = gamestats.get_char_filtered_stat(lc)
         write_file("-" * 50)
         write_file("Statistic for : {}".format(lc))
         write_file("Number of games played : {}".format(gamestats.get_number_of_game(lcstat)))
@@ -49,6 +56,28 @@ def write_percharacter_stats(gamestats, list_character):
         for k in sorted_simplestat:
             s = s + "{} ({} times)\n".format(k[0], k[1])
         write_file("Killed most in : {}".format(s))
+
+        write_file("Best game : {}".format(gamestats.get_best_game(lcstat)))
+        write_file("Average Score : {}".format(gamestats.get_averagescore(lcstat)))
+
+
+def write_perdungeonlevel_stats(gamestats, list_dungeonlevel):
+    write_file("-" * 50)
+    write_file("-" * 50)
+    write_file("                   PER DUNGEON STATISTIC")
+    write_file("-" * 50)
+    write_file("-" * 50)
+    for lc in list_dungeonlevel:
+        lcstat = gamestats.get_filtered_stat(lc,StatColumn.dun_lev)
+        write_file("-" * 50)
+        write_file("Statistic for : {}".format(lc))
+        write_file("Number of games played : {}".format(gamestats.get_number_of_game(lcstat)))
+        sorted_simplestat = gamestats.get_stat_basic(StatColumn.death_cause, lcstat)
+        s = "\n"
+        for k in sorted_simplestat:
+            s = s + "{} ({} times)\n".format(k[0], k[1])
+        write_file("Killed most by : {}".format(s))
+
 
         write_file("Best game : {}".format(gamestats.get_best_game(lcstat)))
         write_file("Average Score : {}".format(gamestats.get_averagescore(lcstat)))
@@ -77,7 +106,9 @@ def main():
     gamestats.analyze()
 
     write_file("-" * 50)
+    write_file("-" * 50)
     write_file("Number of games played : {}".format(gamestats.get_number_of_game()))
+    write_file("-" * 50)
     write_file("-" * 50)
 
     stat = gamestats.get_stat_basic(StatColumn.death_cause)
@@ -99,7 +130,8 @@ def main():
 
     list_character = gamestats.get_character_list()
     write_percharacter_stats(gamestats, list_character)
-
+    list_dunlevel=gamestats.get_stat_list(StatColumn.dun_lev)
+    write_perdungeonlevel_stats(gamestats,list_dunlevel)
     scorevol = gamestats.get_scoreevolution(type='day')
 
     with open('scorevol.csv', 'w') as csvfile:
