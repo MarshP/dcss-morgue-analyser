@@ -8,7 +8,7 @@ def main():
 
     log_format = "%(levelname)s - %(message)s - %(asctime)s - %(name)s"
     logging.basicConfig(filename=".\\morgue-analyser.log",
-                        level=logging.INFO,
+                        level=logging.DEBUG,
                         format=log_format,
                         filemode='w')
     logger = logging.getLogger(__name__)

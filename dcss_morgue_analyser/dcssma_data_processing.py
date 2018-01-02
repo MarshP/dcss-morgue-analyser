@@ -4,7 +4,7 @@ import logging
 
 log_format = "%(levelname)s - %(message)s - %(asctime)s - %(name)s"
 logging.basicConfig(filename=".\\morgue-analyser.log",
-                    level=logging.INFO,
+                    level=logging.DEBUG,
                     format=log_format,
                     filemode='w')
 logger = logging.getLogger(__name__)
@@ -51,8 +51,6 @@ def progress_stats(buffer, directory_path):
 
     count_games_regex = re.compile(r'(Began\sas\sa)')
     count_games_matches = re.findall(count_games_regex, buffer)
-    # print(count_games_matches)
-    # for match in count_games_matches:
     count_games += len(count_games_matches)
     logger.info('Processed ' + str(count_games) + ' files.')
 
@@ -66,7 +64,6 @@ def progress_stats(buffer, directory_path):
 
     main_dungeon_regex = re.compile(r'(Dungeon\s\((\d+)/(\d+)\))')
     main_dungeon_matches = re.findall(main_dungeon_regex, buffer)
-    print(main_dungeon_matches)
     for match in main_dungeon_matches:
         main_dungeon_floors_sum += int(match[1])
     main_dungeon_floors_avg = main_dungeon_floors_sum / len(main_dungeon_matches)
@@ -91,14 +88,14 @@ def progress_stats(buffer, directory_path):
 
     runes_regex = re.compile(r'((\d+)/(\d+)\srunes:)')
     runes_matches = re.findall(runes_regex, buffer)
-    print(runes_matches)
+    # (runes_matches)
     for match in runes_matches:
         runes_sum += int(match[1])
 
     if (len(runes_matches) > 0):
         runes_avg = runes_sum / len(runes_matches)
         games_per_rune = count_games/len(runes_matches)
-        print(len(runes_matches), runes_sum, runes_avg)
+        # print(len(runes_matches), runes_sum, runes_avg)
     else:
         runes_avg = 0
         games_per_rune = 0
@@ -106,14 +103,14 @@ def progress_stats(buffer, directory_path):
 
     three_runes_regex = re.compile(r'((3)/(\d+)\srunes:)')
     three_runes_matches = re.findall(three_runes_regex, buffer)
-    print(three_runes_matches)
+    # print(three_runes_matches)
     for match in three_runes_matches:
         three_runes_sum += int(match[1])
 
     if (len(three_runes_matches)>0):
         three_runes_avg = three_runes_sum / len(three_runes_matches)
         games_per_three_rune = count_games / len(three_runes_matches)
-        print(len(three_runes_matches), three_runes_sum, three_runes_avg)
+        # print(len(three_runes_matches), three_runes_sum, three_runes_avg)
     else:
         three_runes_avg = 0
         games_per_three_rune = 0
