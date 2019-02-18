@@ -371,8 +371,7 @@ i       From the stat structure in param , get the count of each possible value 
     @staticmethod
     def convert_date(day,month,year):
         # from DCSS source: hiscores.cc line 532
-        months=[ "Jan", "Feb", "Mar", "Apr", "May", "June","July", "Aug", "Sept", "Oct", "Nov", "Dec"]
-        rdate = datetime.date(int(year[:-1]),months.index(month)+1,int(day[:-1]))
+        months = ["Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug",
+                  "Sept", "Oct", "Nov", "Dec"]
+        rdate = datetime.date(int(year[:-1]), months.index(month)+1, int(day[:-1]))
         return rdate
-
-
