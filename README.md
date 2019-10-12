@@ -1,4 +1,11 @@
-## DCSS Morgue Analyser 
+## DCSS Morgue Analyser
+
+------------
+
+**Not Maintained** - (2019-09) This project was a learning excercise. Now we all play on the servers it's redundant.
+
+------------
+
 
 A Python program to analyse your [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) morgue folder, collate metrics, spot patterns and give hints.
 
